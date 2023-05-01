@@ -194,7 +194,7 @@ function trr(){
   }
   var group = groupdata[tr]
   if (group != undefined){
-    alert("Welcome! \n Your Orientation group is "+group+". \n Kindly check your daily schedule from the menu bar.")
+    alert("Welcome! \n Your Orientation group is \n"+group+". \n Kindly check your daily schedule from the menu bar.")
     document.cookie="group="+groupdata[tr]
     document.cookie="tr="+tr;
     gtag('event', 'TR_Entered', {'tr':tr});
