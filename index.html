@@ -223,7 +223,7 @@ function trr(){
   var group = groupdata[tr]
   if (group != undefined){
     navigator.vibrate(253);
-    alert("Welcome! \n Your Orientation group is \n"+group+". \n Your Group's schedule will be made available soon.")
+    alert("Welcome! \n Your Orientation group is \n"+group+". \n Your Group's schedule is available below.")
     document.cookie="group="+groupdata[tr]
     document.cookie="tr="+tr;
     gtag('event', 'TR_Entered', {'tr':tr});
