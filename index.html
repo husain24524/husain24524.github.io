@@ -65,8 +65,11 @@
   </div>
 </div>
 
-<center><button type="button" class="btn btn-danger"><a id="schedulepdf" style="color: white;" href="" onclick=" gtag('event', 'Downloaded Schedule', {'group':document.getCookie('group')});">Download Schedule PDF</a></button>
-<h6>*Schedule is subject to change. For most up-to-date information, keep checking this site regularly. </h6></center>
+<center>
+<img id="grouplogo" class="img-responsive" width="200em"><br>
+<button type="button" class="btn btn-danger"><a id="schedulepdf" style="color: white;" href="" onclick=" gtag('event', 'Downloaded Schedule', {'group':document.getCookie('group')});">Download Schedule PDF</a></button>
+<h6>*Schedule is subject to change. For most up-to-date information, keep checking this site regularly. </h6>
+</center>
 
 <script>
 if (getCookie("tr")!=undefined){
@@ -213,7 +216,8 @@ function trr(){
   if (group!=undefined){
     var pdfname="./schedules/"+group+".pdf"
     document.getElementById("schedulepdf").href=pdfname;
-    document.getElementById("schedulepdf").innerHTML=group + " Schedule PDF"
+    document.getElementById("schedulepdf").innerHTML=group + " Schedule PDF";
+    document.getElementById("grouplogo").src="./images/groups/"+group+".png"
   }
 }
   if (getCookie("group")!=undefined){getfullschedule ()}
