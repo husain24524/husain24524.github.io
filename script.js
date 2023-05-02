@@ -39,4 +39,6 @@ function getfullschedule (){
     document.getElementById("schedulepdf").innerHTML=group + " Schedule PDF"
   }
 }
-  
+function doneCookie(task){
+  document.cookie=task+"= 'done'"
+}

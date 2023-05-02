@@ -36,22 +36,45 @@
 
 
 
+  <!-- <nav id="Pending" class="navbar navbar-expand-lg navbar-light bg-info" hidden>
+    <a class="navbar-brand">Pending</a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarNav"
+      aria-controls="navbarNav"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <button id="qasida" onclick="doneCookie('qasida_done')" class="btn btn-warning"><a href="resources/QASIDA_DUA BOOKLET.pdf" download>Download Qasida PDF</a></button>
+          <button id="varta" onclick="doneCookie('varta_done')" class="btn btn-primary"><a href="resources/VARTA.pdf" download>Download Varta Instructions</a></button>
+          <button id="cold" onclick="doneCookie('cold_done')" class="btn btn-primary"><a href="resources/cold_prevention.pdf" download>Download Health Advisory</a></button>
+        </li>
+      </ul>
+    </div>
+  </nav> -->
+  
 <!-- Iltehaaq Logo -->
 <center><img src="images/logo.PNG" width="35%" style="max-width: 700px;" ></center>
  
 
 <!-- Modal for new Info -->
 <button id="myModalBtn" type="button" class="btn btn-primary hidden" data-toggle="modal" data-target="#myModal"></button>
-<div class="modal fade" id="myModal" role="dialog" >
+<div class="modal fade" id="myModal" role="dialog">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h4 class="modal-title">New Feedback Page!</h4>
+        <h4 class="modal-title">New Updates!</h4>
       </div>
-      <!-- <div class="modal-body">
-        <p>Here is a new form for you to fill.</p>
-        <center><button type="button" class="btn btn-danger"><a href="feedback.html" style="color: white;">Check it out!</a></button></center>
-      </div> -->
+      <div class="modal-body">
+
+      </div>
 
       <center><div id="trsubmit">
         Enter your Child's TR Number <br><br><input id="tr" type="number" ><br><br>
@@ -70,6 +93,7 @@
 <button type="button" class="btn btn-danger"><a id="schedulepdf" style="color: white;" href="" onclick=" gtag('event', 'Downloaded Schedule', {'group':document.getCookie('group')});">Download Schedule PDF</a></button>
 <h6>*Schedule may be subject to change. For most up-to-date information, keep checking this site regularly. </h6>
 </center>
+
 
 <script>
 if (getCookie("tr")!=undefined){
@@ -230,6 +254,28 @@ function healthpopup (){
   alert("Our records indicate you have not uploaded your health records to the JHS Portal. \nPlease submit your health records immediately so you receive approval from JHS. \nIf you have already submitted, kindly ignore this message. \nFor further queries, please contact Dr. Lilian. \n +254727891262")
 }
 </script>
+
+<!-- <script>
+  var list_of_cookies = [
+    getCookie("qasida_done"),
+    getCookie("varta_done"),
+    getCookie("cold_done")
+]
+  if (list_of_cookies.includes(undefined)){
+    document.getElementById("Pending").hidden=false;
+  }
+  for (var i =0; i++;i==list_of_cookies.length){
+
+  }
+</script> -->
+<style>
+  a{
+    color:bisque
+  }
+  a:hover{
+    color:white
+  }
+</style>
 
 </body>
 </html>
