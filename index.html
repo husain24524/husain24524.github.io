@@ -65,7 +65,8 @@
   </div>
 </div>
 
-
+<center><button type="button" class="btn btn-danger"><a id="schedulepdf" style="color: white;" href="">Download Schedule PDF</a></button>
+<h6>*Schedule is subject to change. For most up-to-date information, keep checking this site regularly. </h6></center>
 
 <script>
 if (getCookie("tr")!=undefined){
@@ -205,7 +206,9 @@ function trr(){
   
 }
 </script>
-
+<script>
+  if (getCookie("group")!=undefined){getfullschedule ()}
+</script>
 
 </body>
 </html>

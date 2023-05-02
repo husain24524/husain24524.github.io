@@ -31,5 +31,12 @@ function loadnavbar() {
     });
   }
   
-
+function getfullschedule (){
+  var group=(getCookie("group"))
+  if (group!=undefined){
+    var pdfname="./schedules/"+group+".pdf"
+    document.getElementById("schedulepdf").href=pdfname;
+    document.getElementById("schedulepdf").innerHTML=group + " Schedule PDF"
+  }
+}
   
