@@ -200,6 +200,7 @@ function trr(){
     document.cookie="group="+groupdata[tr]
     document.cookie="tr="+tr;
     gtag('event', 'TR_Entered', {'tr':tr});
+    location.reload()
   }else{
     alert("Not a valid TR Number. Please try again.")
   }
