@@ -53,3 +53,8 @@ function setPendingNavbar (){
     }
   }
 }
+
+// I have added code to certain buttons throughout my webpage to add a cookie that verifies that this button has been clicked
+// If that button has not been clicked yet by the user, I want a set of buttons to be generated on the homepage, one for each button that has not been clicked. 
+// the buttons should basically be the buttons that have yet to be clicked. 
+//each time the user clicks one of the buttons and finishes one of the pending tasks, the button from the homepage should disappear
