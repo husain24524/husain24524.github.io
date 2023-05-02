@@ -6,11 +6,12 @@ function getCookie(name) {
   }
 
 function modalDelay(){
+  if (getCookie("group")==undefined){
     $(document).ready(function(){
         setTimeout(function(){
             $('#myModal').modal('show');
         }, 1200);
-    });
+    });}
 }
 // 
 function chooseschedule (day){
