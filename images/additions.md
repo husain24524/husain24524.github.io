@@ -1,7 +1,15 @@
-add text for maktabat and admin
-create link to saahat
+
+comment in day1 page and navbar, and display photos
+
+add feedback to resourcebar
 
 add asatezaTR
+
+add favicon everywher
+
+
+add text for maktabat and admin
+create link to saahat
 
 create new feedback modal and
 make feedback modal appear at bottom right of page
@@ -14,20 +22,12 @@ gallery
 
 
 
-create new html for modal, or try to simplify modal
-
-improve cookie experience
-
 move trr to script.js
 move gtag to scriptjs
 
-create multiple modals
 
 
 change groupdata to add names as well
 
-move pages to navbar even on big screen
-
-add favicon
 
 improve fonts
