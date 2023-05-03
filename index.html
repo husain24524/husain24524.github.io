@@ -71,7 +71,7 @@ loadResourceBar();
 
 <center>
 <img id="grouplogo" class="img-responsive" width="200em"><br>
-<button type="button" class="btn btn-danger"><a id="schedulepdf" href="" style="color: white;" ontouchstart=" var group=getCookie('group') ;gtag('event', 'Downloaded Schedule', {'group':group});" onclick=" var group=getCookie('group') ;gtag('event', 'Downloaded Schedule', {'group':group});">Download Schedule PDF</a></button>  
+<button type="button" class="btn btn-danger"><a id="schedulepdf" href="" style="color: white;" onclick=" var group=getCookie('group') ;gtag('event', 'Downloaded Schedule', {'group':group});">Download Schedule PDF</a></button>  
 <h6>*Schedule may be subject to change. For most up-to-date information, keep checking this site regularly. </h6>
 </center>
 
@@ -261,6 +261,8 @@ setTimeout(trial,100)
     color:white
   }
 </style>
-
+<script>
+  document.getElementById("myButton").addEventListener("touchstart", trr());
+</script>
 </body>
 </html>
