@@ -3,7 +3,6 @@ comment in day1 page and navbar, and display photos
 
 add feedback to resourcebar
 
-add asatezaTR
 
 add favicon everywher
 
