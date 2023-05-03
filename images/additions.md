@@ -4,7 +4,7 @@ comment in day1 page and navbar, and display photos
 add feedback to resourcebar
 
 
-add favicon everywher
+add favicon everywhere
 
 
 add text for maktabat and admin
