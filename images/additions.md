@@ -6,6 +6,8 @@ add favicon everywhere
 
 when possible remove healthpopup
 
+add shaking
+
 asbaq venues tab
 gallery
 
