@@ -40,18 +40,15 @@ function getfullschedule (){
   }
 }
 function doneCookie(task){
-  document.cookie=task+"= 'done'"
+  document.cookie=task+"= done"
 }
 
-function setPendingNavbar (){
-  for (p in pending){
-    if (getCookie(cookie_name)==undefined){
-      //generate button with onclick equal to doneCookie(cookie_name) and innerhtml is <a href={href}>{name of button}</a>
-      //SOMEHOW add button element to pending navbar
-      //pending navbar.hidden = false;
+function loadResourceBar (){
+  var path = window.location.pathname;
+  var page = path.split("/").pop();
+  
+    $("#resourcebar-placeholder").load("resourcebar.html");
 
-    }
-  }
 }
 
 // I have added code to certain buttons throughout my webpage to add a cookie that verifies that this button has been clicked
