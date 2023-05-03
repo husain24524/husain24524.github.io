@@ -1,14 +1,7 @@
-add cookies to check whether resources have been added
-document.cookie=name_of_pdf_visited:true
-for index page
-if (getCookie(name_of_pdf)!=undefined){
-    doc get element id (modal) + = <button>
-}
-
 add text for maktabat and admin
 create link to saahat
 
-
+add asatezaTR
 
 create new feedback modal and
 make feedback modal appear at bottom right of page
