@@ -61,7 +61,7 @@ loadResourceBar();
 
       <center><div id="trsubmit">
         Enter your Child's TR Number <br><br><input id="tr" type="number" ><br><br>
-      <button id="submittr" type="button" class="btn btn-info" ontouchstart="trr()" onclick="trr()">Submit TR</button><br><br><br>
+      <button id="submittr" type="button" class="btn btn-info" ontouchstart="trr()" >Submit TR</button><br><br><br>
       </div></center>
 
       <div class="modal-footer">
@@ -220,6 +220,7 @@ function trr(){
   function getfullschedule (){
   var group=(getCookie("group"))
   if (group!=undefined){
+
     var pdfname="./schedules/"+group+".pdf"
     document.getElementById("schedulepdf").href=pdfname;
     document.getElementById("schedulepdf").innerHTML=group + " Schedule PDF";
