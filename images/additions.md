@@ -1,20 +1,10 @@
+AT NIGHT REMOVE FEEDBACK1POPUP REFER TO EMAIL
 
 comment in day1 page and navbar, and display photos
 
-add feedback to resourcebar
-
-
 add favicon everywhere
 
-
-add text for maktabat and admin
-create link to saahat
-
-create new feedback modal and
-make feedback modal appear at bottom right of page
-
-
-current day should blink https://www.geeksforgeeks.org/how-to-shake-an-image-using-css-keyframe/
+when possible remove healthpopup
 
 asbaq venues tab
 gallery
