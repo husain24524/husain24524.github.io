@@ -1,4 +1,6 @@
-AT NIGHT REMOVE FEEDBACK1POPUP REFER TO EMAIL
+add gallery dropdown with day images and href to days
+
+
 
 comment in day1 page and navbar, and display photos
 
