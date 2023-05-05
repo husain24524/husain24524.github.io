@@ -36,138 +36,77 @@ $(document).ready(loadnavbar);
 
 
   <!-- Page Content -->
-  <center><img src="images/day2.png" width="30%"></center>
-  <center><h3 id="schedulecaption"></h3>
+  <center><img src="images/day2.png" width="45%"></center>
 
-  
-  <div class="img-container" style="height: 30rem;">
-      <img id="schedule" src=""  style="height: 70%;"></center>
+
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="images/Day2/Dua1.JPG" class="d-block w-100" alt="Image 1">
+        <div class="text">Tilawat Dua</div>
+      </div>
+      <div class="carousel-item">
+        <img src="images/Day2/Dua2.JPG"  class="d-block w-100" alt="Image 2">
+        <div class="text">Tilawat Dua</div>
+      </div>
+      <div class="carousel-item">
+        <img src="images/Day2/Dua3.JPG"  class="d-block w-100" alt="Image 3">
+        <div class="text">Tilawat Dua</div>
+      </div>
+        <div class="carousel-item">
+          <img src="images/Day2/Dua4.JPG"  class="d-block w-100" alt="Image 2">
+          <div class="text">Tilawat Dua</div>
+        </div>
+        <div class="carousel-item">
+          <img src="images/Day2/Dua5.JPG"  class="d-block w-100" alt="Image 3">
+          <div class="text">Tilawat Dua</div>
+        </div>
+        <div class="carousel-item">
+          <img src="images/Day2/Orientation.JPG" class="d-block w-100" alt="Image 3">
+          <div class="text">Orientation Program</div>
+        </div>
+        <div class="carousel-item">
+          <img src="images/Day2/Orientation (2).JPG" class="d-block w-100" alt="Image 2">
+          <div class="text">Orientation Program</div>
+        </div>
+        <div class="carousel-item">
+          <img src="images/Day2/Exercise-Orientation.JPG" class="d-block w-100" alt="Image 3">
+          <div class="text">Excercise - Orientation Program</div>
+        </div>
+          <div class="carousel-item">
+            <img src="images/Day2/Quran Tasmee 1.JPG" class="d-block w-100" alt="Image 1">
+            <div class="text">Quran Tasmee</div>
+          </div>
+          <div class="carousel-item">
+            <img src="images/Day2/Quran Tasmee 2.JPG class="d-block w-100" alt="Image 2">
+            <div class="text">Quran Tasmee</div>
+          </div>
+          <div class="carousel-item">
+            <img src="images/Day2/Masool e Aam.JPG" class="d-block w-100" alt="Image 3">
+            <div class="text">Office of the Principal</div>
+          </div>
+          <div class="carousel-item">
+            <img src="images/Day2/Library Tour.JPG" class="d-block w-100" alt="Image 3">
+            <div class="text">Library Tour</div>
+          </div>
+          <div class="carousel-item">
+            <img src="images/Day2/Library Tour 2.JPG" class="d-block w-100" alt="Image 3">
+            <div class="text">Library Tour</div>
+          </div>
+    </div>
+    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
   </div>
-      <script>
-        chooseschedule(2);
-  </script>
-
-
-<!-- Schedule Table -->
-<!-- <div class="table-responsive mt-4">
-    <table class="table table-bordered">
-      <thead class="thead-dark">
-        <tr>
-          <th scope="col">Venue</th>
-          <th scope="col">Activity</th>
-          <th scope="col">Time</th>
-          <th scope="col">Agenda</th>
-          <th scope="col">Department</th>
-          <th scope="col">Speakers</th>
-          <th scope="col">Remarks</th>
-        </tr>
-      </thead>
-      <tbody class="table-secondary">
-        <tr>
-          <td><a href="buildings.html#ewaan">Ewaan</td>
-          <td>Tilawat Dua</a></td>
-          <td>7:45 AM</td>
-          <td>System Acquaintance</td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td><a href="buildings.html#mawaid">Mawaid Ground Floor</td>
-          <td>Quran Hifz Practicals</td>
-          <td>8:30 - 9:20 AM</td>
-          <td>Parents will acquire barakat of Hifzul Quran</td>
-          <td>Mahad Zahra</td>
-          <td></td>
-          <td>5 Days Hifz Planner</td>
-        </tr>
-        <tr>
-          <td>Mawaid Ground</td>
-          <td>Quran Hifz Workshop</td>
-          <td>9:30-10:00 AM</td>
-          <td>Understanding the challenges<br>Goal Setting and consistency <br>Post-Hifz Mechanism for Murajah</td>
-          <td>Mahad Zahra</td>
-          <td>Mahad Zahra</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Mawaid</td>
-          <td>Refreshments</td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Waqaf Room <a href="buildings.html#mahad">Mahad Zahra</a></td>
-          <td>Entry Procedure</td>
-          <td>10:45 AM - 12:30 PM</td>
-          <td>Lawazim Deposit <br> Documents Submission <br> Manshurat and Makhzan</td>
-          <td><a href="departments.html#maktab-tanzeem">Maktab Tanzeem</a><br> Amanat <br> Jawazaat <br> Manshurat/Makhzan</td>
-          <td></td>
-          <td>Route Guidance and Queue Management</td>
-        </tr>
-        <tr>
-          <td><a href="buildings.html#masjid">Masjid</a></td>
-          <td>Zohr Asr Namaz</td>
-          <td>12:45 PM</td>
-          <td>Imamat Namaz/System Acquaintance</td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td><a href="buildings.html#mawaid">Mawaid </a></td>
-          <td>Lunch</td>
-          <td>1:10 PM</td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td>Fixed Thaal with Talabat/Talebaat</td>
-        </tr>
-        <tr>
-          <td><a href="buildings.html#academics">Academic Building</a></td>
-          <td>One to One Interaction</td>
-          <td>3:00 to 4:00 PM</td>
-          <td>Interaction with Masool</td>
-          <td><a href="departments.html#marhala-saqafat-aama">Marhala Saqafat Amma</a><br> Masooleen</td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Auditorium</td>
-          <td>Break</td>
-          <td>12:00 PM - 1:00 PM</td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Auditorium</td>
-          <td>Campus Tour</td>
-          <td>1:00 PM - 2:00 PM</td>
-          <td>Campus Tour for the New Students</td>
-          <td>Student Affairs</td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Auditorium</td>
-          <td>Q&A Session</td>
-          <td>2:00 PM - 3:00 PM</td>
-          <td>Question and Answer Session with the Dean and Faculty</td>
-          <td>Academic Affairs</td>
-          <td></td>
-          <td></td>
-        </tr>
-      </tbody>
-    </table>
-
-
- 
- 
   
-
   
