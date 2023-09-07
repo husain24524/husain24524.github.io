@@ -24,7 +24,7 @@
 
 </head>
 
-<!-- TODO: CREATE ALTERNATIVE FOR MODAL DELAY -->
+
 <body onload="modalDelay()">
 
  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -45,9 +45,8 @@
         <li class="nav-item">
           <a class="nav-link" href="index.html">Home</a>
         </li>
-        <!-- TODO: onclick should delete TR_Cookie -->
         <li class="nav-item">
-          <a class="nav-link" style="color: red;" href="./pto.html" onstouchstart="" onclick="">Logout</a>
+          <a class="nav-link" style="color: red;" href="./pto.html" onstouchstart='document.cookie="tr=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";' onclick='document.cookie="tr=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";'>Logout</a>
         </li>
       </ul>
     </div>
@@ -91,14 +90,9 @@
 
 
 
-<!-- TODO: Make changes so if TR_cookie is not undefined, modal is hidden -->
+
 <!-- TODO: If TR_cookie is not undefined, navbar element "logout" is visible -->
-<script>
-if (getCookie("tr")!=undefined){
-  document.getElementById("myModal").hidden=true;
-}
-getfullschedule ()
-</script>
+
 
 
 
@@ -112,7 +106,6 @@ getfullschedule ()
 </style>
 <script>
     function trr(){
-        alert("Welcome!");
         var tr  = document.getElementById("tr").value;
         var its=document.getElementById("its").value;
         document.cookie="tr="+tr;
@@ -124,20 +117,38 @@ getfullschedule ()
         }
         else{
           alert("Incorrect")
-          // TODO: DELETE COOKIES
+          document.cookie="tr=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";
         }
             location.reload()
     }
     // TODO: ADD HASHED ITS and TRS
     // TODO: ADD TR AND ITS
     var refs={
-        24653:30495513
+        24653:30495513,
+        27905:40801147,
+        27952:40900552,
+        27959:40800467,
+        27868:40903610,
+        27739:30151135,
+        27775:40456895,
+        27890:30925384,
+        28027:30440242,
+        27917:30912545,
+        27737:30481257,
+        27753:40901251,
+        27828:40903202,
+        27980:30925642,
+        28023:30923859,
+        28032:40907411,
+        27743:40908810,
+        27969:30355993,
+        27907:30904503,
     }
 
 </script>
 
 
-
+<div id="reports">
 <div class="container mt-5 table-responsive">
     <h2 class="text-center">Quran Report</h2>
     <table class="table table-striped table-bordered table-hover table-info">
@@ -155,7 +166,7 @@ getfullschedule ()
       <tbody>
         <tr>
           <td></td>
-          <td></td>
+          <td id=surat ></td>
           <td></td>
           <td></td>
           <td></td>
@@ -165,9 +176,9 @@ getfullschedule ()
       </tbody>
     </table>
   </div>
-  <div class="container mt-5 table-responsive">
+  <div id="marks" class="container mt-5 table-responsive">
     <h2 class="text-center">Fasl 1 Marks</h2>
-    <table id="marks" class="table table-striped table-bordered table-hover table-primary">
+    <table  class="table table-striped table-bordered table-hover table-primary">
       <thead>
         <tr>
           <th>Daim</th>
@@ -184,19 +195,43 @@ getfullschedule ()
       </tbody>
     </table>
   </div>
+</div>
   <script>
     var tr  = document.getElementById("tr").value;
-    if(tr==undefined){
-      document.getElementById("marks").hidden=true;
+    if(getCookie('tr')==undefined){
+      document.getElementById("reports").hidden=true;
     }
   </script>
   <script>
     var scores_10={
-        "24653":[5,6,4,3,"62%"]
+        "24653":[5,6,4,3,"62%","ذاريات"]
     }
     tr=getCookie("tr")
-    document.getElementById("daim").innerHTML=scores[tr][0];
-    document.getElementById("percent").innerHTML=scores[tr][4];
+    document.getElementById("daim").innerHTML=scores_10[tr][0];
+    document.getElementById("percent").innerHTML=scores_10[tr][4];
+    document.getElementById("surat").innerHTML=scores_10[tr][5];
+
+  </script>
+  <script>
+  function modalDelay(){
+  if (getCookie("tr")==undefined){
+    $(document).ready(function(){
+        setTimeout(function(){
+            $('#myModal').modal('show');
+        }, 1200);
+    });}
+}
   </script>
 </body>
 </html>
+
+<!-- 1. Collect data
+2. Create 4 csvs for 4 classes (TR+Name+Div+Marks+Quran)
+3. Convert CSVs into objects hardcoded into page
+4. Create Main Page
+(Modal to enter TR number and ITS)
+(Submit button should verify ITS and TR match, then save cookie_of_TR, display success message alert, then refresh)
+(Logout Button to remove cookie of TR if cookie entered)
+(create table of quran, with theader and one row of data. each td should have an id assigned to it)
+(use script to change each td using id by querying from selected tr data)
+(do the same for marks as above) -->
