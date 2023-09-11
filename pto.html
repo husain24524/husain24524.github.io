@@ -46,19 +46,12 @@
           <a class="nav-link" href="index.html">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" style="color: red;" href="./pto.html" onstouchstart='document.cookie="tr=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";' onclick='document.cookie="tr=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";'>Logout</a>
+          <a class="nav-link" style="color: red;" href="./pto.html" onstouchstart='document.cookie="its=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";' onclick='document.cookie="its=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";'>Logout</a>
         </li>
       </ul>
     </div>
   </nav>
 
-
-
-
-  
-<!-- Iltehaaq Logo -->
-<!-- <center><img src="images/logo.PNG" width="35%" style="max-width: 700px;" ></center>-->
-<!-- TODO: Add saqafat logo -->
 
 
 <!-- Modal for new Info -->
@@ -67,14 +60,13 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h4 class="modal-title">Login with your Child's TR and ITS</h4>
+        <h4 class="modal-title">Login with your Child's ITS</h4>
       </div>
       <div class="modal-body">
 
       </div>
 
       <center><div id="trsubmit">
-        Enter your Child's TR Number <br><br><input id="tr" type="number" ><br><br>
         Enter your Child's ITS Number <br><br><input id="its" type="number" ><br><br>
       <button id="submittr" type="button" class="btn btn-info" onclick="trr()" >Submit</button><br><br><br>
       <!-- TODO: Alternative to TRR function -->
@@ -86,6 +78,21 @@
     </div>
   </div>
 </div>
+
+<div class="container mt-4">
+  <table class="table table-striped table-bordered table-hover table-primary">
+    <thead>
+      <tr>
+        <th>Attribute</th>
+        <th>Value</th>
+      </tr>
+    </thead>
+    <tbody id="studentTableBody">
+      <!-- Data will be dynamically inserted here -->
+    </tbody>
+  </table>
+</div>
+
 
 
 
@@ -106,84 +113,98 @@
 </style>
 <script>
     function trr(){
-        var tr  = document.getElementById("tr").value;
         var its=document.getElementById("its").value;
-        document.cookie="tr="+tr;
+        document.cookie="its="+its;
         //THE HASHING CIPHER
         // TODO: ADD HASHING TO TR AND ITS
-        if (refs[tr]==its){
-            console.log("YES")
-            alert("User Validated.")
-        }
-        else{
-          alert("Incorrect")
-          document.cookie="tr=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";
-        }
-            location.reload()
-    }
-    // TODO: ADD HASHED ITS and TRS
-    // TODO: ADD TR AND ITS
-    var refs={
-        24653:30495513,
-        27905:40801147,
-        27952:40900552,
-        27959:40800467,
-        27868:40903610,
-        27739:30151135,
-        27775:40456895,
-        27890:30925384,
-        28027:30440242,
-        27917:30912545,
-        27737:30481257,
-        27753:40901251,
-        27828:40903202,
-        27980:30925642,
-        28023:30923859,
-        28032:40907411,
-        27743:40908810,
-        27969:30355993,
-        27907:30904503,
-    }
 
+        // TODO: ADD ITS AND CLASSES JSON OBJECT AND LOGIC
+        // TODO: Create 4 lists for each darajah, with ITS inside each list
+        // TODO: If ITS is in awwala, then show awwala report
+        // TODO: If ITS is in thaniya, then show thaniya report
+        // TODO: If ITS is in thalesa, then show thalesa report
+        // TODO: If ITS is in ruba, then show ruba report
+        // if (refs[tr]==its){
+        //     console.log("YES")
+        //     alert("User Validated.")
+        // }
+        // else{
+        //   alert("Incorrect")
+        //   document.cookie="tr=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";
+        // }
+            location.reload()
+    } 
+</script>
+<script>
+
+// FOR REFERENCE
+// for (x in data){if (data[x]["TRNO"]==27743){console.log(data[x])}}
+
+
+its=getCookie("its")
+
+
+</script>
+<script>
+  // Sample student data (replace with your data)
+  students=studentsdata
+
+  // Function to generate the table
+  function generateStudentTable(student) {
+    const tableBody = document.getElementById("studentTableBody");
+    tableBody.innerHTML = ""; // Clear previous data
+
+    for (const attribute in student) {
+      if (typeof student[attribute] === "object") {
+        for (const subject in student[attribute]) {
+          const row = document.createElement("tr");
+          row.innerHTML = `
+            <td>${attribute} - ${subject}</td>
+            <td>${student[attribute][subject]}</td>
+          `;
+          tableBody.appendChild(row);
+        }
+      } else {
+        const row = document.createElement("tr");
+        row.innerHTML = `
+          <td>${attribute}</td>
+          <td>${student[attribute]}</td>
+        `;
+        tableBody.appendChild(row);
+      }
+    }
+  }
+
+  // Example usage: Call this function when a student is selected
+  const selectedStudent = students[7]; // Replace with your logic to select a student
+  generateStudentTable(selectedStudent);
+</script>
+
+<script>
+  // document.getElementById("daim").innerHTML=scores_10[tr][0];
+  // document.getElementById("percent").innerHTML=scores_10[tr][4];
+  // document.getElementById("surat").innerHTML=scores_10[tr][5];
+
+function modalDelay(){
+if (getCookie("its")==undefined){
+  $(document).ready(function(){
+      setTimeout(function(){
+          $('#myModal').modal('show');
+      }, 1200);
+  });}
+}
 </script>
 
 
 <div id="reports">
-<div class="container mt-5 table-responsive">
-    <h2 class="text-center">Quran Report</h2>
-    <table class="table table-striped table-bordered table-hover table-info">
-      <thead>
-        <tr>
-          <th>Ayat</th>
-          <th>Surat</th>
-          <th>Page</th>
-          <th>Ajzaa</th>
-          <th>Murajaat Avg</th>
-          <th>FromHifz</th>
-          <th>ToHifz</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td></td>
-          <td id=surat ></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <div id="marks" class="container mt-5 table-responsive">
+  <div id="mark_1" class="container mt-5 table-responsive">
     <h2 class="text-center">Fasl 1 Marks</h2>
     <table  class="table table-striped table-bordered table-hover table-primary">
       <thead>
         <tr>
           <th>Daim</th>
           <th>Hawashi</th>
-          <th>Score</th>
+          <th id="percentheader">Score</th>
         </tr>
       </thead>
       <tbody>
@@ -196,31 +217,14 @@
     </table>
   </div>
 </div>
-  <script>
-    var tr  = document.getElementById("tr").value;
-    if(getCookie('tr')==undefined){
-      document.getElementById("reports").hidden=true;
-    }
-  </script>
-  <script>
-    var scores_10={
-        "24653":[5,6,4,3,"62%","ذاريات"]
-    }
-    tr=getCookie("tr")
-    document.getElementById("daim").innerHTML=scores_10[tr][0];
-    document.getElementById("percent").innerHTML=scores_10[tr][4];
-    document.getElementById("surat").innerHTML=scores_10[tr][5];
-
-  </script>
-  <script>
-  function modalDelay(){
-  if (getCookie("tr")==undefined){
-    $(document).ready(function(){
-        setTimeout(function(){
-            $('#myModal').modal('show');
-        }, 1200);
-    });}
-}
+<script>
+  for (x in scores_1){if (scores_1[x]["TRNO"]==its){
+    // document.getElementById("daim").innerHTML=scores_1[x]["English"]
+    document.getElementById("daim").innerHTML="HELP"
+    document.getElementById("hawashi").hidden=true;
+    document.getElementById("English").hidden=true;
+    // ADD ALL OTHER SUBJECT HEADERS AND SUBJECTS HERE
+  }}
   </script>
 </body>
 </html>
@@ -235,3 +239,8 @@
 (create table of quran, with theader and one row of data. each td should have an id assigned to it)
 (use script to change each td using id by querying from selected tr data)
 (do the same for marks as above) -->
+
+<script>
+
+</script>
+
