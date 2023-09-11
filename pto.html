@@ -79,11 +79,11 @@
   </div>
 </div>
 
-<div class="container mt-4">
-  <table class="table table-striped table-bordered table-hover table-primary">
+<div class="container mt-4" style="font-family: Kanz-al-Marjaan;">
+  <table class="table table-striped table-bordered table-hover table-danger">
     <thead>
       <tr>
-        <th>Attribute</th>
+        <th>Name</th>
         <th>Value</th>
       </tr>
     </thead>
@@ -196,27 +196,6 @@ if (getCookie("its")==undefined){
 </script>
 
 
-<div id="reports">
-  <div id="mark_1" class="container mt-5 table-responsive">
-    <h2 class="text-center">Fasl 1 Marks</h2>
-    <table  class="table table-striped table-bordered table-hover table-primary">
-      <thead>
-        <tr>
-          <th>Daim</th>
-          <th>Hawashi</th>
-          <th id="percentheader">Score</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td id="daim"></td>
-          <td id="hawashi"></td>
-          <td id="percent"></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
 <script>
   for (x in scores_1){if (scores_1[x]["TRNO"]==its){
     // document.getElementById("daim").innerHTML=scores_1[x]["English"]
