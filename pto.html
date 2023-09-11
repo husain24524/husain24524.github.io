@@ -176,7 +176,12 @@ its=getCookie("its")
   }
 
   // Example usage: Call this function when a student is selected
-  const selectedStudent = students[7]; // Replace with your logic to select a student
+  // const selectedStudent = students[7]; // Replace with your logic to select a student
+
+  // TODO REPLACE THIS LOGIC WITH ITS
+  for (x in students){if (students[x]["TRNO"]==its){
+    selectedStudent=students[x]
+  }}
   generateStudentTable(selectedStudent);
 </script>
 
