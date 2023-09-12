@@ -79,7 +79,7 @@
   </div>
 </div>
 
-<div class="container mt-4" style="font-family: Kanz-al-Marjaan;">
+<div class="container mt-4" style="font-family: Kanz-al-Marjaan; text-align:center; font-size: 1.53rem; font-weight:800;">
   <table class="table table-striped table-bordered table-hover table-danger">
     <thead>
       <tr>
@@ -92,10 +92,6 @@
     </tbody>
   </table>
 </div>
-
-
-
-
 
 
 <!-- TODO: If TR_cookie is not undefined, navbar element "logout" is visible -->
@@ -115,39 +111,14 @@
     function trr(){
         var its=document.getElementById("its").value;
         document.cookie="its="+its;
-        //THE HASHING CIPHER
-        // TODO: ADD HASHING TO TR AND ITS
-
-        // TODO: ADD ITS AND CLASSES JSON OBJECT AND LOGIC
-        // TODO: Create 4 lists for each darajah, with ITS inside each list
-        // TODO: If ITS is in awwala, then show awwala report
-        // TODO: If ITS is in thaniya, then show thaniya report
-        // TODO: If ITS is in thalesa, then show thalesa report
-        // TODO: If ITS is in ruba, then show ruba report
-        // if (refs[tr]==its){
-        //     console.log("YES")
-        //     alert("User Validated.")
-        // }
-        // else{
-        //   alert("Incorrect")
-        //   document.cookie="tr=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";
-        // }
             location.reload()
     } 
 </script>
 <script>
-
-// FOR REFERENCE
-// for (x in data){if (data[x]["TRNO"]==27743){console.log(data[x])}}
-
-
 its=getCookie("its")
 
-
-</script>
-<script>
   // Sample student data (replace with your data)
-  students=studentsdata
+  students=datast
 
   // Function to generate the table
   function generateStudentTable(student) {
@@ -175,8 +146,6 @@ its=getCookie("its")
     }
   }
 
-  // Example usage: Call this function when a student is selected
-  // const selectedStudent = students[7]; // Replace with your logic to select a student
 
   // TODO REPLACE THIS LOGIC WITH ITS
   for (x in students){if (students[x]["TRNO"]==its){
@@ -186,9 +155,6 @@ its=getCookie("its")
 </script>
 
 <script>
-  // document.getElementById("daim").innerHTML=scores_10[tr][0];
-  // document.getElementById("percent").innerHTML=scores_10[tr][4];
-  // document.getElementById("surat").innerHTML=scores_10[tr][5];
 
 function modalDelay(){
 if (getCookie("its")==undefined){
@@ -199,32 +165,5 @@ if (getCookie("its")==undefined){
   });}
 }
 </script>
-
-
-<script>
-  for (x in scores_1){if (scores_1[x]["TRNO"]==its){
-    // document.getElementById("daim").innerHTML=scores_1[x]["English"]
-    document.getElementById("daim").innerHTML="HELP"
-    document.getElementById("hawashi").hidden=true;
-    document.getElementById("English").hidden=true;
-    // ADD ALL OTHER SUBJECT HEADERS AND SUBJECTS HERE
-  }}
-  </script>
 </body>
 </html>
-
-<!-- 1. Collect data
-2. Create 4 csvs for 4 classes (TR+Name+Div+Marks+Quran)
-3. Convert CSVs into objects hardcoded into page
-4. Create Main Page
-(Modal to enter TR number and ITS)
-(Submit button should verify ITS and TR match, then save cookie_of_TR, display success message alert, then refresh)
-(Logout Button to remove cookie of TR if cookie entered)
-(create table of quran, with theader and one row of data. each td should have an id assigned to it)
-(use script to change each td using id by querying from selected tr data)
-(do the same for marks as above) -->
-
-<script>
-
-</script>
-
