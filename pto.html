@@ -42,8 +42,21 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
+        <!-- <li class="nav-item">
+          <a class="nav-link" href="./pto.html">Home</a>
+        </li> -->
         <li class="nav-item">
-          <a class="nav-link" href="index.html">Home</a>
+          <a class="nav-link" ontouchstart="document.getElementById('fasl1').style.display='block';
+          document.getElementById('quran').style.display='none';"
+          onclick="document.getElementById('fasl1').style.display='block';
+          document.getElementById('quran').style.display='none';">Fasl 1 Marks</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" 
+          ontouchstart="document.getElementById('quran').style.display='block';
+          document.getElementById('fasl1').style.display='none';" 
+          onclick="document.getElementById('quran').style.display='block';
+          document.getElementById('fasl1').style.display='none';">Quran Report</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" style="color: red;" href="./pto.html" onstouchstart='document.cookie="its=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";' onclick='document.cookie="its=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";'>Logout</a>
@@ -78,8 +91,9 @@
     </div>
   </div>
 </div>
-<h2>Fasl 1 Marks</h2>
-<div id="fasl1" class="container mt-4" style="font-family: Kanz-al-Marjaan; text-align:center; font-size: 1.53rem; font-weight:800;">
+
+<div id="fasl1" class="container mt-4" style="font-family: Kanz-al-Marjaan; text-align:center; font-size: 1.53rem; font-weight:800; display: none;">
+  <h2>Fasl 1 Marks</h2>
   <table class="table table-striped table-bordered table-hover table-info">
     <thead>
       <tr>
@@ -92,7 +106,7 @@
     </tbody>
   </table>
 </div>
-<div class="container mt-4" style="font-family: Kanz-al-Marjaan; text-align:center; font-size: 1.53rem; font-weight:800;">
+<div id = "quran" class="container mt-4" style="font-family: Kanz-al-Marjaan; text-align:center; font-size: 1.53rem; font-weight:800; display: none;">
   <!-- Second Bootstrap table -->
   <h2>Hifz Report</h2>
   <table class="table table-striped table-bordered table-hover table-warning">
