@@ -5,7 +5,7 @@
   <script type="text/javascript" src="script.js"></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Al Jamea tus Saifiyah - PTO Demo - Home</title>
+  <title>Al Jamea tus Saifiyah - Parent Teacher Meeting</title>
   <link rel="icon" type="image/jpg" href="/images/favicon2.PNG">
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -28,7 +28,7 @@
 <body onload="modalDelay()">
 
  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href=".">AJSN Awwala Orientation</a>
+    <a class="navbar-brand" href=".">AJSN Saqafat Ammah</a>
     <button
       class="navbar-toggler"
       type="button"
@@ -60,14 +60,14 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h4 class="modal-title">Login with your Child's ITS</h4>
+        <h4 class="modal-title">Login with your Child's TR</h4>
       </div>
       <div class="modal-body">
 
       </div>
 
       <center><div id="trsubmit">
-        Enter your Child's ITS Number <br><br><input id="its" type="number" ><br><br>
+        Enter your Child's TR Number <br><br><input id="its" type="number" ><br><br>
       <button id="submittr" type="button" class="btn btn-info" onclick="trr()" >Submit</button><br><br><br>
       <!-- TODO: Alternative to TRR function -->
       </div></center>
@@ -80,11 +80,11 @@
 </div>
 
 <div class="container mt-4" style="font-family: Kanz-al-Marjaan; text-align:center; font-size: 1.53rem; font-weight:800;">
-  <table class="table table-striped table-bordered table-hover table-danger">
+  <table class="table table-striped table-bordered table-hover table-info">
     <thead>
       <tr>
-        <th>Name</th>
-        <th>Value</th>
+        <!-- <th>Name</th>
+        <th>Value</th> -->
       </tr>
     </thead>
     <tbody id="studentTableBody">
@@ -139,7 +139,7 @@ its=getCookie("its")
         const row = document.createElement("tr");
         row.innerHTML = `
           <td>${attribute}</td>
-          <td>${student[attribute]}</td>
+          <td style="color:blue">${student[attribute]}</td>
         `;
         tableBody.appendChild(row);
       }
