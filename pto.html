@@ -21,6 +21,13 @@
     gtag('js', new Date());
     gtag('config', 'G-T70V9YT0E2');
   </script>   
+  <script>
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString); 
+    its = urlParams.get('its')
+    document.cookie="its="+its
+    console.log(its)
+  </script>
 
 </head>
 
@@ -59,7 +66,8 @@
           document.getElementById('fasl1').style.display='none';">Quran Report</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" style="color: red;" href="./pto.html" onstouchstart='document.cookie="its=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";' onclick='document.cookie="its=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";'>Logout</a>
+          <a class="nav-link" style="color: red;" href="./pto.html" onstouchstart='document.cookie="its=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";' 
+          onclick='document.cookie="its=tr; expires=Thu, 01 Jan 1970 00:00:01 GMT";'>Logout</a>
         </li>
       </ul>
     </div>
@@ -133,6 +141,8 @@
 <script>
     function trr(){
         var its=document.getElementById("its").value;
+
+        
         document.cookie="its="+its;
             location.reload()
     } 
@@ -218,5 +228,6 @@ if (getCookie("its")==undefined){
   });}
 }
 </script>
+
 </body>
 </html>
