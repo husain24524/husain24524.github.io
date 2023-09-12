@@ -78,8 +78,8 @@
     </div>
   </div>
 </div>
-
-<div class="container mt-4" style="font-family: Kanz-al-Marjaan; text-align:center; font-size: 1.53rem; font-weight:800;">
+<h2>Fasl 1 Marks</h2>
+<div id="fasl1" class="container mt-4" style="font-family: Kanz-al-Marjaan; text-align:center; font-size: 1.53rem; font-weight:800;">
   <table class="table table-striped table-bordered table-hover table-info">
     <thead>
       <tr>
@@ -88,6 +88,15 @@
       </tr>
     </thead>
     <tbody id="studentTableBody">
+      <!-- Data will be dynamically inserted here -->
+    </tbody>
+  </table>
+</div>
+<div class="container mt-4" style="font-family: Kanz-al-Marjaan; text-align:center; font-size: 1.53rem; font-weight:800;">
+  <!-- Second Bootstrap table -->
+  <h2>Hifz Report</h2>
+  <table class="table table-striped table-bordered table-hover table-warning">
+    <tbody id="quranTableBody">
       <!-- Data will be dynamically inserted here -->
     </tbody>
   </table>
@@ -146,12 +155,42 @@ its=getCookie("its")
     }
   }
 
+  function generateQuranTable(quran) {
+      const tableBody = document.getElementById("quranTableBody");
+      tableBody.innerHTML = ""; // Clear previous data
+
+      for (const attribute in quran) {
+        if (typeof quran[attribute] === "object") {
+          for (const subject in quran[attribute]) {
+            const row = document.createElement("tr");
+            row.innerHTML = `
+              <td>${attribute} - ${subject}</td>
+              <td>${quran[attribute][subject]}</td>
+            `;
+            tableBody.appendChild(row);
+          }
+        } else {
+          const row = document.createElement("tr");
+          row.innerHTML = `
+            <td>${attribute}</td>
+            <td style="color:blue">${quran[attribute]}</td>
+          `;
+          tableBody.appendChild(row);
+        }
+      }
+      }
+
 
   // TODO REPLACE THIS LOGIC WITH ITS
   for (x in students){if (students[x]["TRNO"]==its){
     selectedStudent=students[x]
   }}
   generateStudentTable(selectedStudent);
+
+  for (x in qurandata){if(qurandata[x]["TRNO"]==its){
+    selectedQuran=qurandata[x]
+  }}
+  generateQuranTable(selectedQuran);
 </script>
 
 <script>
