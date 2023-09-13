@@ -191,6 +191,7 @@ var studentsdata=[
     "Darajah": "1CM",
     "TRNO": "27737",
     "الاسم": "محمد بهائي  شبير بهائي حسن علي",
+    "%": "85.00",
     "Hifz": 18,
     "Dirasat ": 4,
     "Kitab Taharat": 25,
@@ -205,13 +206,13 @@ var studentsdata=[
     "Maths": 20,
     "Science": 46,
     "Deduction": 0,
-    "الجملة": 255,
-    "%": "85.00"
+    "الجملة": 255
    },
    {
     "Darajah": "1CM",
     "TRNO": "27739",
     "الاسم": "شبير بهائي ملا مصطفى بهائي ناتـهدوار والا",
+    "%": "63.00",
     "Hifz": 17,
     "Dirasat ": 2,
     "Kitab Taharat": 16,
@@ -226,13 +227,13 @@ var studentsdata=[
     "Maths": 18,
     "Science": 36,
     "Deduction": 0,
-    "الجملة": 189,
-    "%": "63.00"
+    "الجملة": 189
    },
    {
     "Darajah": "1AF",
     "TRNO": "27740",
     "الاسم": "فريدة بائي ملا حسن بهائي رنگون والا",
+    "%": "59.33",
     "Hifz": 12,
     "Dirasat ": 3,
     "Kitab Taharat": 13,
@@ -247,13 +248,13 @@ var studentsdata=[
     "Maths": 3,
     "Science": 41,
     "Deduction": 0,
-    "الجملة": 178,
-    "%": "59.33"
+    "الجملة": 178
    },
    {
     "Darajah": "1AF",
     "TRNO": "27742",
     "الاسم": "زينب بائي ملا حذيفة بهائي نور بهائي",
+    "%": "68.67",
     "Hifz": 6,
     "Dirasat ": 4,
     "Kitab Taharat": 22,
@@ -268,13 +269,13 @@ var studentsdata=[
     "Maths": 11,
     "Science": 38,
     "Deduction": 0,
-    "الجملة": 206,
-    "%": "68.67"
+    "الجملة": 206
    },
    {
     "Darajah": "1CM",
     "TRNO": "27743",
     "الاسم": "حاتم بهائي ملا مصطفى بهائي شجاعي",
+    "%": "71.67",
     "Hifz": 15,
     "Dirasat ": 2,
     "Kitab Taharat": 12,
@@ -289,13 +290,13 @@ var studentsdata=[
     "Maths": 19,
     "Science": 41,
     "Deduction": 0,
-    "الجملة": 215,
-    "%": "71.67"
+    "الجملة": 215
    },
    {
     "Darajah": "1BF",
     "TRNO": "27744",
     "الاسم": "زينب بائي ملا معز بهائي ميمون",
+    "%": "76.00",
     "Hifz": 17,
     "Dirasat ": 7,
     "Kitab Taharat": 15,
@@ -310,13 +311,13 @@ var studentsdata=[
     "Maths": 7,
     "Science": 44,
     "Deduction": 0,
-    "الجملة": 228,
-    "%": "76.00"
+    "الجملة": 228
    },
    {
     "Darajah": "1BF",
     "TRNO": "27745",
     "الاسم": "خديجة بائي  حسين بهائي ذاكر",
+    "%": "65.33",
     "Hifz": 16,
     "Dirasat ": 5,
     "Kitab Taharat": 18,
@@ -331,13 +332,13 @@ var studentsdata=[
     "Maths": 5,
     "Science": 40,
     "Deduction": 0,
-    "الجملة": 196,
-    "%": "65.33"
+    "الجملة": 196
    },
    {
     "Darajah": "1AM",
     "TRNO": "27747",
     "الاسم": "حسين بهائي ملا حسن بهائي قطبي",
+    "%": "77.00",
     "Hifz": 15,
     "Dirasat ": 4,
     "Kitab Taharat": 22,
@@ -352,13 +353,13 @@ var studentsdata=[
     "Maths": 16,
     "Science": 46,
     "Deduction": 0,
-    "الجملة": 231,
-    "%": "77.00"
+    "الجملة": 231
    },
    {
     "Darajah": "1CF",
     "TRNO": "27748",
     "الاسم": "فاطمة بائي الشيخ شبير بهائي مالا",
+    "%": "49.33",
     "Hifz": 17,
     "Dirasat ": 2,
     "Kitab Taharat": 16,
@@ -373,13 +374,13 @@ var studentsdata=[
     "Maths": 10,
     "Science": 35,
     "Deduction": 0,
-    "الجملة": 148,
-    "%": "49.33"
+    "الجملة": 148
    },
    {
     "Darajah": "1AF",
     "TRNO": "27750",
     "الاسم": "خديجة بائي الشيخ مرتضى بهائي تن والا",
+    "%": "50.67",
     "Hifz": 15,
     "Dirasat ": 2,
     "Kitab Taharat": 10,
@@ -394,13 +395,13 @@ var studentsdata=[
     "Maths": 7,
     "Science": 22,
     "Deduction": 0,
-    "الجملة": 152,
-    "%": "50.67"
+    "الجملة": 152
    },
    {
     "Darajah": "1CM",
     "TRNO": "27753",
     "الاسم": "زهير بهائي ملا جوذر بهائي ككاديا",
+    "%": "50.33",
     "Hifz": 14,
     "Dirasat ": 2,
     "Kitab Taharat": 13,
@@ -415,13 +416,13 @@ var studentsdata=[
     "Maths": 2,
     "Science": 29,
     "Deduction": 0,
-    "الجملة": 151,
-    "%": "50.33"
+    "الجملة": 151
    },
    {
     "Darajah": "1BM",
     "TRNO": "27754",
     "الاسم": "علي اصغر بهائي الشيخ جوذر بهائي نـجمي",
+    "%": "39.33",
     "Hifz": 13,
     "Dirasat ": 2,
     "Kitab Taharat": 6,
@@ -436,13 +437,13 @@ var studentsdata=[
     "Maths": 6,
     "Science": 21,
     "Deduction": 0,
-    "الجملة": 118,
-    "%": "39.33"
+    "الجملة": 118
    },
    {
     "Darajah": "1AM",
     "TRNO": "27760",
     "الاسم": "برهان الدين بهائي ملا صالح بهائي الصعوطي",
+    "%": "50.67",
     "Hifz": 18,
     "Dirasat ": 8,
     "Kitab Taharat": 21,
@@ -457,13 +458,13 @@ var studentsdata=[
     "Maths": 1,
     "Science": 9,
     "Deduction": 0,
-    "الجملة": 152,
-    "%": "50.67"
+    "الجملة": 152
    },
    {
     "Darajah": "1CF",
     "TRNO": "27768",
     "الاسم": "بتول بائي ملا يوسف بهائي جـمالي",
+    "%": "66.00",
     "Hifz": 14,
     "Dirasat ": 3,
     "Kitab Taharat": 20,
@@ -478,13 +479,13 @@ var studentsdata=[
     "Maths": 9,
     "Science": 43,
     "Deduction": 0,
-    "الجملة": 198,
-    "%": "66.00"
+    "الجملة": 198
    },
    {
     "Darajah": "1CM",
     "TRNO": "27772",
     "الاسم": "مفضل بهائي ملا شبير حسين بهائي احمد",
+    "%": "60.67",
     "Hifz": 16,
     "Dirasat ": 3,
     "Kitab Taharat": 15,
@@ -499,13 +500,13 @@ var studentsdata=[
     "Maths": 5,
     "Science": 34,
     "Deduction": 0,
-    "الجملة": 182,
-    "%": "60.67"
+    "الجملة": 182
    },
    {
     "Darajah": "1CM",
     "TRNO": "27775",
     "الاسم": "قصي بهائي ملا معز بهائي مرزا",
+    "%": "40.00",
     "Hifz": 5,
     "Dirasat ": 3,
     "Kitab Taharat": 9,
@@ -520,13 +521,13 @@ var studentsdata=[
     "Maths": 6,
     "Science": 27,
     "Deduction": 0,
-    "الجملة": 120,
-    "%": "40.00"
+    "الجملة": 120
    },
    {
     "Darajah": "1AF",
     "TRNO": "27776",
     "الاسم": "إنسية بائي  طيب بهائي دونگرپور والا",
+    "%": "52.00",
     "Hifz": 13,
     "Dirasat ": 2,
     "Kitab Taharat": 17,
@@ -541,13 +542,13 @@ var studentsdata=[
     "Maths": 8,
     "Science": 29,
     "Deduction": 0,
-    "الجملة": 156,
-    "%": "52.00"
+    "الجملة": 156
    },
    {
     "Darajah": "1BF",
     "TRNO": "27794",
     "الاسم": "بتول بائي  فرزدق بهائي بوضض والا",
+    "%": "90.00",
     "Hifz": 14,
     "Dirasat ": 8,
     "Kitab Taharat": 26,
@@ -562,13 +563,13 @@ var studentsdata=[
     "Maths": 20,
     "Science": 47,
     "Deduction": 0,
-    "الجملة": 270,
-    "%": "90.00"
+    "الجملة": 270
    },
    {
     "Darajah": "1AM",
     "TRNO": "27796",
     "الاسم": "طه بهائي ملا إبراهيم بهائي عزي",
+    "%": "72.33",
     "Hifz": 18,
     "Dirasat ": 3,
     "Kitab Taharat": 19,
@@ -583,13 +584,13 @@ var studentsdata=[
     "Maths": 13,
     "Science": 35,
     "Deduction": 0,
-    "الجملة": 217,
-    "%": "72.33"
+    "الجملة": 217
    },
    {
     "Darajah": "1BF",
     "TRNO": "27800",
     "الاسم": "سكينة بائي  مفضل بهائي دهانيراوالا",
+    "%": "71.00",
     "Hifz": 18,
     "Dirasat ": 6,
     "Kitab Taharat": 20,
@@ -604,13 +605,13 @@ var studentsdata=[
     "Maths": 11,
     "Science": 40,
     "Deduction": 0,
-    "الجملة": 213,
-    "%": "71.00"
+    "الجملة": 213
    },
    {
     "Darajah": "1BM",
     "TRNO": "27803",
     "الاسم": "برهان الدين بهائي ملا حسين بهائي جاود والا",
+    "%": "86.67",
     "Hifz": 11,
     "Dirasat ": 10,
     "Kitab Taharat": 29,
@@ -625,13 +626,13 @@ var studentsdata=[
     "Maths": 20,
     "Science": 42,
     "Deduction": 0,
-    "الجملة": 260,
-    "%": "86.67"
+    "الجملة": 260
    },
    {
     "Darajah": "1BM",
     "TRNO": "27806",
     "الاسم": "ادريس بهائي ملا حذيفة بهائي ناصر",
+    "%": "63.67",
     "Hifz": 16,
     "Dirasat ": 9,
     "Kitab Taharat": 22,
@@ -646,13 +647,13 @@ var studentsdata=[
     "Maths": 7,
     "Science": 28,
     "Deduction": 0,
-    "الجملة": 191,
-    "%": "63.67"
+    "الجملة": 191
    },
    {
     "Darajah": "1AF",
     "TRNO": "27808",
     "الاسم": "رشيدة بائي  مستعلي بهائي دهانيراوالا",
+    "%": "71.00",
     "Hifz": 17,
     "Dirasat ": 5,
     "Kitab Taharat": 23,
@@ -667,13 +668,13 @@ var studentsdata=[
     "Maths": 5,
     "Science": 34,
     "Deduction": 0,
-    "الجملة": 213,
-    "%": "71.00"
+    "الجملة": 213
    },
    {
     "Darajah": "1AF",
     "TRNO": "27813",
     "الاسم": "امة الله بائي الشيخ مرتضى بهائي شاكر",
+    "%": "73.00",
     "Hifz": 18,
     "Dirasat ": 3,
     "Kitab Taharat": 26,
@@ -688,13 +689,13 @@ var studentsdata=[
     "Maths": 15,
     "Science": 36,
     "Deduction": 0,
-    "الجملة": 219,
-    "%": "73.00"
+    "الجملة": 219
    },
    {
     "Darajah": "1BF",
     "TRNO": "27817",
     "الاسم": "زينب بائي ملا مصطفى بهائي واهككجـيـثثور والا",
+    "%": "84.00",
     "Hifz": 17,
     "Dirasat ": 5,
     "Kitab Taharat": 23,
@@ -709,13 +710,13 @@ var studentsdata=[
     "Maths": 16,
     "Science": 45,
     "Deduction": 0,
-    "الجملة": 252,
-    "%": "84.00"
+    "الجملة": 252
    },
    {
     "Darajah": "1BF",
     "TRNO": "27823",
     "الاسم": "رشيدة بائي الشيخ شبير بهائي بار بهائي",
+    "%": "77.00",
     "Hifz": 12,
     "Dirasat ": 8,
     "Kitab Taharat": 21,
@@ -730,13 +731,13 @@ var studentsdata=[
     "Maths": 12,
     "Science": 43,
     "Deduction": 0,
-    "الجملة": 231,
-    "%": "77.00"
+    "الجملة": 231
    },
    {
     "Darajah": "1BM",
     "TRNO": "27827",
     "الاسم": "حمزة بهائي  حسين بهائي خان بهائي والا",
+    "%": "89.33",
     "Hifz": 18,
     "Dirasat ": 10,
     "Kitab Taharat": 26,
@@ -751,13 +752,13 @@ var studentsdata=[
     "Maths": 18,
     "Science": 45,
     "Deduction": 0,
-    "الجملة": 268,
-    "%": "89.33"
+    "الجملة": 268
    },
    {
     "Darajah": "1CM",
     "TRNO": "27828",
     "الاسم": "عمار بهائي  طه بهائي ليمثث والا",
+    "%": "86.00",
     "Hifz": 18,
     "Dirasat ": 6,
     "Kitab Taharat": 24,
@@ -772,13 +773,13 @@ var studentsdata=[
     "Maths": 16,
     "Science": 45,
     "Deduction": 0,
-    "الجملة": 258,
-    "%": "86.00"
+    "الجملة": 258
    },
    {
     "Darajah": "1CF",
     "TRNO": "27831",
     "الاسم": "أم سلمة بائي  علي زين العابدين بهائي وهرا",
+    "%": "82.00",
     "Hifz": 18,
     "Dirasat ": 2,
     "Kitab Taharat": 24,
@@ -793,13 +794,13 @@ var studentsdata=[
     "Maths": 16,
     "Science": 39,
     "Deduction": 0,
-    "الجملة": 246,
-    "%": "82.00"
+    "الجملة": 246
    },
    {
     "Darajah": "1AM",
     "TRNO": "27832",
     "الاسم": "علي اصغر بهائي  قمر الدين بهائي بهيكاثثور والا",
+    "%": "69.67",
     "Hifz": 18,
     "Dirasat ": 7,
     "Kitab Taharat": 29,
@@ -814,13 +815,13 @@ var studentsdata=[
     "Maths": 13,
     "Science": 40,
     "Deduction": 0,
-    "الجملة": 209,
-    "%": "69.67"
+    "الجملة": 209
    },
    {
     "Darajah": "1AF",
     "TRNO": "27838",
     "الاسم": "بتول بائي  مفضل بهائي ثثاطن  والا",
+    "%": "77.67",
     "Hifz": 16,
     "Dirasat ": 3,
     "Kitab Taharat": 19,
@@ -835,13 +836,13 @@ var studentsdata=[
     "Maths": 5,
     "Science": 39,
     "Deduction": 0,
-    "الجملة": 233,
-    "%": "77.67"
+    "الجملة": 233
    },
    {
     "Darajah": "1CF",
     "TRNO": "27842",
     "الاسم": "مريم بائي  حذيفة بهائي بانسواره والا",
+    "%": "55.67",
     "Hifz": 17,
     "Dirasat ": 2,
     "Kitab Taharat": 15,
@@ -856,13 +857,13 @@ var studentsdata=[
     "Maths": 9,
     "Science": 32,
     "Deduction": 0,
-    "الجملة": 167,
-    "%": "55.67"
+    "الجملة": 167
    },
    {
     "Darajah": "1CF",
     "TRNO": "27844",
     "الاسم": "فاطمة بائي  حذيفة بهائي فـتحي",
+    "%": "75.00",
     "Hifz": 10,
     "Dirasat ": 6,
     "Kitab Taharat": 24,
@@ -877,13 +878,13 @@ var studentsdata=[
     "Maths": 20,
     "Science": 47,
     "Deduction": 0,
-    "الجملة": 225,
-    "%": "75.00"
+    "الجملة": 225
    },
    {
     "Darajah": "1AM",
     "TRNO": "27845",
     "الاسم": "عبد علي بهائي  معز بهائي دِهنوج والا",
+    "%": "67.67",
     "Hifz": 16,
     "Dirasat ": 3,
     "Kitab Taharat": 22,
@@ -898,13 +899,13 @@ var studentsdata=[
     "Maths": 13,
     "Science": 35,
     "Deduction": 0,
-    "الجملة": 203,
-    "%": "67.67"
+    "الجملة": 203
    },
    {
     "Darajah": "1BM",
     "TRNO": "27846",
     "الاسم": "مكرّم بهائي ملا معز بهائي سعيد",
+    "%": "78.67",
     "Hifz": 17,
     "Dirasat ": 9,
     "Kitab Taharat": 21,
@@ -919,13 +920,13 @@ var studentsdata=[
     "Maths": 9,
     "Science": 40,
     "Deduction": 0,
-    "الجملة": 236,
-    "%": "78.67"
+    "الجملة": 236
    },
    {
     "Darajah": "1CF",
     "TRNO": "27851",
     "الاسم": "بتول بائي  ابي ذر بهائي مرححنضض",
+    "%": "66.00",
     "Hifz": 8,
     "Dirasat ": 3,
     "Kitab Taharat": 24,
@@ -940,13 +941,13 @@ var studentsdata=[
     "Maths": 8,
     "Science": 42,
     "Deduction": 0,
-    "الجملة": 198,
-    "%": "66.00"
+    "الجملة": 198
    },
    {
     "Darajah": "1AF",
     "TRNO": "27853",
     "الاسم": "جمانة بائي صاحب حذيفة بهائي صاحب نعماني",
+    "%": "68.33",
     "Hifz": 16,
     "Dirasat ": 4,
     "Kitab Taharat": 23,
@@ -961,13 +962,13 @@ var studentsdata=[
     "Maths": 11,
     "Science": 37,
     "Deduction": 0,
-    "الجملة": 205,
-    "%": "68.33"
+    "الجملة": 205
    },
    {
     "Darajah": "1BF",
     "TRNO": "27858",
     "الاسم": "حسينة بائي الشيخ شعيب بهائي رامپوره والا",
+    "%": "81.33",
     "Hifz": 17,
     "Dirasat ": 7,
     "Kitab Taharat": 23,
@@ -982,13 +983,13 @@ var studentsdata=[
     "Maths": 16,
     "Science": 39,
     "Deduction": 0,
-    "الجملة": 244,
-    "%": "81.33"
+    "الجملة": 244
    },
    {
     "Darajah": "1AF",
     "TRNO": "27860",
     "الاسم": "امة الله بائي الشيخ حسين بهائي حيدر معطى",
+    "%": "70.67",
     "Hifz": 17,
     "Dirasat ": 2,
     "Kitab Taharat": 21,
@@ -1003,13 +1004,13 @@ var studentsdata=[
     "Maths": 11,
     "Science": 36,
     "Deduction": 0,
-    "الجملة": 212,
-    "%": "70.67"
+    "الجملة": 212
    },
    {
     "Darajah": "1CF",
     "TRNO": "27861",
     "الاسم": "خديجة بائي ملا محمد بهائي لقماني",
+    "%": "68.33",
     "Hifz": 18,
     "Dirasat ": 3,
     "Kitab Taharat": 18,
@@ -1024,13 +1025,13 @@ var studentsdata=[
     "Maths": 16,
     "Science": 37,
     "Deduction": 0,
-    "الجملة": 205,
-    "%": "68.33"
+    "الجملة": 205
    },
    {
     "Darajah": "1BM",
     "TRNO": "27863",
     "الاسم": "مفضل بهائي الشيخ عبد مناف بهائي هبة الله",
+    "%": "74.33",
     "Hifz": 18,
     "Dirasat ": 8,
     "Kitab Taharat": 12,
@@ -1045,13 +1046,13 @@ var studentsdata=[
     "Maths": 14,
     "Science": 45,
     "Deduction": 0,
-    "الجملة": 223,
-    "%": "74.33"
+    "الجملة": 223
    },
    {
     "Darajah": "1CF",
     "TRNO": "27864",
     "الاسم": "رقية بائي  معز بهائي ايليكــتريك والا",
+    "%": "73.67",
     "Hifz": 18,
     "Dirasat ": 2,
     "Kitab Taharat": 23,
@@ -1066,13 +1067,13 @@ var studentsdata=[
     "Maths": 10,
     "Science": 42,
     "Deduction": 0,
-    "الجملة": 221,
-    "%": "73.67"
+    "الجملة": 221
    },
    {
     "Darajah": "1CM",
     "TRNO": "27868",
     "الاسم": "قـطب خان بهائي الشيخ مرتضى بهائي اديــثثور والا",
+    "%": "82.00",
     "Hifz": 17,
     "Dirasat ": 4,
     "Kitab Taharat": 24,
@@ -1087,13 +1088,13 @@ var studentsdata=[
     "Maths": 10,
     "Science": 42,
     "Deduction": 0,
-    "الجملة": 246,
-    "%": "82.00"
+    "الجملة": 246
    },
    {
     "Darajah": "1CF",
     "TRNO": "27870",
     "الاسم": "نفيسة بائي الشيخ فخر الدين بهائي سيتهـ",
+    "%": "66.00",
     "Hifz": 13,
     "Dirasat ": 2,
     "Kitab Taharat": 16,
@@ -1108,13 +1109,13 @@ var studentsdata=[
     "Maths": 17,
     "Science": 30,
     "Deduction": 0,
-    "الجملة": 198,
-    "%": "66.00"
+    "الجملة": 198
    },
    {
     "Darajah": "1BM",
     "TRNO": "27881",
     "الاسم": "حذيفة بهائي  يوسف بهائي كاغذي",
+    "%": "72.33",
     "Hifz": 17,
     "Dirasat ": 9,
     "Kitab Taharat": 23,
@@ -1129,13 +1130,13 @@ var studentsdata=[
     "Maths": 8,
     "Science": 37,
     "Deduction": 0,
-    "الجملة": 217,
-    "%": "72.33"
+    "الجملة": 217
    },
    {
     "Darajah": "1BM",
     "TRNO": "27886",
     "الاسم": "طاهر بهائي  فخر الدين بهائي لثثاضض",
+    "%": "78.33",
     "Hifz": 16,
     "Dirasat ": 6,
     "Kitab Taharat": 21,
@@ -1150,13 +1151,13 @@ var studentsdata=[
     "Maths": 18,
     "Science": 45,
     "Deduction": 0,
-    "الجملة": 235,
-    "%": "78.33"
+    "الجملة": 235
    },
    {
     "Darajah": "1CF",
     "TRNO": "27887",
     "الاسم": "عارفة بائي  قطب الدين بهائي ثثاني والا",
+    "%": "77.33",
     "Hifz": 15,
     "Dirasat ": 4,
     "Kitab Taharat": 26,
@@ -1171,13 +1172,13 @@ var studentsdata=[
     "Maths": 15,
     "Science": 47,
     "Deduction": 0,
-    "الجملة": 232,
-    "%": "77.33"
+    "الجملة": 232
    },
    {
     "Darajah": "1AM",
     "TRNO": "27888",
     "الاسم": "حذيفة بهائي ملا حسين بهائي اف اف والا",
+    "%": "74.33",
     "Hifz": 15,
     "Dirasat ": 4,
     "Kitab Taharat": 22,
@@ -1192,13 +1193,13 @@ var studentsdata=[
     "Maths": 12,
     "Science": 40,
     "Deduction": 0,
-    "الجملة": 223,
-    "%": "74.33"
+    "الجملة": 223
    },
    {
     "Darajah": "1CM",
     "TRNO": "27890",
     "الاسم": "مصطفى بهائي ملا عبد علي بهائي",
+    "%": "72.00",
     "Hifz": 19,
     "Dirasat ": 3,
     "Kitab Taharat": 17,
@@ -1213,13 +1214,13 @@ var studentsdata=[
     "Maths": 18,
     "Science": 38,
     "Deduction": 0,
-    "الجملة": 216,
-    "%": "72.00"
+    "الجملة": 216
    },
    {
     "Darajah": "1BM",
     "TRNO": "27891",
     "الاسم": "جوذر بهائي ملا مفضل بهائي حيدر معطى",
+    "%": "70.33",
     "Hifz": 16,
     "Dirasat ": 6,
     "Kitab Taharat": 19,
@@ -1234,13 +1235,13 @@ var studentsdata=[
     "Maths": 17,
     "Science": 36,
     "Deduction": 0,
-    "الجملة": 211,
-    "%": "70.33"
+    "الجملة": 211
    },
    {
     "Darajah": "1BF",
     "TRNO": "27899",
     "الاسم": "ثمينة بائي  حسين بهائي ثثرويز",
+    "%": "77.00",
     "Hifz": 17,
     "Dirasat ": 6,
     "Kitab Taharat": 21,
@@ -1255,13 +1256,13 @@ var studentsdata=[
     "Maths": 8,
     "Science": 41,
     "Deduction": 0,
-    "الجملة": 231,
-    "%": "77.00"
+    "الجملة": 231
    },
    {
     "Darajah": "1AM",
     "TRNO": "27902",
     "الاسم": "محمد بهائي  إسمعيل بهائي سيفي",
+    "%": "71.33",
     "Hifz": 12,
     "Dirasat ": 5,
     "Kitab Taharat": 23,
@@ -1276,13 +1277,13 @@ var studentsdata=[
     "Maths": 9,
     "Science": 41,
     "Deduction": 0,
-    "الجملة": 214,
-    "%": "71.33"
+    "الجملة": 214
    },
    {
     "Darajah": "1AM",
     "TRNO": "27903",
     "الاسم": "علي اصغر بهائي  حذيفة بهائي ثثيتلاد والا",
+    "%": "57.67",
     "Hifz": 17,
     "Dirasat ": 3,
     "Kitab Taharat": 15,
@@ -1297,13 +1298,13 @@ var studentsdata=[
     "Maths": 20,
     "Science": 23,
     "Deduction": 0,
-    "الجملة": 173,
-    "%": "57.67"
+    "الجملة": 173
    },
    {
     "Darajah": "1CM",
     "TRNO": "27905",
     "الاسم": "مستنصر بهائي  شبير بهائي طنكي والا",
+    "%": "72.33",
     "Hifz": 15,
     "Dirasat ": 4,
     "Kitab Taharat": 21,
@@ -1318,13 +1319,13 @@ var studentsdata=[
     "Maths": 12,
     "Science": 35,
     "Deduction": 0,
-    "الجملة": 217,
-    "%": "72.33"
+    "الجملة": 217
    },
    {
     "Darajah": "1CM",
     "TRNO": "27907",
     "الاسم": "إبراهيم بهائي الشيخ حسين بهائي شائي والا",
+    "%": "67.00",
     "Hifz": 17,
     "Dirasat ": 3,
     "Kitab Taharat": 17,
@@ -1339,13 +1340,13 @@ var studentsdata=[
     "Maths": 11,
     "Science": 36,
     "Deduction": 0,
-    "الجملة": 201,
-    "%": "67.00"
+    "الجملة": 201
    },
    {
     "Darajah": "1AM",
     "TRNO": "27910",
     "الاسم": "الاقمر بهائي الشيخ ابي ذر بهائي ويـجلاني",
+    "%": "70.33",
     "Hifz": 17,
     "Dirasat ": 3,
     "Kitab Taharat": 16,
@@ -1360,13 +1361,13 @@ var studentsdata=[
     "Maths": 20,
     "Science": 36,
     "Deduction": 0,
-    "الجملة": 211,
-    "%": "70.33"
+    "الجملة": 211
    },
    {
     "Darajah": "1CF",
     "TRNO": "27915",
     "الاسم": "مارية بائي  حاتم بهائي جـمالي",
+    "%": "77.67",
     "Hifz": 15,
     "Dirasat ": 2,
     "Kitab Taharat": 25,
@@ -1381,13 +1382,13 @@ var studentsdata=[
     "Maths": 15,
     "Science": 43,
     "Deduction": 0,
-    "الجملة": 233,
-    "%": "77.67"
+    "الجملة": 233
    },
    {
     "Darajah": "1AF",
     "TRNO": "27916",
     "الاسم": "خديجة بائي الشيخ حسين بهائي جمالي (ثثاطن والا )",
+    "%": "52.33",
     "Hifz": 14,
     "Dirasat ": 2,
     "Kitab Taharat": 10,
@@ -1402,13 +1403,13 @@ var studentsdata=[
     "Maths": 7,
     "Science": 34,
     "Deduction": 0,
-    "الجملة": 157,
-    "%": "52.33"
+    "الجملة": 157
    },
    {
     "Darajah": "1CM",
     "TRNO": "27917",
     "الاسم": "مفضل بهائي  حذيفة بهائي وهرا",
+    "%": "80.00",
     "Hifz": 17,
     "Dirasat ": 6,
     "Kitab Taharat": 21,
@@ -1423,13 +1424,13 @@ var studentsdata=[
     "Maths": 19,
     "Science": 45,
     "Deduction": 0,
-    "الجملة": 240,
-    "%": "80.00"
+    "الجملة": 240
    },
    {
     "Darajah": "1BF",
     "TRNO": "27922",
     "الاسم": "زهراء بائي  عباس بهائي رنگ والا",
+    "%": "79.33",
     "Hifz": 19,
     "Dirasat ": 6,
     "Kitab Taharat": 18,
@@ -1444,13 +1445,13 @@ var studentsdata=[
     "Maths": 16,
     "Science": 48,
     "Deduction": 0,
-    "الجملة": 238,
-    "%": "79.33"
+    "الجملة": 238
    },
    {
     "Darajah": "1CF",
     "TRNO": "27926",
     "الاسم": "حسينة بائي  عبد القادر بهائي مالديوي والا",
+    "%": "74.00",
     "Hifz": 16,
     "Dirasat ": 4,
     "Kitab Taharat": 23,
@@ -1465,13 +1466,13 @@ var studentsdata=[
     "Maths": 17,
     "Science": 37,
     "Deduction": 0,
-    "الجملة": 222,
-    "%": "74.00"
+    "الجملة": 222
    },
    {
     "Darajah": "1BF",
     "TRNO": "27927",
     "الاسم": "حوراء بائي  علي اصغر بهائي سيفي",
+    "%": "74.00",
     "Hifz": 17,
     "Dirasat ": 7,
     "Kitab Taharat": 21,
@@ -1486,13 +1487,13 @@ var studentsdata=[
     "Maths": 9,
     "Science": 43,
     "Deduction": 0,
-    "الجملة": 222,
-    "%": "74.00"
+    "الجملة": 222
    },
    {
     "Darajah": "1CF",
     "TRNO": "27928",
     "الاسم": "فريدة بائي ملا مصطفى بهائي ارتـهـونا والا",
+    "%": "72.00",
     "Hifz": 17,
     "Dirasat ": 3,
     "Kitab Taharat": 23,
@@ -1507,13 +1508,13 @@ var studentsdata=[
     "Maths": 11,
     "Science": 45,
     "Deduction": 0,
-    "الجملة": 216,
-    "%": "72.00"
+    "الجملة": 216
    },
    {
     "Darajah": "1AF",
     "TRNO": "27930",
     "الاسم": "اروى بائي  شبير بهائي ثثرتابككر  والا",
+    "%": "59.00",
     "Hifz": 9,
     "Dirasat ": 3,
     "Kitab Taharat": 18,
@@ -1528,13 +1529,13 @@ var studentsdata=[
     "Maths": 7,
     "Science": 35,
     "Deduction": 0,
-    "الجملة": 177,
-    "%": "59.00"
+    "الجملة": 177
    },
    {
     "Darajah": "1BM",
     "TRNO": "27935",
     "الاسم": "طاهر بهائي  مرتضى بهائي ترنك والا",
+    "%": "49.33",
     "Hifz": 11,
     "Dirasat ": 7,
     "Kitab Taharat": 21,
@@ -1549,13 +1550,13 @@ var studentsdata=[
     "Maths": 2,
     "Science": 29,
     "Deduction": 0,
-    "الجملة": 148,
-    "%": "49.33"
+    "الجملة": 148
    },
    {
     "Darajah": "1BF",
     "TRNO": "27937",
     "الاسم": "منيرة بائي  قطب الدين بهائي ناكسس دار",
+    "%": "73.33",
     "Hifz": 15,
     "Dirasat ": 5,
     "Kitab Taharat": 21,
@@ -1570,13 +1571,13 @@ var studentsdata=[
     "Maths": 9,
     "Science": 42,
     "Deduction": 0,
-    "الجملة": 220,
-    "%": "73.33"
+    "الجملة": 220
    },
    {
     "Darajah": "1BF",
     "TRNO": "27941",
     "الاسم": "حبيبة بائي  حسين بهائي جاتـهـ  والا",
+    "%": "66.00",
     "Hifz": 16,
     "Dirasat ": 6,
     "Kitab Taharat": 14,
@@ -1591,13 +1592,13 @@ var studentsdata=[
     "Maths": 9,
     "Science": 36,
     "Deduction": 0,
-    "الجملة": 198,
-    "%": "66.00"
+    "الجملة": 198
    },
    {
     "Darajah": "1AF",
     "TRNO": "27945",
     "الاسم": "منيرة بائي الشيخ مرتضى بهائي دهونديا",
+    "%": "69.33",
     "Hifz": 13,
     "Dirasat ": 2,
     "Kitab Taharat": 22,
@@ -1612,13 +1613,13 @@ var studentsdata=[
     "Maths": 7,
     "Science": 42,
     "Deduction": 0,
-    "الجملة": 208,
-    "%": "69.33"
+    "الجملة": 208
    },
    {
     "Darajah": "1AF",
     "TRNO": "27946",
     "الاسم": "حسينة بائي الشيخ خزيمة بهائي رشيد",
+    "%": "64.00",
     "Hifz": 16,
     "Dirasat ": 2,
     "Kitab Taharat": 19,
@@ -1633,13 +1634,13 @@ var studentsdata=[
     "Maths": 4,
     "Science": 38,
     "Deduction": 0,
-    "الجملة": 192,
-    "%": "64.00"
+    "الجملة": 192
    },
    {
     "Darajah": "1CF",
     "TRNO": "27949",
     "الاسم": "مارية بائي  حسين بهائي بوديلي والا",
+    "%": "56.00",
     "Hifz": 13,
     "Dirasat ": 2,
     "Kitab Taharat": 16,
@@ -1654,13 +1655,13 @@ var studentsdata=[
     "Maths": 8,
     "Science": 38,
     "Deduction": 0,
-    "الجملة": 168,
-    "%": "56.00"
+    "الجملة": 168
    },
    {
     "Darajah": "1CM",
     "TRNO": "27952",
     "الاسم": "عبد علي بهائي  يوسف بهائي راجكوضض والا",
+    "%": "67.67",
     "Hifz": 15,
     "Dirasat ": 2,
     "Kitab Taharat": 14,
@@ -1675,13 +1676,13 @@ var studentsdata=[
     "Maths": 19,
     "Science": 42,
     "Deduction": 0,
-    "الجملة": 203,
-    "%": "67.67"
+    "الجملة": 203
    },
    {
     "Darajah": "1CF",
     "TRNO": "27956",
     "الاسم": "رشيدة بائي الشيخ حسين بهائي ححلا والا",
+    "%": "64.00",
     "Hifz": 13,
     "Dirasat ": 2,
     "Kitab Taharat": 19,
@@ -1696,13 +1697,13 @@ var studentsdata=[
     "Maths": 11,
     "Science": 38,
     "Deduction": 0,
-    "الجملة": 192,
-    "%": "64.00"
+    "الجملة": 192
    },
    {
     "Darajah": "1CM",
     "TRNO": "27959",
     "الاسم": "مفضل بهائي الشيخ معز بهائي رمال والا  (عزي)",
+    "%": "64.67",
     "Hifz": 18,
     "Dirasat ": 4,
     "Kitab Taharat": 8,
@@ -1717,13 +1718,13 @@ var studentsdata=[
     "Maths": 16,
     "Science": 38,
     "Deduction": 0,
-    "الجملة": 194,
-    "%": "64.67"
+    "الجملة": 194
    },
    {
     "Darajah": "1AM",
     "TRNO": "27960",
     "الاسم": "برهان الدين بهائي  عباس بهائي گاندهي",
+    "%": "77.00",
     "Hifz": 19,
     "Dirasat ": 7,
     "Kitab Taharat": 25,
@@ -1738,13 +1739,13 @@ var studentsdata=[
     "Maths": 9,
     "Science": 38,
     "Deduction": 0,
-    "الجملة": 231,
-    "%": "77.00"
+    "الجملة": 231
    },
    {
     "Darajah": "1BF",
     "TRNO": "27961",
     "الاسم": "سكينة بائي الشيخ حسين بهائي برهاني",
+    "%": "70.33",
     "Hifz": 14,
     "Dirasat ": 4,
     "Kitab Taharat": 19,
@@ -1759,13 +1760,13 @@ var studentsdata=[
     "Maths": 9,
     "Science": 36,
     "Deduction": 0,
-    "الجملة": 211,
-    "%": "70.33"
+    "الجملة": 211
    },
    {
     "Darajah": "1BM",
     "TRNO": "27968",
     "الاسم": "حمزة بهائي الشيخ حذيفة بهائي محمد علي",
+    "%": "58.67",
     "Hifz": 14,
     "Dirasat ": 6,
     "Kitab Taharat": 18,
@@ -1780,13 +1781,13 @@ var studentsdata=[
     "Maths": 10,
     "Science": 34,
     "Deduction": 0,
-    "الجملة": 176,
-    "%": "58.67"
+    "الجملة": 176
    },
    {
     "Darajah": "1CM",
     "TRNO": "27969",
     "الاسم": "مفضل بهائي ملا عزيز بهائي شاكر ( واسي )",
+    "%": "67.33",
     "Hifz": 18,
     "Dirasat ": 5,
     "Kitab Taharat": 13,
@@ -1801,13 +1802,13 @@ var studentsdata=[
     "Maths": 13,
     "Science": 38,
     "Deduction": 0,
-    "الجملة": 202,
-    "%": "67.33"
+    "الجملة": 202
    },
    {
     "Darajah": "1AM",
     "TRNO": "27970",
     "الاسم": "عبد مناف بهائي  حسين بهائي حامد",
+    "%": "59.67",
     "Hifz": 18,
     "Dirasat ": 3,
     "Kitab Taharat": 14,
@@ -1822,13 +1823,13 @@ var studentsdata=[
     "Maths": 15,
     "Science": 30,
     "Deduction": 0,
-    "الجملة": 179,
-    "%": "59.67"
+    "الجملة": 179
    },
    {
     "Darajah": "1AF",
     "TRNO": "27972",
     "الاسم": "تسنيم بائي  شبير بهائي دربار",
+    "%": "72.00",
     "Hifz": 14,
     "Dirasat ": 3,
     "Kitab Taharat": 23,
@@ -1843,13 +1844,13 @@ var studentsdata=[
     "Maths": 9,
     "Science": 43,
     "Deduction": 0,
-    "الجملة": 216,
-    "%": "72.00"
+    "الجملة": 216
    },
    {
     "Darajah": "1AF",
     "TRNO": "27973",
     "الاسم": "رقية بائي ملا مرتضى بهائي حسن علي",
+    "%": "80.67",
     "Hifz": 18,
     "Dirasat ": 4,
     "Kitab Taharat": 23,
@@ -1864,13 +1865,13 @@ var studentsdata=[
     "Maths": 12,
     "Science": 42,
     "Deduction": 0,
-    "الجملة": 242,
-    "%": "80.67"
+    "الجملة": 242
    },
    {
     "Darajah": "1AM",
     "TRNO": "27979",
     "الاسم": "محمد بهائي  مصطفى بهائي بهورا",
+    "%": "62.67",
     "Hifz": 15,
     "Dirasat ": 2,
     "Kitab Taharat": 22,
@@ -1885,13 +1886,13 @@ var studentsdata=[
     "Maths": 10,
     "Science": 29,
     "Deduction": 0,
-    "الجملة": 188,
-    "%": "62.67"
+    "الجملة": 188
    },
    {
     "Darajah": "1CM",
     "TRNO": "27980",
     "الاسم": "مستنصر بهائي  محمد بهائي كانور والا",
+    "%": "59.00",
     "Hifz": 16,
     "Dirasat ": 6,
     "Kitab Taharat": 14,
@@ -1906,13 +1907,13 @@ var studentsdata=[
     "Maths": 3,
     "Science": 39,
     "Deduction": 0,
-    "الجملة": 177,
-    "%": "59.00"
+    "الجملة": 177
    },
    {
     "Darajah": "1BF",
     "TRNO": "27981",
     "الاسم": "امة الله بائي ملا مصطفى بهائي مينكو",
+    "%": "68.33",
     "Hifz": 18,
     "Dirasat ": 4,
     "Kitab Taharat": 15,
@@ -1927,13 +1928,13 @@ var studentsdata=[
     "Maths": 17,
     "Science": 38,
     "Deduction": 0,
-    "الجملة": 205,
-    "%": "68.33"
+    "الجملة": 205
    },
    {
     "Darajah": "1CF",
     "TRNO": "27982",
     "الاسم": "جميلة بائي صاحب قيذار   بهائي صاحب  طاهري",
+    "%": "60.33",
     "Hifz": 18,
     "Dirasat ": 2,
     "Kitab Taharat": 19,
@@ -1948,13 +1949,13 @@ var studentsdata=[
     "Maths": 14,
     "Science": 36,
     "Deduction": 0,
-    "الجملة": 181,
-    "%": "60.33"
+    "الجملة": 181
    },
    {
     "Darajah": "1BM",
     "TRNO": "27983",
     "الاسم": "عبد القادر بهائي ملا مرتضى بهائي برهاني",
+    "%": "59.67",
     "Hifz": 14,
     "Dirasat ": 7,
     "Kitab Taharat": 13,
@@ -1969,13 +1970,13 @@ var studentsdata=[
     "Maths": 12,
     "Science": 36,
     "Deduction": 0,
-    "الجملة": 179,
-    "%": "59.67"
+    "الجملة": 179
    },
    {
     "Darajah": "1AM",
     "TRNO": "27984",
     "الاسم": "علي اصغر بهائي  مصطفى بهائي موسى جي",
+    "%": "59.67",
     "Hifz": 14,
     "Dirasat ": 2,
     "Kitab Taharat": 13,
@@ -1990,13 +1991,13 @@ var studentsdata=[
     "Maths": 5,
     "Science": 41,
     "Deduction": 0,
-    "الجملة": 179,
-    "%": "59.67"
+    "الجملة": 179
    },
    {
     "Darajah": "1AF",
     "TRNO": "27986",
     "الاسم": "سكينة بائي  كوثر علي بهائي لاكـرٌا والا",
+    "%": "56.33",
     "Hifz": 17,
     "Dirasat ": 2,
     "Kitab Taharat": 17,
@@ -2011,13 +2012,13 @@ var studentsdata=[
     "Maths": 3,
     "Science": 26,
     "Deduction": 0,
-    "الجملة": 169,
-    "%": "56.33"
+    "الجملة": 169
    },
    {
     "Darajah": "1BF",
     "TRNO": "27987",
     "الاسم": "بتول بائي  ادريس بهائي سائرا والا",
+    "%": "63.33",
     "Hifz": 12,
     "Dirasat ": 5,
     "Kitab Taharat": 19,
@@ -2032,13 +2033,13 @@ var studentsdata=[
     "Maths": 9,
     "Science": 39,
     "Deduction": 0,
-    "الجملة": 190,
-    "%": "63.33"
+    "الجملة": 190
    },
    {
     "Darajah": "1BM",
     "TRNO": "27989",
     "الاسم": "مصطفى بهائي صاحب مفضل بهائي صاحب زكوي",
+    "%": "59.67",
     "Hifz": 16,
     "Dirasat ": 9,
     "Kitab Taharat": 18,
@@ -2053,13 +2054,13 @@ var studentsdata=[
     "Maths": 1,
     "Science": 35,
     "Deduction": 0,
-    "الجملة": 179,
-    "%": "59.67"
+    "الجملة": 179
    },
    {
     "Darajah": "1CF",
     "TRNO": "27990",
     "الاسم": "فاطمة بائي  مفضل بهائي جيونجي",
+    "%": "47.33",
     "Hifz": 20,
     "Dirasat ": 2,
     "Kitab Taharat": 14,
@@ -2074,13 +2075,13 @@ var studentsdata=[
     "Maths": 4,
     "Science": 27,
     "Deduction": 0,
-    "الجملة": 142,
-    "%": "47.33"
+    "الجملة": 142
    },
    {
     "Darajah": "1AF",
     "TRNO": "27991",
     "الاسم": "نورية بائي الشيخ شبير بهائي موربـي والا",
+    "%": "55.67",
     "Hifz": 17,
     "Dirasat ": 2,
     "Kitab Taharat": 14,
@@ -2095,13 +2096,13 @@ var studentsdata=[
     "Maths": 7,
     "Science": 32,
     "Deduction": 0,
-    "الجملة": 167,
-    "%": "55.67"
+    "الجملة": 167
    },
    {
     "Darajah": "1BF",
     "TRNO": "27993",
     "الاسم": "مارية بائي  حسين بهائي طاهر علي",
+    "%": "63.67",
     "Hifz": 12,
     "Dirasat ": 5,
     "Kitab Taharat": 20,
@@ -2116,13 +2117,13 @@ var studentsdata=[
     "Maths": 3,
     "Science": 38,
     "Deduction": 0,
-    "الجملة": 191,
-    "%": "63.67"
+    "الجملة": 191
    },
    {
     "Darajah": "1BF",
     "TRNO": "27995",
     "الاسم": "زهراء بائي الشيخ علي اصغر بهائي علي بهائي",
+    "%": "51.33",
     "Hifz": 13,
     "Dirasat ": 3,
     "Kitab Taharat": 7,
@@ -2137,13 +2138,13 @@ var studentsdata=[
     "Maths": 11,
     "Science": 30,
     "Deduction": 0,
-    "الجملة": 154,
-    "%": "51.33"
+    "الجملة": 154
    },
    {
     "Darajah": "1AM",
     "TRNO": "27999",
     "الاسم": "برهان الدين بهائي الشيخ مرتضى بهائي بهورا",
+    "%": "52.33",
     "Hifz": 17,
     "Dirasat ": 2,
     "Kitab Taharat": 14,
@@ -2158,13 +2159,13 @@ var studentsdata=[
     "Maths": 5,
     "Science": 25,
     "Deduction": 0,
-    "الجملة": 157,
-    "%": "52.33"
+    "الجملة": 157
    },
    {
     "Darajah": "1BM",
     "TRNO": "28000",
     "الاسم": "مفضل بهائي الشيخ حذيفة بهائي عزي",
+    "%": "40.67",
     "Hifz": 11,
     "Dirasat ": 4,
     "Kitab Taharat": 13,
@@ -2179,13 +2180,13 @@ var studentsdata=[
     "Maths": 1,
     "Science": 19,
     "Deduction": 0,
-    "الجملة": 122,
-    "%": "40.67"
+    "الجملة": 122
    },
    {
     "Darajah": "1BM",
     "TRNO": "28003",
     "الاسم": "رجب علي بهائي ملا ذو الفقار بهائي محمد علي",
+    "%": "25.33",
     "Hifz": 10,
     "Dirasat ": 2,
     "Kitab Taharat": 11,
@@ -2200,13 +2201,13 @@ var studentsdata=[
     "Maths": 2,
     "Science": 9,
     "Deduction": 0,
-    "الجملة": 76,
-    "%": "25.33"
+    "الجملة": 76
    },
    {
     "Darajah": "1BF",
     "TRNO": "28007",
     "الاسم": "انسية بائي صاحب علي اصغر بهائي صاحب وزيري",
+    "%": "73.00",
     "Hifz": 12,
     "Dirasat ": 4,
     "Kitab Taharat": 25,
@@ -2221,13 +2222,13 @@ var studentsdata=[
     "Maths": 15,
     "Science": 39,
     "Deduction": 0,
-    "الجملة": 219,
-    "%": "73.00"
+    "الجملة": 219
    },
    {
     "Darajah": "1BM",
     "TRNO": "28008",
     "الاسم": "ادريس بهائي ملا مصطفى بهائي داكـضضر",
+    "%": "60.00",
     "Hifz": 15,
     "Dirasat ": 5,
     "Kitab Taharat": 21,
@@ -2242,13 +2243,13 @@ var studentsdata=[
     "Maths": 8,
     "Science": 33,
     "Deduction": 0,
-    "الجملة": 180,
-    "%": "60.00"
+    "الجملة": 180
    },
    {
     "Darajah": "1AF",
     "TRNO": "28009",
     "الاسم": "زهراء بائي  مرتضى بهائي جانو والا",
+    "%": "66.00",
     "Hifz": 18,
     "Dirasat ": 2,
     "Kitab Taharat": 19,
@@ -2263,13 +2264,13 @@ var studentsdata=[
     "Maths": 3,
     "Science": 41,
     "Deduction": 0,
-    "الجملة": 198,
-    "%": "66.00"
+    "الجملة": 198
    },
    {
     "Darajah": "1AM",
     "TRNO": "28012",
     "الاسم": "حسين بهائي ملا سيف الدين بهائي عطار والا",
+    "%": "66.33",
     "Hifz": 18,
     "Dirasat ": 2,
     "Kitab Taharat": 19,
@@ -2284,13 +2285,13 @@ var studentsdata=[
     "Maths": 2,
     "Science": 34,
     "Deduction": 0,
-    "الجملة": 199,
-    "%": "66.33"
+    "الجملة": 199
    },
    {
     "Darajah": "1AM",
     "TRNO": "28016",
     "الاسم": "عباس بهائي ملا مرتضى بهائي شاكر",
+    "%": "62.67",
     "Hifz": 19,
     "Dirasat ": 2,
     "Kitab Taharat": 19,
@@ -2305,13 +2306,13 @@ var studentsdata=[
     "Maths": 8,
     "Science": 38,
     "Deduction": 0,
-    "الجملة": 188,
-    "%": "62.67"
+    "الجملة": 188
    },
    {
     "Darajah": "1CF",
     "TRNO": "28020",
     "الاسم": "فاطمة بائي ملا خزيمة بهائي داؤد جي",
+    "%": "48.00",
     "Hifz": 13,
     "Dirasat ": 4,
     "Kitab Taharat": 11,
@@ -2326,13 +2327,13 @@ var studentsdata=[
     "Maths": 4,
     "Science": 33,
     "Deduction": 0,
-    "الجملة": 144,
-    "%": "48.00"
+    "الجملة": 144
    },
    {
     "Darajah": "1AF",
     "TRNO": "28021",
     "الاسم": "فريدة بائي الشيخ مرتضى بهائي صليحي",
+    "%": "45.00",
     "Hifz": 2,
     "Dirasat ": 2,
     "Kitab Taharat": 11,
@@ -2347,13 +2348,13 @@ var studentsdata=[
     "Maths": 5,
     "Science": 30,
     "Deduction": 0,
-    "الجملة": 135,
-    "%": "45.00"
+    "الجملة": 135
    },
    {
     "Darajah": "1CM",
     "TRNO": "28023",
     "الاسم": "مقداد بهائي ملا حسين بهائي تانبا والا",
+    "%": "33.33",
     "Hifz": 9,
     "Dirasat ": 2,
     "Kitab Taharat": 5,
@@ -2368,13 +2369,13 @@ var studentsdata=[
     "Maths": 2,
     "Science": 28,
     "Deduction": 0,
-    "الجملة": 100,
-    "%": "33.33"
+    "الجملة": 100
    },
    {
     "Darajah": "1BM",
     "TRNO": "28024",
     "الاسم": "مرتضى بهائي الشيخ يوسف بهائي حامد ( رمكـرٌا والا )",
+    "%": "51.00",
     "Hifz": 14,
     "Dirasat ": 6,
     "Kitab Taharat": 10,
@@ -2389,13 +2390,13 @@ var studentsdata=[
     "Maths": 9,
     "Science": 26,
     "Deduction": 0,
-    "الجملة": 153,
-    "%": "51.00"
+    "الجملة": 153
    },
    {
     "Darajah": "1CM",
     "TRNO": "28027",
     "الاسم": "إبراهيم بهائي ملا مصطفى بهائي سنيل والا",
+    "%": "45.33",
     "Hifz": 10,
     "Dirasat ": 2,
     "Kitab Taharat": 10,
@@ -2410,13 +2411,13 @@ var studentsdata=[
     "Maths": 2,
     "Science": 32,
     "Deduction": 0,
-    "الجملة": 136,
-    "%": "45.33"
+    "الجملة": 136
    },
    {
     "Darajah": "1BM",
     "TRNO": "28028",
     "الاسم": "عباس بهائي ملا حكيم الدين بهائي شاكر",
+    "%": "57.33",
     "Hifz": 18,
     "Dirasat ": 5,
     "Kitab Taharat": 17,
@@ -2431,13 +2432,13 @@ var studentsdata=[
     "Maths": 6,
     "Science": 23,
     "Deduction": 0,
-    "الجملة": 172,
-    "%": "57.33"
+    "الجملة": 172
    },
    {
     "Darajah": "1CF",
     "TRNO": "28030",
     "الاسم": "حوراء بائي ملا برهان الدين بهائي حامد",
+    "%": "74.33",
     "Hifz": 15,
     "Dirasat ": 4,
     "Kitab Taharat": 22,
@@ -2452,13 +2453,13 @@ var studentsdata=[
     "Maths": 13,
     "Science": 41,
     "Deduction": 0,
-    "الجملة": 223,
-    "%": "74.33"
+    "الجملة": 223
    },
    {
     "Darajah": "1AM",
     "TRNO": "28031",
     "الاسم": "علي بهائي الشيخ شبير بهائي دوحد والا",
+    "%": "65.00",
     "Hifz": 19,
     "Dirasat ": 3,
     "Kitab Taharat": 13,
@@ -2473,13 +2474,13 @@ var studentsdata=[
     "Maths": 10,
     "Science": 33,
     "Deduction": 0,
-    "الجملة": 195,
-    "%": "65.00"
+    "الجملة": 195
    },
    {
     "Darajah": "1CM",
     "TRNO": "28032",
     "الاسم": "ابراهيم بهائي صاحب علي اكبر بهائي صاحب سيفي",
+    "%": "56.33",
     "Hifz": 16,
     "Dirasat ": 4,
     "Kitab Taharat": 13,
@@ -2494,13 +2495,13 @@ var studentsdata=[
     "Maths": 5,
     "Science": 33,
     "Deduction": 0,
-    "الجملة": 169,
-    "%": "56.33"
+    "الجملة": 169
    },
    {
     "Darajah": "1BF",
     "TRNO": "28038",
     "الاسم": "نفيسة بائي ملا مرتضى بهائي ذاكر",
+    "%": "62.00",
     "Hifz": 18,
     "Dirasat ": 4,
     "Kitab Taharat": 15,
@@ -2515,13 +2516,13 @@ var studentsdata=[
     "Maths": 7,
     "Science": 32,
     "Deduction": 0,
-    "الجملة": 186,
-    "%": "62.00"
+    "الجملة": 186
    },
    {
     "Darajah": "1CF",
     "TRNO": "28054",
     "الاسم": "الفية بائي الشيخ حسين بهائي سالدي والا",
+    "%": "76.67",
     "Hifz": 18,
     "Dirasat ": 4,
     "Kitab Taharat": 21,
@@ -2536,13 +2537,13 @@ var studentsdata=[
     "Maths": 13,
     "Science": 43,
     "Deduction": 0,
-    "الجملة": 230,
-    "%": "76.67"
+    "الجملة": 230
    },
    {
     "Darajah": "1AF",
     "TRNO": "28058",
     "الاسم": "امة الله بائي  مرتضى بهائي موربـي والا",
+    "%": "51.33",
     "Hifz": 13,
     "Dirasat ": 2,
     "Kitab Taharat": 18,
@@ -2557,13 +2558,13 @@ var studentsdata=[
     "Maths": 3,
     "Science": 36,
     "Deduction": 0,
-    "الجملة": 154,
-    "%": "51.33"
+    "الجملة": 154
    },
    {
     "Darajah": "1BF",
     "TRNO": "28064",
     "الاسم": "سكينة بائي صاحب معز بهائي صاحب هبة الله",
+    "%": "64.00",
     "Hifz": 11,
     "Dirasat ": 3,
     "Kitab Taharat": 13,
@@ -2578,13 +2579,13 @@ var studentsdata=[
     "Maths": 7,
     "Science": 44,
     "Deduction": 0,
-    "الجملة": 192,
-    "%": "64.00"
+    "الجملة": 192
    },
    {
     "Darajah": "1BF",
     "TRNO": "28069",
     "الاسم": "سكينة بائي  حذيفة بهائي جاود والا",
+    "%": "77.00",
     "Hifz": 20,
     "Dirasat ": 8,
     "Kitab Taharat": 29,
@@ -2599,13 +2600,13 @@ var studentsdata=[
     "Maths": 12,
     "Science": 36,
     "Deduction": 0,
-    "الجملة": 231,
-    "%": "77.00"
+    "الجملة": 231
    },
    {
     "Darajah": "1CF",
     "TRNO": "28070",
     "الاسم": "عجب بائي ملا مرتضى بهائي چيــبا",
+    "%": "58.33",
     "Hifz": 14,
     "Dirasat ": 4,
     "Kitab Taharat": 11,
@@ -2620,13 +2621,13 @@ var studentsdata=[
     "Maths": 17,
     "Science": 38,
     "Deduction": 0,
-    "الجملة": 175,
-    "%": "58.33"
+    "الجملة": 175
    },
    {
     "Darajah": "1BM",
     "TRNO": "28071",
     "الاسم": "مصطفى بهائي ملا حذيفة بهائي نل والا",
+    "%": "59.67",
     "Hifz": 13,
     "Dirasat ": 8,
     "Kitab Taharat": 10,
@@ -2641,13 +2642,13 @@ var studentsdata=[
     "Maths": 15,
     "Science": 36,
     "Deduction": 0,
-    "الجملة": 179,
-    "%": "59.67"
+    "الجملة": 179
    },
    {
     "Darajah": "1BF",
     "TRNO": "28088",
     "الاسم": "زهراء بائي  جوذر بهائي هالائي",
+    "%": "38.67",
     "Hifz": 16,
     "Dirasat ": 3,
     "Kitab Taharat": 6,
@@ -2662,13 +2663,13 @@ var studentsdata=[
     "Maths": 3,
     "Science": 25,
     "Deduction": 0,
-    "الجملة": 116,
-    "%": "38.67"
+    "الجملة": 116
    },
    {
     "Darajah": "1CF",
     "TRNO": "28091",
     "الاسم": "امة الله بائي  باقر علي بهائي ثثوتهي والا",
+    "%": "45.00",
     "Hifz": 9,
     "Dirasat ": 4,
     "Kitab Taharat": 13,
@@ -2683,13 +2684,13 @@ var studentsdata=[
     "Maths": 12,
     "Science": 31,
     "Deduction": 0,
-    "الجملة": 135,
-    "%": "45.00"
+    "الجملة": 135
    },
    {
     "Darajah": "1AF",
     "TRNO": "28092",
     "الاسم": "زهراء بائي  باقر علي بهائي ثثوتهي والا",
+    "%": "35.33",
     "Hifz": 8,
     "Dirasat ": 1,
     "Kitab Taharat": 7,
@@ -2704,13 +2705,13 @@ var studentsdata=[
     "Maths": 5,
     "Science": 19,
     "Deduction": 0,
-    "الجملة": 106,
-    "%": "35.33"
+    "الجملة": 106
    },
    {
     "Darajah": "2AM",
     "TRNO": "27642",
     "الاسم": "برهان الدين بهائي  حذيفة بهائي نل والا",
+    "%": "80.00",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 25,
@@ -2725,13 +2726,13 @@ var studentsdata=[
     "Maths ": 15,
     "Science ": 38,
     "Deduction": 0,
-    "الجملة": 240,
-    "%": "80.00"
+    "الجملة": 240
    },
    {
     "Darajah": "2AM",
     "TRNO": "27493",
     "الاسم": "ادريس بهائي ملا فخر الدين بهائي دودهـ  والا",
+    "%": "81.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 25,
@@ -2746,13 +2747,13 @@ var studentsdata=[
     "Maths ": 15,
     "Science ": 44,
     "Deduction": 0,
-    "الجملة": 244,
-    "%": "81.33"
+    "الجملة": 244
    },
    {
     "Darajah": "2AM",
     "TRNO": "27413",
     "الاسم": "عبد الحسين بهائي الشيخ حذيفة بهائي ريشم والا",
+    "%": "86.33",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 29,
@@ -2767,13 +2768,13 @@ var studentsdata=[
     "Maths ": 19,
     "Science ": 43,
     "Deduction": 0,
-    "الجملة": 259,
-    "%": "86.33"
+    "الجملة": 259
    },
    {
     "Darajah": "2AM",
     "TRNO": "27375",
     "الاسم": "خزيمة بهائي  حذيفة بهائي دوحد والا",
+    "%": "91.00",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 28,
@@ -2788,13 +2789,13 @@ var studentsdata=[
     "Maths ": 19,
     "Science ": 47,
     "Deduction": 0,
-    "الجملة": 273,
-    "%": "91.00"
+    "الجملة": 273
    },
    {
     "Darajah": "2AM",
     "TRNO": "27421",
     "الاسم": "وجيه الدين بهائي ملا حكيم الدين بهائي حنيف",
+    "%": "76.00",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 25,
@@ -2809,13 +2810,13 @@ var studentsdata=[
     "Maths ": 17,
     "Science ": 44,
     "Deduction": 0,
-    "الجملة": 228,
-    "%": "76.00"
+    "الجملة": 228
    },
    {
     "Darajah": "2AM",
     "TRNO": "27559",
     "الاسم": "طاهر بهائي  علي اكبر بهائي خـموسي",
+    "%": "76.33",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 24,
@@ -2830,13 +2831,13 @@ var studentsdata=[
     "Maths ": 12,
     "Science ": 41,
     "Deduction": 0,
-    "الجملة": 229,
-    "%": "76.33"
+    "الجملة": 229
    },
    {
     "Darajah": "2AM",
     "TRNO": "27566",
     "الاسم": "حسين بهائي الشيخ يوسف بهائي منمارٌ والا",
+    "%": "66.33",
     "الحفظ (الشفوي)": 9,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 19,
@@ -2851,13 +2852,13 @@ var studentsdata=[
     "Maths ": 6,
     "Science ": 35,
     "Deduction": 0,
-    "الجملة": 199,
-    "%": "66.33"
+    "الجملة": 199
    },
    {
     "Darajah": "2AM",
     "TRNO": "27430",
     "الاسم": "علي اصغر بهائي ملا اكبر بهائي غريـبة والا",
+    "%": "66.67",
     "الحفظ (الشفوي)": 9,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 19,
@@ -2872,13 +2873,13 @@ var studentsdata=[
     "Maths ": 10,
     "Science ": 41,
     "Deduction": 0,
-    "الجملة": 200,
-    "%": "66.67"
+    "الجملة": 200
    },
    {
     "Darajah": "2AM",
     "TRNO": "27608",
     "الاسم": "بحلاح بهائي صاحب مرتضى بهائي صاحب محمدي",
+    "%": "67.33",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 23,
@@ -2893,13 +2894,13 @@ var studentsdata=[
     "Maths ": 4,
     "Science ": 37,
     "Deduction": 0,
-    "الجملة": 202,
-    "%": "67.33"
+    "الجملة": 202
    },
    {
     "Darajah": "2AM",
     "TRNO": "27658",
     "الاسم": "إبراهيم بهائي الشيخ عدنان بهائي خوراكي والا",
+    "%": "62.33",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 20,
@@ -2914,13 +2915,13 @@ var studentsdata=[
     "Maths ": 6,
     "Science ": 36,
     "Deduction": 0,
-    "الجملة": 187,
-    "%": "62.33"
+    "الجملة": 187
    },
    {
     "Darajah": "2AM",
     "TRNO": "27452",
     "الاسم": "هنيد بهائي  جوذر بهائي دهانيراوالا",
+    "%": "74.67",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 26,
@@ -2935,13 +2936,13 @@ var studentsdata=[
     "Maths ": 17,
     "Science ": 40,
     "Deduction": 0,
-    "الجملة": 224,
-    "%": "74.67"
+    "الجملة": 224
    },
    {
     "Darajah": "2AM",
     "TRNO": "27528",
     "الاسم": "مرتضى بهائي ملا محمد بهائي سليمان جي",
+    "%": "78.00",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 25,
@@ -2956,13 +2957,13 @@ var studentsdata=[
     "Maths ": 16,
     "Science ": 38,
     "Deduction": 0,
-    "الجملة": 234,
-    "%": "78.00"
+    "الجملة": 234
    },
    {
     "Darajah": "2AM",
     "TRNO": "27365",
     "الاسم": "حذيفة بهائي الشيخ جوذر بهائي حامد",
+    "%": "64.00",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 3,
     "مختصر الاْثار ": 25,
@@ -2977,13 +2978,13 @@ var studentsdata=[
     "Maths ": 7,
     "Science ": 32,
     "Deduction": 0,
-    "الجملة": 192,
-    "%": "64.00"
+    "الجملة": 192
    },
    {
     "Darajah": "2AM",
     "TRNO": "27494",
     "الاسم": "إبراهيم بهائي الشيخ طه بهائي حسين",
+    "%": "69.00",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 23,
@@ -2998,13 +2999,13 @@ var studentsdata=[
     "Maths ": 7,
     "Science ": 32,
     "Deduction": 0,
-    "الجملة": 207,
-    "%": "69.00"
+    "الجملة": 207
    },
    {
     "Darajah": "2AM",
     "TRNO": "27548",
     "الاسم": "مستنصر بهائي صاحب معز بهائي صاحب زيني",
+    "%": "55.67",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 3,
     "مختصر الاْثار ": 13,
@@ -3019,13 +3020,13 @@ var studentsdata=[
     "Maths ": 11,
     "Science ": 34,
     "Deduction": 0,
-    "الجملة": 167,
-    "%": "55.67"
+    "الجملة": 167
    },
    {
     "Darajah": "2AM",
     "TRNO": "27582",
     "الاسم": "طه بهائي ملا حسين بهائي بروحح والا",
+    "%": "59.67",
     "الحفظ (الشفوي)": 20,
     "دراسة علوم القراْن ": 3,
     "مختصر الاْثار ": 14,
@@ -3040,13 +3041,13 @@ var studentsdata=[
     "Maths ": 16,
     "Science ": 37,
     "Deduction": 0,
-    "الجملة": 179,
-    "%": "59.67"
+    "الجملة": 179
    },
    {
     "Darajah": "2AM",
     "TRNO": "27514",
     "الاسم": "حسين بهائي  حذيفة بهائي تن والا",
+    "%": "64.33",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 3,
     "مختصر الاْثار ": 22,
@@ -3061,13 +3062,13 @@ var studentsdata=[
     "Maths ": 6,
     "Science ": 28,
     "Deduction": 0,
-    "الجملة": 193,
-    "%": "64.33"
+    "الجملة": 193
    },
    {
     "Darajah": "2AM",
     "TRNO": "27657",
     "الاسم": "حذيفة بهائي الشيخ معز بهائي يوسف علي",
+    "%": "71.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 26,
@@ -3082,13 +3083,13 @@ var studentsdata=[
     "Maths ": 19,
     "Science ": 37,
     "Deduction": 0,
-    "الجملة": 214,
-    "%": "71.33"
+    "الجملة": 214
    },
    {
     "Darajah": "2AM",
     "TRNO": "27668",
     "الاسم": "ادريس بهائي ملا حسين بهائي ثابت",
+    "%": "52.67",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 22,
@@ -3103,13 +3104,13 @@ var studentsdata=[
     "Maths ": 5,
     "Science ": 8,
     "Deduction": 0,
-    "الجملة": 158,
-    "%": "52.67"
+    "الجملة": 158
    },
    {
     "Darajah": "2AM",
     "TRNO": "27512",
     "الاسم": "حمزة بهائي الشيخ حذيفة بهائي بهارمل",
+    "%": "52.33",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 1,
     "مختصر الاْثار ": 11,
@@ -3124,13 +3125,13 @@ var studentsdata=[
     "Maths ": 12,
     "Science ": 38,
     "Deduction": 0,
-    "الجملة": 157,
-    "%": "52.33"
+    "الجملة": 157
    },
    {
     "Darajah": "2AM",
     "TRNO": "27675",
     "الاسم": "عبد الله بهائي  علي بهائي الـمري",
+    "%": "48.67",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 1,
     "مختصر الاْثار ": 18,
@@ -3145,13 +3146,13 @@ var studentsdata=[
     "Maths ": 5,
     "Science ": 17,
     "Deduction": 0,
-    "الجملة": 146,
-    "%": "48.67"
+    "الجملة": 146
    },
    {
     "Darajah": "2AM",
     "TRNO": "27252",
     "الاسم": "برهان الدين بهائي الشيخ يوسف بهائي سراج",
+    "%": "39.00",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 1,
     "مختصر الاْثار ": 11,
@@ -3166,13 +3167,13 @@ var studentsdata=[
     "Maths ": 4,
     "Science ": 39,
     "Deduction": 0,
-    "الجملة": 117,
-    "%": "39.00"
+    "الجملة": 117
    },
    {
     "Darajah": "2BM",
     "TRNO": "27483",
     "الاسم": "إسمعيل بهائي الشيخ معز بهائي تارمل",
+    "%": "82.33",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 27,
@@ -3187,13 +3188,13 @@ var studentsdata=[
     "Maths ": 10,
     "Science ": 40,
     "Deduction": 0,
-    "الجملة": 247,
-    "%": "82.33"
+    "الجملة": 247
    },
    {
     "Darajah": "2BM",
     "TRNO": "27569",
     "الاسم": "ادريس بهائي الشيخ مفضل بهائي ايليكــتريك والا",
+    "%": "67.33",
     "الحفظ (الشفوي)": 20,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 27,
@@ -3208,13 +3209,13 @@ var studentsdata=[
     "Maths ": 6,
     "Science ": 20,
     "Deduction": 0,
-    "الجملة": 202,
-    "%": "67.33"
+    "الجملة": 202
    },
    {
     "Darajah": "2BM",
     "TRNO": "27501",
     "الاسم": "تيخوم بهائي ملا مفضل بهائي وجيـهي",
+    "%": "70.67",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 24,
@@ -3229,13 +3230,13 @@ var studentsdata=[
     "Maths ": 14,
     "Science ": 29,
     "Deduction": 0,
-    "الجملة": 212,
-    "%": "70.67"
+    "الجملة": 212
    },
    {
     "Darajah": "2BM",
     "TRNO": "27428",
     "الاسم": "مكرّم بهائي  علي اصغر بهائي عالي راجپور والا",
+    "%": "84.67",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 27,
@@ -3250,13 +3251,13 @@ var studentsdata=[
     "Maths ": 16,
     "Science ": 45,
     "Deduction": 0,
-    "الجملة": 254,
-    "%": "84.67"
+    "الجملة": 254
    },
    {
     "Darajah": "2BM",
     "TRNO": "27515",
     "الاسم": "طاهر بهائي الشيخ زهير بهائي هريانه  والا",
+    "%": "68.00",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 22,
@@ -3271,13 +3272,13 @@ var studentsdata=[
     "Maths ": 12,
     "Science ": 33,
     "Deduction": 0,
-    "الجملة": 204,
-    "%": "68.00"
+    "الجملة": 204
    },
    {
     "Darajah": "2BM",
     "TRNO": "27464",
     "الاسم": "آدم بهائي  مرتضى بهائي دوساجي",
+    "%": "63.33",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 17,
@@ -3292,13 +3293,13 @@ var studentsdata=[
     "Maths ": 4,
     "Science ": 21,
     "Deduction": 0,
-    "الجملة": 190,
-    "%": "63.33"
+    "الجملة": 190
    },
    {
     "Darajah": "2BM",
     "TRNO": "27462",
     "الاسم": "حسين بهائي  حذيفة بهائي سنيلي",
+    "%": "64.67",
     "الحفظ (الشفوي)": 7,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 25,
@@ -3313,13 +3314,13 @@ var studentsdata=[
     "Maths ": 17,
     "Science ": 35,
     "Deduction": 0,
-    "الجملة": 194,
-    "%": "64.67"
+    "الجملة": 194
    },
    {
     "Darajah": "2BM",
     "TRNO": "27636",
     "الاسم": "حسين بهائي ملا مصطفى بهائي كهامككاؤطط والا",
+    "%": "65.00",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 23,
@@ -3334,13 +3335,13 @@ var studentsdata=[
     "Maths ": 9,
     "Science ": 31,
     "Deduction": 0,
-    "الجملة": 195,
-    "%": "65.00"
+    "الجملة": 195
    },
    {
     "Darajah": "2BM",
     "TRNO": "27456",
     "الاسم": "حسين بهائي الشيخ حذيفة بهائي شرف علي",
+    "%": "67.33",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 23,
@@ -3355,13 +3356,13 @@ var studentsdata=[
     "Maths ": 9,
     "Science ": 35,
     "Deduction": 0,
-    "الجملة": 202,
-    "%": "67.33"
+    "الجملة": 202
    },
    {
     "Darajah": "2BM",
     "TRNO": "27564",
     "الاسم": "طاهر بهائي صاحب مصطفى بهائي صاحب زيني",
+    "%": "69.00",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 22,
@@ -3376,13 +3377,13 @@ var studentsdata=[
     "Maths ": 16,
     "Science ": 31,
     "Deduction": 0,
-    "الجملة": 207,
-    "%": "69.00"
+    "الجملة": 207
    },
    {
     "Darajah": "2BM",
     "TRNO": "27525",
     "الاسم": "العقيان بهائي ملا علي اصغر بهائي شيشهود والا",
+    "%": "76.33",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 24,
@@ -3397,13 +3398,13 @@ var studentsdata=[
     "Maths ": 11,
     "Science ": 42,
     "Deduction": 0,
-    "الجملة": 229,
-    "%": "76.33"
+    "الجملة": 229
    },
    {
     "Darajah": "2BM",
     "TRNO": "27463",
     "الاسم": "مصطفى بهائي الشيخ مرتضى بهائي شاكر",
+    "%": "67.00",
     "الحفظ (الشفوي)": 20,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 22,
@@ -3418,13 +3419,13 @@ var studentsdata=[
     "Maths ": 9,
     "Science ": 24,
     "Deduction": 0,
-    "الجملة": 201,
-    "%": "67.00"
+    "الجملة": 201
    },
    {
     "Darajah": "2BM",
     "TRNO": "27509",
     "الاسم": "عدنان بهائي الشيخ يوسف بهائي رامثثور  والا",
+    "%": "59.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 16,
@@ -3439,13 +3440,13 @@ var studentsdata=[
     "Maths ": 4,
     "Science ": 33,
     "Deduction": 0,
-    "الجملة": 178,
-    "%": "59.33"
+    "الجملة": 178
    },
    {
     "Darajah": "2BM",
     "TRNO": "27495",
     "الاسم": "محمد بهائي ملا علي اصغر بهائي سنيل والا",
+    "%": "69.67",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 24,
@@ -3460,13 +3461,13 @@ var studentsdata=[
     "Maths ": 6,
     "Science ": 37,
     "Deduction": 0,
-    "الجملة": 209,
-    "%": "69.67"
+    "الجملة": 209
    },
    {
     "Darajah": "2BM",
     "TRNO": "27618",
     "الاسم": "ادريس بهائي ملا حذيفة بهائي لـكوني والا",
+    "%": "51.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 10,
@@ -3481,13 +3482,13 @@ var studentsdata=[
     "Maths ": 7,
     "Science ": 29,
     "Deduction": 0,
-    "الجملة": 154,
-    "%": "51.33"
+    "الجملة": 154
    },
    {
     "Darajah": "2BM",
     "TRNO": "27407",
     "الاسم": "عبد القادر بهائي الشيخ معز بهائي زيراثثور والا",
+    "%": "65.33",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 23,
@@ -3502,13 +3503,13 @@ var studentsdata=[
     "Maths ": 10,
     "Science ": 35,
     "Deduction": 0,
-    "الجملة": 196,
-    "%": "65.33"
+    "الجملة": 196
    },
    {
     "Darajah": "2BM",
     "TRNO": "27707",
     "الاسم": "مستنصر بهائي ملا مفضل بهائي جري والا",
+    "%": "49.00",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 16,
@@ -3523,13 +3524,13 @@ var studentsdata=[
     "Maths ": 6,
     "Science ": 25,
     "Deduction": 0,
-    "الجملة": 147,
-    "%": "49.00"
+    "الجملة": 147
    },
    {
     "Darajah": "2BM",
     "TRNO": "27632",
     "الاسم": "حسين بهائي  حذيفة بهائي تيل والا",
+    "%": "46.67",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 14,
@@ -3544,13 +3545,13 @@ var studentsdata=[
     "Maths ": 7,
     "Science ": 25,
     "Deduction": 0,
-    "الجملة": 140,
-    "%": "46.67"
+    "الجملة": 140
    },
    {
     "Darajah": "2BM",
     "TRNO": "27151",
     "الاسم": "مستنصر بهائي ملا حذيفة بهائي سيفي",
+    "%": "60.33",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 19,
@@ -3565,13 +3566,13 @@ var studentsdata=[
     "Maths ": 7,
     "Science ": 38,
     "Deduction": 0,
-    "الجملة": 181,
-    "%": "60.33"
+    "الجملة": 181
    },
    {
     "Darajah": "2BM",
     "TRNO": "27676",
     "الاسم": "طه بهائي ملا مفضل بهائي الأحلسي",
+    "%": "37.00",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 16,
@@ -3586,13 +3587,13 @@ var studentsdata=[
     "Maths ": 5,
     "Science ": 4,
     "Deduction": 0,
-    "الجملة": 111,
-    "%": "37.00"
+    "الجملة": 111
    },
    {
     "Darajah": "2BM",
     "TRNO": "27679",
     "الاسم": "حسين بهائي الشيخ طيب بهائي ثابت",
+    "%": "43.33",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 19,
@@ -3607,13 +3608,13 @@ var studentsdata=[
     "Maths ": 5,
     "Science ": 6,
     "Deduction": 0,
-    "الجملة": 130,
-    "%": "43.33"
+    "الجملة": 130
    },
    {
     "Darajah": "2BM",
     "TRNO": "27615",
     "الاسم": "حسين بهائي صاحب مفضل بهائي صاحب ميمون",
+    "%": "45.00",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 1,
     "مختصر الاْثار ": 9,
@@ -3628,13 +3629,13 @@ var studentsdata=[
     "Maths ": 16,
     "Science ": 39,
     "Deduction": 0,
-    "الجملة": 135,
-    "%": "45.00"
+    "الجملة": 135
    },
    {
     "Darajah": "2BM",
     "TRNO": "27731",
     "الاسم": "برهان الدين بهائي ملا ذو الفقار بهائي محمد علي",
+    "%": "39.00",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 1,
     "مختصر الاْثار ": 12,
@@ -3649,13 +3650,13 @@ var studentsdata=[
     "Maths ": 4,
     "Science ": 15,
     "Deduction": 0,
-    "الجملة": 117,
-    "%": "39.00"
+    "الجملة": 117
    },
    {
     "Darajah": "2CM",
     "TRNO": "27398",
     "الاسم": "جوذر بهائي الشيخ احمد بهائي مل والا",
+    "%": "72.00",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 22,
@@ -3670,13 +3671,13 @@ var studentsdata=[
     "Maths ": 7,
     "Science ": 39,
     "Deduction": 0,
-    "الجملة": 216,
-    "%": "72.00"
+    "الجملة": 216
    },
    {
     "Darajah": "2CM",
     "TRNO": "27458",
     "الاسم": "حسين بهائي ملا علي اصغر بهائي اسضضوديو والا",
+    "%": "83.00",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 27,
@@ -3691,13 +3692,13 @@ var studentsdata=[
     "Maths ": 15,
     "Science ": 44,
     "Deduction": 0,
-    "الجملة": 249,
-    "%": "83.00"
+    "الجملة": 249
    },
    {
     "Darajah": "2CM",
     "TRNO": "27391",
     "الاسم": "يوسف بهائي الشيخ جعفر الصادق بهائي ميمون",
+    "%": "80.67",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 26,
@@ -3712,13 +3713,13 @@ var studentsdata=[
     "Maths ": 10,
     "Science ": 43,
     "Deduction": 0,
-    "الجملة": 242,
-    "%": "80.67"
+    "الجملة": 242
    },
    {
     "Darajah": "2CM",
     "TRNO": "27378",
     "الاسم": "حسين بهائي الشيخ إلياس بهائي حامد",
+    "%": "82.00",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 28,
@@ -3733,13 +3734,13 @@ var studentsdata=[
     "Maths ": 13,
     "Science ": 45,
     "Deduction": 0,
-    "الجملة": 246,
-    "%": "82.00"
+    "الجملة": 246
    },
    {
     "Darajah": "2CM",
     "TRNO": "27360",
     "الاسم": "حاتم بهائي  مستعلي بهائي دهانيراوالا",
+    "%": "81.67",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 26,
@@ -3754,13 +3755,13 @@ var studentsdata=[
     "Maths ": 11,
     "Science ": 44,
     "Deduction": 0,
-    "الجملة": 245,
-    "%": "81.67"
+    "الجملة": 245
    },
    {
     "Darajah": "2CM",
     "TRNO": "27511",
     "الاسم": "حمزة بهائي الشيخ مصطفى بهائي امين",
+    "%": "80.00",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 25,
@@ -3775,13 +3776,13 @@ var studentsdata=[
     "Maths ": 20,
     "Science ": 44,
     "Deduction": 0,
-    "الجملة": 240,
-    "%": "80.00"
+    "الجملة": 240
    },
    {
     "Darajah": "2CM",
     "TRNO": "27545",
     "الاسم": "برهان الدين بهائي ملا عبد القادر بهائي داكـضضر",
+    "%": "73.00",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 29,
@@ -3796,13 +3797,13 @@ var studentsdata=[
     "Maths ": 6,
     "Science ": 42,
     "Deduction": 0,
-    "الجملة": 219,
-    "%": "73.00"
+    "الجملة": 219
    },
    {
     "Darajah": "2CM",
     "TRNO": "27502",
     "الاسم": "إبراهيم بهائي  مرتضى بهائي كـتـاب والا",
+    "%": "76.00",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 21,
@@ -3817,13 +3818,13 @@ var studentsdata=[
     "Maths ": 10,
     "Science ": 39,
     "Deduction": 0,
-    "الجملة": 228,
-    "%": "76.00"
+    "الجملة": 228
    },
    {
     "Darajah": "2CM",
     "TRNO": "27520",
     "الاسم": "طاهر بهائي ملا علي اصغر بهائي كاثثرٌيا",
+    "%": "72.67",
     "الحفظ (الشفوي)": 9,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 25,
@@ -3838,13 +3839,13 @@ var studentsdata=[
     "Maths ": 11,
     "Science ": 39,
     "Deduction": 0,
-    "الجملة": 218,
-    "%": "72.67"
+    "الجملة": 218
    },
    {
     "Darajah": "2CM",
     "TRNO": "27519",
     "الاسم": "طه بهائي ملا طاهر بهائي نعماني",
+    "%": "71.00",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 3,
     "مختصر الاْثار ": 28,
@@ -3859,13 +3860,13 @@ var studentsdata=[
     "Maths ": 7,
     "Science ": 43,
     "Deduction": 0,
-    "الجملة": 213,
-    "%": "71.00"
+    "الجملة": 213
    },
    {
     "Darajah": "2CM",
     "TRNO": "27653",
     "الاسم": "محمد بهائي ملا علي اصغر بهائي شاكر",
+    "%": "68.67",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 29,
@@ -3880,13 +3881,13 @@ var studentsdata=[
     "Maths ": 8,
     "Science ": 36,
     "Deduction": 0,
-    "الجملة": 206,
-    "%": "68.67"
+    "الجملة": 206
    },
    {
     "Darajah": "2CM",
     "TRNO": "27702",
     "الاسم": "حمزة بهائي الشيخ حسين بهائي بهاؤكرهـ والا",
+    "%": "65.67",
     "الحفظ (الشفوي)": 9,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 24,
@@ -3901,13 +3902,13 @@ var studentsdata=[
     "Maths ": 4,
     "Science ": 43,
     "Deduction": 0,
-    "الجملة": 197,
-    "%": "65.67"
+    "الجملة": 197
    },
    {
     "Darajah": "2CM",
     "TRNO": "27491",
     "الاسم": "طاهر بهائي صاحب جوذر بهائي صاحب عمادي",
+    "%": "58.00",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 20,
@@ -3922,13 +3923,13 @@ var studentsdata=[
     "Maths ": 4,
     "Science ": 29,
     "Deduction": 0,
-    "الجملة": 174,
-    "%": "58.00"
+    "الجملة": 174
    },
    {
     "Darajah": "2CM",
     "TRNO": "27410",
     "الاسم": "عباس بهائي  مرتضى بهائي بـهيندٌر  والا",
+    "%": "71.33",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 28,
@@ -3943,13 +3944,13 @@ var studentsdata=[
     "Maths ": 4,
     "Science ": 33,
     "Deduction": 0,
-    "الجملة": 214,
-    "%": "71.33"
+    "الجملة": 214
    },
    {
     "Darajah": "2CM",
     "TRNO": "27557",
     "الاسم": "محمد بهائي  سيف الدين بهائي الشيخ ادم",
+    "%": "63.00",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 20,
@@ -3964,13 +3965,13 @@ var studentsdata=[
     "Maths ": 8,
     "Science ": 33,
     "Deduction": 0,
-    "الجملة": 189,
-    "%": "63.00"
+    "الجملة": 189
    },
    {
     "Darajah": "2CM",
     "TRNO": "27552",
     "الاسم": "ابي ذر بهائي ملا سلمان بهائي نور بهائي",
+    "%": "62.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 22,
@@ -3985,13 +3986,13 @@ var studentsdata=[
     "Maths ": 7,
     "Science ": 32,
     "Deduction": 0,
-    "الجملة": 187,
-    "%": "62.33"
+    "الجملة": 187
    },
    {
     "Darajah": "2CM",
     "TRNO": "27534",
     "الاسم": "علي اصغر بهائي ملا معز بهائي تـكسالي",
+    "%": "63.00",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 22,
@@ -4006,13 +4007,13 @@ var studentsdata=[
     "Maths ": 4,
     "Science ": 32,
     "Deduction": 0,
-    "الجملة": 189,
-    "%": "63.00"
+    "الجملة": 189
    },
    {
     "Darajah": "2CM",
     "TRNO": "27590",
     "الاسم": "يوسف بهائي صاحب  مصطفى بهائيبهائي صاحب  زكوي",
+    "%": "59.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 19,
@@ -4027,13 +4028,13 @@ var studentsdata=[
     "Maths ": 6,
     "Science ": 28,
     "Deduction": 0,
-    "الجملة": 178,
-    "%": "59.33"
+    "الجملة": 178
    },
    {
     "Darajah": "2CM",
     "TRNO": "27535",
     "الاسم": "عدنان بهائي الشيخ إسمعيل بهائي وائير مين",
+    "%": "47.00",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 1,
     "مختصر الاْثار ": 22,
@@ -4048,13 +4049,13 @@ var studentsdata=[
     "Maths ": 4,
     "Science ": 25,
     "Deduction": 0,
-    "الجملة": 141,
-    "%": "47.00"
+    "الجملة": 141
    },
    {
     "Darajah": "2CM",
     "TRNO": "27621",
     "الاسم": "شبير بهائي  طاهر بهائي ملاجي والا",
+    "%": "48.33",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 18,
@@ -4069,13 +4070,13 @@ var studentsdata=[
     "Maths ": 4,
     "Science ": 23,
     "Deduction": 0,
-    "الجملة": 145,
-    "%": "48.33"
+    "الجملة": 145
    },
    {
     "Darajah": "2CM",
     "TRNO": "27726",
     "الاسم": "قصي بهائي  جوذر بهائي ثثيـضضي",
+    "%": "63.00",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 26,
@@ -4090,13 +4091,13 @@ var studentsdata=[
     "Maths ": 9,
     "Science ": 33,
     "Deduction": 0,
-    "الجملة": 189,
-    "%": "63.00"
+    "الجملة": 189
    },
    {
     "Darajah": "2CM",
     "TRNO": "27680",
     "الاسم": "برهان الدين بهائي ملا إبراهيم بهائي زيني",
+    "%": "51.00",
     "الحفظ (الشفوي)": 6,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 24,
@@ -4111,13 +4112,13 @@ var studentsdata=[
     "Maths ": 4,
     "Science ": 12,
     "Deduction": 0,
-    "الجملة": 153,
-    "%": "51.00"
+    "الجملة": 153
    },
    {
     "Darajah": "2CM",
     "TRNO": "27725",
     "الاسم": "جوذر بهائي ملا عزيز بهائي فداء علي",
+    "%": "44.00",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 1,
     "مختصر الاْثار ": 15,
@@ -4132,13 +4133,13 @@ var studentsdata=[
     "Maths ": 5,
     "Science ": 12,
     "Deduction": 0,
-    "الجملة": 132,
-    "%": "44.00"
+    "الجملة": 132
    },
    {
     "Darajah": "2AF",
     "TRNO": "27478",
     "الاسم": "سكينة بائي الشيخ معز بهائي دلال",
+    "%": "80.00",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 26,
@@ -4153,13 +4154,13 @@ var studentsdata=[
     "Maths ": 12,
     "Science ": 38,
     "Deduction": 0,
-    "الجملة": 240,
-    "%": "80.00"
+    "الجملة": 240
    },
    {
     "Darajah": "2AF",
     "TRNO": "27457",
     "الاسم": "مريم بائي  مصطفى بهائي رامپوره والا",
+    "%": "82.33",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 25,
@@ -4174,13 +4175,13 @@ var studentsdata=[
     "Maths ": 7,
     "Science ": 41,
     "Deduction": 0,
-    "الجملة": 247,
-    "%": "82.33"
+    "الجملة": 247
    },
    {
     "Darajah": "2AF",
     "TRNO": "27639",
     "الاسم": "إنسية بائي  قريش بهائي راغب",
+    "%": "77.33",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 27,
@@ -4195,13 +4196,13 @@ var studentsdata=[
     "Maths ": 5,
     "Science ": 38,
     "Deduction": 0,
-    "الجملة": 232,
-    "%": "77.33"
+    "الجملة": 232
    },
    {
     "Darajah": "2AF",
     "TRNO": "27423",
     "الاسم": "عجب بائي ملا شبير بهائي احمداباد والا",
+    "%": "69.33",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 22,
@@ -4216,13 +4217,13 @@ var studentsdata=[
     "Maths ": 5,
     "Science ": 32,
     "Deduction": 0,
-    "الجملة": 208,
-    "%": "69.33"
+    "الجملة": 208
    },
    {
     "Darajah": "2AF",
     "TRNO": "27399",
     "الاسم": "زهراء بائي  مرتضى بهائي كانچ والا",
+    "%": "76.00",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 28,
@@ -4237,13 +4238,13 @@ var studentsdata=[
     "Maths ": 7,
     "Science ": 43,
     "Deduction": 0,
-    "الجملة": 228,
-    "%": "76.00"
+    "الجملة": 228
    },
    {
     "Darajah": "2AF",
     "TRNO": "27585",
     "الاسم": "زينب بائي  مفضل بهائي سنيل والا",
+    "%": "76.33",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 26,
@@ -4258,13 +4259,13 @@ var studentsdata=[
     "Maths ": 7,
     "Science ": 43,
     "Deduction": 0,
-    "الجملة": 229,
-    "%": "76.33"
+    "الجملة": 229
    },
    {
     "Darajah": "2AF",
     "TRNO": "27481",
     "الاسم": "فاطمة حبةئي صاحب عبد القادر بهائي صاحب نعماني",
+    "%": "72.33",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 24,
@@ -4279,13 +4280,13 @@ var studentsdata=[
     "Maths ": 10,
     "Science ": 39,
     "Deduction": 0,
-    "الجملة": 217,
-    "%": "72.33"
+    "الجملة": 217
    },
    {
     "Darajah": "2AF",
     "TRNO": "27575",
     "الاسم": "حسينة بائي صاحب عبد الطيب بهائي صاحب شھابي",
+    "%": "67.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 22,
@@ -4300,13 +4301,13 @@ var studentsdata=[
     "Maths ": 2,
     "Science ": 29,
     "Deduction": 0,
-    "الجملة": 202,
-    "%": "67.33"
+    "الجملة": 202
    },
    {
     "Darajah": "2AF",
     "TRNO": "27530",
     "الاسم": "مارية بائي  علي اصغر بهائي مظظوا والا",
+    "%": "74.00",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 3,
     "مختصر الاْثار ": 22,
@@ -4321,13 +4322,13 @@ var studentsdata=[
     "Maths ": 10,
     "Science ": 40,
     "Deduction": 0,
-    "الجملة": 222,
-    "%": "74.00"
+    "الجملة": 222
    },
    {
     "Darajah": "2AF",
     "TRNO": "27411",
     "الاسم": "خديجة بائي الشيخ طه بهائي شاكر",
+    "%": "66.67",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 28,
@@ -4342,13 +4343,13 @@ var studentsdata=[
     "Maths ": 4,
     "Science ": 30,
     "Deduction": 0,
-    "الجملة": 200,
-    "%": "66.67"
+    "الجملة": 200
    },
    {
     "Darajah": "2AF",
     "TRNO": "27549",
     "الاسم": "رباب بائي الشيخ حسين بهائي حكيمي",
+    "%": "60.67",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 19,
@@ -4363,13 +4364,13 @@ var studentsdata=[
     "Maths ": 0,
     "Science ": 26,
     "Deduction": 0,
-    "الجملة": 182,
-    "%": "60.67"
+    "الجملة": 182
    },
    {
     "Darajah": "2AF",
     "TRNO": "27498",
     "الاسم": "عجب بائي  حذيفة بهائي ثثاطن  والا",
+    "%": "53.33",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 3,
     "مختصر الاْثار ": 21,
@@ -4384,13 +4385,13 @@ var studentsdata=[
     "Maths ": 0,
     "Science ": 22,
     "Deduction": 0,
-    "الجملة": 160,
-    "%": "53.33"
+    "الجملة": 160
    },
    {
     "Darajah": "2AF",
     "TRNO": "27467",
     "الاسم": "حسينة بائي  جوذر بهائي رشيد",
+    "%": "62.67",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 12,
@@ -4405,13 +4406,13 @@ var studentsdata=[
     "Maths ": 8,
     "Science ": 31,
     "Deduction": 0,
-    "الجملة": 188,
-    "%": "62.67"
+    "الجملة": 188
    },
    {
     "Darajah": "2AF",
     "TRNO": "27376",
     "الاسم": "زينب بائي الشيخ شبير بهائي گودهره والا",
+    "%": "62.67",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 3,
     "مختصر الاْثار ": 19,
@@ -4426,13 +4427,13 @@ var studentsdata=[
     "Maths ": 0,
     "Science ": 31,
     "Deduction": 0,
-    "الجملة": 188,
-    "%": "62.67"
+    "الجملة": 188
    },
    {
     "Darajah": "2AF",
     "TRNO": "27698",
     "الاسم": "مارية بائي  حذيفة بهائي اجين والا",
+    "%": "49.00",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 11,
@@ -4447,13 +4448,13 @@ var studentsdata=[
     "Maths ": 3,
     "Science ": 15,
     "Deduction": 0,
-    "الجملة": 147,
-    "%": "49.00"
+    "الجملة": 147
    },
    {
     "Darajah": "2AF",
     "TRNO": "27605",
     "الاسم": "رباب بائي ملا منصور بهائي غني والا",
+    "%": "38.00",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 7,
@@ -4468,13 +4469,13 @@ var studentsdata=[
     "Maths ": 3,
     "Science ": 16,
     "Deduction": 0,
-    "الجملة": 114,
-    "%": "38.00"
+    "الجملة": 114
    },
    {
     "Darajah": "2AF",
     "TRNO": "27526",
     "الاسم": "سكينة بائي ملا إبراهيم بهائي طاهري",
+    "%": "55.33",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 19,
@@ -4489,13 +4490,13 @@ var studentsdata=[
     "Maths ": 6,
     "Science ": 25,
     "Deduction": 0,
-    "الجملة": 166,
-    "%": "55.33"
+    "الجملة": 166
    },
    {
     "Darajah": "2BF",
     "TRNO": "27401",
     "الاسم": "بتول بائي ملا حسين بهائي كانچ والا",
+    "%": "81.33",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 29,
@@ -4510,13 +4511,13 @@ var studentsdata=[
     "Maths ": 12,
     "Science ": 42,
     "Deduction": 0,
-    "الجملة": 244,
-    "%": "81.33"
+    "الجملة": 244
    },
    {
     "Darajah": "2BF",
     "TRNO": "27560",
     "الاسم": "أم كلثوم بائي  شبير بهائي موضضا بهائي",
+    "%": "82.00",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 26,
@@ -4531,13 +4532,13 @@ var studentsdata=[
     "Maths ": 8,
     "Science ": 41,
     "Deduction": 0,
-    "الجملة": 246,
-    "%": "82.00"
+    "الجملة": 246
    },
    {
     "Darajah": "2BF",
     "TRNO": "27531",
     "الاسم": "خديجة بائي الشيخ حسين بهائي شاكر",
+    "%": "77.67",
     "الحفظ (الشفوي)": 7,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 25,
@@ -4552,13 +4553,13 @@ var studentsdata=[
     "Maths ": 12,
     "Science ": 45,
     "Deduction": 0,
-    "الجملة": 233,
-    "%": "77.67"
+    "الجملة": 233
    },
    {
     "Darajah": "2BF",
     "TRNO": "27387",
     "الاسم": "فاطمة بائي ملا طاهر بهائي خـموسي",
+    "%": "72.33",
     "الحفظ (الشفوي)": 9,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 17,
@@ -4573,13 +4574,13 @@ var studentsdata=[
     "Maths ": 17,
     "Science ": 45,
     "Deduction": 0,
-    "الجملة": 217,
-    "%": "72.33"
+    "الجملة": 217
    },
    {
     "Darajah": "2BF",
     "TRNO": "27472",
     "الاسم": "زهراء بائي ملا إبراهيم بهائي ككليلي",
+    "%": "77.67",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 29,
@@ -4594,13 +4595,13 @@ var studentsdata=[
     "Maths ": 12,
     "Science ": 39,
     "Deduction": 0,
-    "الجملة": 233,
-    "%": "77.67"
+    "الجملة": 233
    },
    {
     "Darajah": "2BF",
     "TRNO": "27384",
     "الاسم": "إنسية بائي  فخر الدين بهائي ضضـوتا والا",
+    "%": "81.00",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 26,
@@ -4615,13 +4616,13 @@ var studentsdata=[
     "Maths ": 14,
     "Science ": 38,
     "Deduction": 0,
-    "الجملة": 243,
-    "%": "81.00"
+    "الجملة": 243
    },
    {
     "Darajah": "2BF",
     "TRNO": "27513",
     "الاسم": "فاطمة بائي  محمد بهائي لمدي والا",
+    "%": "63.33",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 19,
@@ -4636,13 +4637,13 @@ var studentsdata=[
     "Maths ": 8,
     "Science ": 28,
     "Deduction": 0,
-    "الجملة": 190,
-    "%": "63.33"
+    "الجملة": 190
    },
    {
     "Darajah": "2BF",
     "TRNO": "27414",
     "الاسم": "تسنيم بائي ملا علي اصغر بهائي كاثثرٌيا",
+    "%": "70.00",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 19,
@@ -4657,13 +4658,13 @@ var studentsdata=[
     "Maths ": 9,
     "Science ": 32,
     "Deduction": 0,
-    "الجملة": 210,
-    "%": "70.00"
+    "الجملة": 210
    },
    {
     "Darajah": "2BF",
     "TRNO": "27366",
     "الاسم": "زينب بائي ملا شبير بهائي موسى جي",
+    "%": "73.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 25,
@@ -4678,13 +4679,13 @@ var studentsdata=[
     "Maths ": 7,
     "Science ": 37,
     "Deduction": 0,
-    "الجملة": 220,
-    "%": "73.33"
+    "الجملة": 220
    },
    {
     "Darajah": "2BF",
     "TRNO": "27604",
     "الاسم": "إنسية بائي ملا علي حسين بهائي ماكدا",
+    "%": "69.33",
     "الحفظ (الشفوي)": 9,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 22,
@@ -4699,13 +4700,13 @@ var studentsdata=[
     "Maths ": 10,
     "Science ": 42,
     "Deduction": 0,
-    "الجملة": 208,
-    "%": "69.33"
+    "الجملة": 208
    },
    {
     "Darajah": "2BF",
     "TRNO": "27448",
     "الاسم": "اروى بائي الشيخ محمد بهائي وردها والا",
+    "%": "61.33",
     "الحفظ (الشفوي)": 9,
     "دراسة علوم القراْن ": 1,
     "مختصر الاْثار ": 20,
@@ -4720,13 +4721,13 @@ var studentsdata=[
     "Maths ": 6,
     "Science ": 26,
     "Deduction": 0,
-    "الجملة": 184,
-    "%": "61.33"
+    "الجملة": 184
    },
    {
     "Darajah": "2BF",
     "TRNO": "27685",
     "الاسم": "مارية بائي  مفضل بهائي حامد",
+    "%": "75.00",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 17,
@@ -4741,13 +4742,13 @@ var studentsdata=[
     "Maths ": 9,
     "Science ": 47,
     "Deduction": 0,
-    "الجملة": 225,
-    "%": "75.00"
+    "الجملة": 225
    },
    {
     "Darajah": "2BF",
     "TRNO": "27574",
     "الاسم": "فاطمة بائي الشيخ مفضل بهائي ككوم بيرا والا",
+    "%": "66.00",
     "الحفظ (الشفوي)": 8,
     "دراسة علوم القراْن ": 3,
     "مختصر الاْثار ": 13,
@@ -4762,13 +4763,13 @@ var studentsdata=[
     "Maths ": 9,
     "Science ": 39,
     "Deduction": 0,
-    "الجملة": 198,
-    "%": "66.00"
+    "الجملة": 198
    },
    {
     "Darajah": "2BF",
     "TRNO": "27588",
     "الاسم": "زينب بائي الشيخ ادريس بهائي اْرسي والا",
+    "%": "64.67",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 14,
@@ -4783,13 +4784,13 @@ var studentsdata=[
     "Maths ": 16,
     "Science ": 28,
     "Deduction": 0,
-    "الجملة": 194,
-    "%": "64.67"
+    "الجملة": 194
    },
    {
     "Darajah": "2BF",
     "TRNO": "27659",
     "الاسم": "حسينة بائي الشيخ حذيفة بهائي رشيد",
+    "%": "48.67",
     "الحفظ (الشفوي)": 6,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 12,
@@ -4804,13 +4805,13 @@ var studentsdata=[
     "Maths ": 2,
     "Science ": 22,
     "Deduction": 0,
-    "الجملة": 146,
-    "%": "48.67"
+    "الجملة": 146
    },
    {
     "Darajah": "2BF",
     "TRNO": "27459",
     "الاسم": "اروى بائي الشيخ محمد بهائي نـجمي",
+    "%": "62.67",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 3,
     "مختصر الاْثار ": 16,
@@ -4825,13 +4826,13 @@ var studentsdata=[
     "Maths ": 5,
     "Science ": 37,
     "Deduction": 0,
-    "الجملة": 188,
-    "%": "62.67"
+    "الجملة": 188
    },
    {
     "Darajah": "2BF",
     "TRNO": "27664",
     "الاسم": "منيرة بائي الشيخ حسين بهائي عزي",
+    "%": "51.00",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 14,
@@ -4846,13 +4847,13 @@ var studentsdata=[
     "Maths ": 4,
     "Science ": 25,
     "Deduction": 0,
-    "الجملة": 153,
-    "%": "51.00"
+    "الجملة": 153
    },
    {
     "Darajah": "2BF",
     "TRNO": "27597",
     "الاسم": "رقية بائي الشيخ فخر الدين بهائي كالول والا",
+    "%": "49.67",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 12,
@@ -4867,13 +4868,13 @@ var studentsdata=[
     "Maths ": 2,
     "Science ": 24,
     "Deduction": 0,
-    "الجملة": 149,
-    "%": "49.67"
+    "الجملة": 149
    },
    {
     "Darajah": "2BF",
     "TRNO": "27724",
     "الاسم": "زهراء بائي ملا عزيز بهائي فـتحي",
+    "%": "65.67",
     "الحفظ (الشفوي)": 2,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 22,
@@ -4888,13 +4889,13 @@ var studentsdata=[
     "Maths ": 5,
     "Science ": 40,
     "Deduction": 0,
-    "الجملة": 197,
-    "%": "65.67"
+    "الجملة": 197
    },
    {
     "Darajah": "2BF",
     "TRNO": "27673",
     "الاسم": "سكينة بائي الشيخ محمد بهائي زيني",
+    "%": "62.67",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 27,
@@ -4909,13 +4910,13 @@ var studentsdata=[
     "Maths ": 2,
     "Science ": 14,
     "Deduction": 0,
-    "الجملة": 188,
-    "%": "62.67"
+    "الجملة": 188
    },
    {
     "Darajah": "2BF",
     "TRNO": "27626",
     "الاسم": "نفيسة بائي  يوسف بهائي محمد بهائي",
+    "%": "48.00",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 16,
@@ -4930,13 +4931,13 @@ var studentsdata=[
     "Maths ": 7,
     "Science ": 23,
     "Deduction": 0,
-    "الجملة": 144,
-    "%": "48.00"
+    "الجملة": 144
    },
    {
     "Darajah": "2BF",
     "TRNO": "27717",
     "الاسم": "رشيدة بائي ملا حذيفة بهائي",
+    "%": "41.33",
     "الحفظ (الشفوي)": 2,
     "دراسة علوم القراْن ": 1,
     "مختصر الاْثار ": 5,
@@ -4951,13 +4952,13 @@ var studentsdata=[
     "Maths ": 10,
     "Science ": 28,
     "Deduction": 0,
-    "الجملة": 124,
-    "%": "41.33"
+    "الجملة": 124
    },
    {
     "Darajah": "2CF",
     "TRNO": "27395",
     "الاسم": "خديجة بائي  يوسف بهائي نگري",
+    "%": "90.33",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 30,
@@ -4972,13 +4973,13 @@ var studentsdata=[
     "Maths ": 16,
     "Science ": 48,
     "Deduction": 0,
-    "الجملة": 271,
-    "%": "90.33"
+    "الجملة": 271
    },
    {
     "Darajah": "2CF",
     "TRNO": "27388",
     "الاسم": "نقية بائي  حسين بهائي برود  والا",
+    "%": "79.00",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 24,
@@ -4993,13 +4994,13 @@ var studentsdata=[
     "Maths ": 10,
     "Science ": 44,
     "Deduction": 0,
-    "الجملة": 237,
-    "%": "79.00"
+    "الجملة": 237
    },
    {
     "Darajah": "2CF",
     "TRNO": "27490",
     "الاسم": "سكينة بائي  حسين بهائي دودا",
+    "%": "76.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 25,
@@ -5014,13 +5015,13 @@ var studentsdata=[
     "Maths ": 10,
     "Science ": 41,
     "Deduction": 0,
-    "الجملة": 229,
-    "%": "76.33"
+    "الجملة": 229
    },
    {
     "Darajah": "2CF",
     "TRNO": "27440",
     "الاسم": "منيرة بائي ملا خزيمة بهائي ضضوثثي والا",
+    "%": "65.00",
     "الحفظ (الشفوي)": 2,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 24,
@@ -5035,13 +5036,13 @@ var studentsdata=[
     "Maths ": 6,
     "Science ": 29,
     "Deduction": 0,
-    "الجملة": 195,
-    "%": "65.00"
+    "الجملة": 195
    },
    {
     "Darajah": "2CF",
     "TRNO": "27700",
     "الاسم": "نقية بائي  عباس بهائي بدري",
+    "%": "71.67",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 24,
@@ -5056,13 +5057,13 @@ var studentsdata=[
     "Maths ": 5,
     "Science ": 37,
     "Deduction": 0,
-    "الجملة": 215,
-    "%": "71.67"
+    "الجملة": 215
    },
    {
     "Darajah": "2CF",
     "TRNO": "27602",
     "الاسم": "نسرين بائي ملا مصطفى بهائي بالاسينور والا",
+    "%": "81.00",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 30,
@@ -5077,13 +5078,13 @@ var studentsdata=[
     "Maths ": 15,
     "Science ": 40,
     "Deduction": 0,
-    "الجملة": 243,
-    "%": "81.00"
+    "الجملة": 243
    },
    {
     "Darajah": "2CF",
     "TRNO": "27500",
     "الاسم": "سكينة بائي  حسن بهائي نيمچ والا",
+    "%": "70.33",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 22,
@@ -5098,13 +5099,13 @@ var studentsdata=[
     "Maths ": 11,
     "Science ": 33,
     "Deduction": 0,
-    "الجملة": 211,
-    "%": "70.33"
+    "الجملة": 211
    },
    {
     "Darajah": "2CF",
     "TRNO": "27697",
     "الاسم": "رقية بائي ملا سيف الدين بهائي ضضوثثي والا",
+    "%": "63.00",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 19,
@@ -5119,13 +5120,13 @@ var studentsdata=[
     "Maths ": 6,
     "Science ": 23,
     "Deduction": 0,
-    "الجملة": 189,
-    "%": "63.00"
+    "الجملة": 189
    },
    {
     "Darajah": "2CF",
     "TRNO": "27699",
     "الاسم": "جمانة بائي الشيخ يونس بهائي ثثاكا والا",
+    "%": "78.00",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 26,
@@ -5140,13 +5141,13 @@ var studentsdata=[
     "Maths ": 15,
     "Science ": 42,
     "Deduction": 0,
-    "الجملة": 234,
-    "%": "78.00"
+    "الجملة": 234
    },
    {
     "Darajah": "2CF",
     "TRNO": "27601",
     "الاسم": "اروى بائي ملا علي اصغر بهائي بهائي والا",
+    "%": "80.67",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 25,
@@ -5161,13 +5162,13 @@ var studentsdata=[
     "Maths ": 16,
     "Science ": 41,
     "Deduction": 0,
-    "الجملة": 242,
-    "%": "80.67"
+    "الجملة": 242
    },
    {
     "Darajah": "2CF",
     "TRNO": "27705",
     "الاسم": "زينب بائي الشيخ مرتضى بهائي الحرازي",
+    "%": "72.00",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 26,
@@ -5182,13 +5183,13 @@ var studentsdata=[
     "Maths ": 8,
     "Science ": 37,
     "Deduction": 0,
-    "الجملة": 216,
-    "%": "72.00"
+    "الجملة": 216
    },
    {
     "Darajah": "2CF",
     "TRNO": "27637",
     "الاسم": "نـفيسة بائي صاحب معز بهائي صاحب زيني",
+    "%": "61.67",
     "الحفظ (الشفوي)": 5,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 24,
@@ -5203,13 +5204,13 @@ var studentsdata=[
     "Maths ": 9,
     "Science ": 30,
     "Deduction": 0,
-    "الجملة": 185,
-    "%": "61.67"
+    "الجملة": 185
    },
    {
     "Darajah": "2CF",
     "TRNO": "27580",
     "الاسم": "نقية بائي  جوذر بهائي راجكوضض والا",
+    "%": "52.00",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 17,
@@ -5224,13 +5225,13 @@ var studentsdata=[
     "Maths ": 2,
     "Science ": 30,
     "Deduction": 0,
-    "الجملة": 156,
-    "%": "52.00"
+    "الجملة": 156
    },
    {
     "Darajah": "2CF",
     "TRNO": "27686",
     "الاسم": "سكينة بائي الشيخ مفضل بهائي حامد",
+    "%": "52.67",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 21,
@@ -5245,13 +5246,13 @@ var studentsdata=[
     "Maths ": 5,
     "Science ": 24,
     "Deduction": 0,
-    "الجملة": 158,
-    "%": "52.67"
+    "الجملة": 158
    },
    {
     "Darajah": "2CF",
     "TRNO": "27592",
     "الاسم": "الفية بائي ملا مستنصر بهائي حيدر معطى",
+    "%": "57.33",
     "الحفظ (الشفوي)": 6,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 20,
@@ -5266,13 +5267,13 @@ var studentsdata=[
     "Maths ": 3,
     "Science ": 16,
     "Deduction": 0,
-    "الجملة": 172,
-    "%": "57.33"
+    "الجملة": 172
    },
    {
     "Darajah": "2CF",
     "TRNO": "27692",
     "الاسم": "تسنيم بائي ملا مصطفى بهائي بدري",
+    "%": "56.67",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 20,
@@ -5287,13 +5288,13 @@ var studentsdata=[
     "Maths ": 3,
     "Science ": 22,
     "Deduction": 0,
-    "الجملة": 170,
-    "%": "56.67"
+    "الجملة": 170
    },
    {
     "Darajah": "2CF",
     "TRNO": "27706",
     "الاسم": "سكينة بائي  فياض بهائي عامر علي",
+    "%": "62.00",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 25,
@@ -5308,13 +5309,13 @@ var studentsdata=[
     "Maths ": 9,
     "Science ": 33,
     "Deduction": 0,
-    "الجملة": 186,
-    "%": "62.00"
+    "الجملة": 186
    },
    {
     "Darajah": "2CF",
     "TRNO": "27671",
     "الاسم": "شهر بانو بائي  علي بهائي الخدر",
+    "%": "56.00",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 24,
@@ -5329,13 +5330,13 @@ var studentsdata=[
     "Maths ": 2,
     "Science ": 12,
     "Deduction": 0,
-    "الجملة": 168,
-    "%": "56.00"
+    "الجملة": 168
    },
    {
     "Darajah": "2CF",
     "TRNO": "27674",
     "الاسم": "مارية بائي الشيخ احمد بهائي الصيفي",
+    "%": "56.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 26,
@@ -5350,13 +5351,13 @@ var studentsdata=[
     "Maths ": 1,
     "Science ": 12,
     "Deduction": 0,
-    "الجملة": 169,
-    "%": "56.33"
+    "الجملة": 169
    },
    {
     "Darajah": "2CF",
     "TRNO": "27609",
     "الاسم": "امة الله بائي صاحب مفضل بهائي صاحب معيني",
+    "%": "46.00",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 1,
     "مختصر الاْثار ": 15,
@@ -5371,13 +5372,13 @@ var studentsdata=[
     "Maths ": 1,
     "Science ": 18,
     "Deduction": 0,
-    "الجملة": 138,
-    "%": "46.00"
+    "الجملة": 138
    },
    {
     "Darajah": "2CF",
     "TRNO": "27556",
     "الاسم": "امة الله بائي ملا شبير بهائي ضياء الدين",
+    "%": "43.33",
     "الحفظ (الشفوي)": 8,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 12,
@@ -5392,13 +5393,13 @@ var studentsdata=[
     "Maths ": 1,
     "Science ": 22,
     "Deduction": 0,
-    "الجملة": 130,
-    "%": "43.33"
+    "الجملة": 130
    },
    {
     "الاسم": "دانيال بهائي ملا عدنان بهائي ديوان",
     "TRNO": "27355",
     "Darajah": "3AM",
+    "%": "89.00",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 29,
@@ -5415,13 +5416,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 16,
     "الجملة": 267,
-    "Deduction": 0,
-    "%": "89.00"
+    "Deduction": 0
    },
    {
     "الاسم": "عبد الطيب بهائي  مصطفى بهائي ديكن والا",
     "TRNO": "27069",
     "Darajah": "3AM",
+    "%": "80.33",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 26,
@@ -5438,13 +5439,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 18,
     "الجملة": 241,
-    "Deduction": 0,
-    "%": "80.33"
+    "Deduction": 0
    },
    {
     "الاسم": "حسين بهائي الشيخ مرتضى بهائي مالا",
     "TRNO": "27244",
     "Darajah": "3AM",
+    "%": "78.00",
     "الحفظ (الشفوي)": 7,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 26,
@@ -5461,13 +5462,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 17,
     "الجملة": 234,
-    "Deduction": 0,
-    "%": "78.00"
+    "Deduction": 0
    },
    {
     "الاسم": "شمس الدين بهائي ملا محسن بهائي مـمجي والا",
     "TRNO": "27068",
     "Darajah": "3AM",
+    "%": "80.33",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 27,
@@ -5484,13 +5485,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 15,
     "الجملة": 241,
-    "Deduction": 0,
-    "%": "80.33"
+    "Deduction": 0
    },
    {
     "الاسم": "إبراهيم بهائي  اكبر حسين بهائي اوبري",
     "TRNO": "27139",
     "Darajah": "3AM",
+    "%": "70.67",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 18,
@@ -5507,13 +5508,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 16,
     "الجملة": 212,
-    "Deduction": 0,
-    "%": "70.67"
+    "Deduction": 0
    },
    {
     "الاسم": "مكرّم بهائي ملا شبير بهائي شبام",
     "TRNO": "27176",
     "Darajah": "3AM",
+    "%": "77.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 23,
@@ -5530,13 +5531,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 18,
     "الجملة": 232,
-    "Deduction": 0,
-    "%": "77.33"
+    "Deduction": 0
    },
    {
     "الاسم": "مفضل بهائي  مرتضى بهائي سناود والا",
     "TRNO": "27332",
     "Darajah": "3AM",
+    "%": "66.33",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 20,
@@ -5553,13 +5554,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 13,
     "الجملة": 199,
-    "Deduction": 0,
-    "%": "66.33"
+    "Deduction": 0
    },
    {
     "الاسم": "طاهر بهائي الشيخ مرتضى بهائي شاه والا",
     "TRNO": "27156",
     "Darajah": "3AM",
+    "%": "63.67",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 23,
@@ -5576,13 +5577,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 11,
     "الجملة": 191,
-    "Deduction": 0,
-    "%": "63.67"
+    "Deduction": 0
    },
    {
     "الاسم": "حسين بهائي  مرتضى بهائي حسن علي",
     "TRNO": "27203",
     "Darajah": "3AM",
+    "%": "60.67",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 16,
@@ -5599,13 +5600,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 14,
     "الجملة": 182,
-    "Deduction": 0,
-    "%": "60.67"
+    "Deduction": 0
    },
    {
     "الاسم": "عباس بهائي ملا طاهر بهائي جيونجي",
     "TRNO": "27030",
     "Darajah": "3AM",
+    "%": "63.00",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 17,
@@ -5622,13 +5623,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 17,
     "الجملة": 189,
-    "Deduction": 0,
-    "%": "63.00"
+    "Deduction": 0
    },
    {
     "الاسم": "حذيفة بهائي الشيخ حسين بهائي آدم علي",
     "TRNO": "27035",
     "Darajah": "3AM",
+    "%": "55.33",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 17,
@@ -5645,13 +5646,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 12,
     "الجملة": 166,
-    "Deduction": 0,
-    "%": "55.33"
+    "Deduction": 0
    },
    {
     "الاسم": "برهان الدين بهائي  حذيفة بهائي اسثثيريضض والا",
     "TRNO": "27295",
     "Darajah": "3AM",
+    "%": "54.67",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 15,
@@ -5668,13 +5669,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 11,
     "الجملة": 164,
-    "Deduction": 0,
-    "%": "54.67"
+    "Deduction": 0
    },
    {
     "الاسم": "مصطفى بهائي ملا مرتضى بهائي ميمون",
     "TRNO": "27175",
     "Darajah": "3AM",
+    "%": "66.00",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 14,
@@ -5691,13 +5692,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 14,
     "الجملة": 198,
-    "Deduction": 0,
-    "%": "66.00"
+    "Deduction": 0
    },
    {
     "الاسم": "طه بهائي ملا كليم الدين بهائي دادوكا والا",
     "TRNO": "27160",
     "Darajah": "3AM",
+    "%": "59.00",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 23,
@@ -5714,13 +5715,13 @@ var studentsdata=[
     "Chemistry ": 12,
     "Biology ": 17,
     "الجملة": 177,
-    "Deduction": 0,
-    "%": "59.00"
+    "Deduction": 0
    },
    {
     "الاسم": "حمزة ’   بن  مفضل   ’   عمادي",
     "TRNO": "27237",
     "Darajah": "3AM",
+    "%": "48.33",
     "الحفظ (الشفوي)": 1,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 14,
@@ -5737,13 +5738,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 12,
     "الجملة": 145,
-    "Deduction": 0,
-    "%": "48.33"
+    "Deduction": 0
    },
    {
     "الاسم": "طاهر بهائي الشيخ جوذر بهائي موربـي والا",
     "TRNO": "27249",
     "Darajah": "3AM",
+    "%": "61.33",
     "الحفظ (الشفوي)": 7,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 19,
@@ -5760,13 +5761,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 17,
     "الجملة": 184,
-    "Deduction": 0,
-    "%": "61.33"
+    "Deduction": 0
    },
    {
     "الاسم": "منصور بهائي  مرتضى بهائي حسين",
     "TRNO": "27342",
     "Darajah": "3AM",
+    "%": "49.67",
     "الحفظ (الشفوي)": 7,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 14,
@@ -5783,13 +5784,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 12,
     "الجملة": 149,
-    "Deduction": 0,
-    "%": "49.67"
+    "Deduction": 0
    },
    {
     "الاسم": "مصطفى بهائي  جمال بهائي الـمري",
     "TRNO": "27323",
     "Darajah": "3AM",
+    "%": "48.67",
     "الحفظ (الشفوي)": 8,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 15,
@@ -5806,13 +5807,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 11,
     "الجملة": 146,
-    "Deduction": 0,
-    "%": "48.67"
+    "Deduction": 0
    },
    {
     "الاسم": "طاهر بهائي ملا عبد علي بهائي موسى جي",
     "TRNO": "27321",
     "Darajah": "3AM",
+    "%": "46.67",
     "الحفظ (الشفوي)": 9,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 17,
@@ -5829,13 +5830,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 14,
     "الجملة": 140,
-    "Deduction": 0,
-    "%": "46.67"
+    "Deduction": 0
    },
    {
     "الاسم": "إبراهيم بهائي الشيخ مفضل بهائي رشيد",
     "TRNO": "27026",
     "Darajah": "3BM",
+    "%": "87.67",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 28,
@@ -5852,13 +5853,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 17,
     "الجملة": 263,
-    "Deduction": 0,
-    "%": "87.67"
+    "Deduction": 0
    },
    {
     "الاسم": "حيدر بهائي  طاهر بهائي شيكلا",
     "TRNO": "27084",
     "Darajah": "3BM",
+    "%": "81.00",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 23,
@@ -5875,13 +5876,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 17,
     "الجملة": 243,
-    "Deduction": 0,
-    "%": "81.00"
+    "Deduction": 0
    },
    {
     "الاسم": "شبير بهائي الشيخ مرتضى بهائي سيفي",
     "TRNO": "27073",
     "Darajah": "3BM",
+    "%": "82.33",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 27,
@@ -5898,13 +5899,13 @@ var studentsdata=[
     "Chemistry ": 19,
     "Biology ": 18,
     "الجملة": 247,
-    "Deduction": 0,
-    "%": "82.33"
+    "Deduction": 0
    },
    {
     "الاسم": "حسن بهائي  يوسف بهائي جاود والا",
     "TRNO": "27173",
     "Darajah": "3BM",
+    "%": "83.00",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 25,
@@ -5921,13 +5922,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 15,
     "الجملة": 249,
-    "Deduction": 0,
-    "%": "83.00"
+    "Deduction": 0
    },
    {
     "الاسم": "ادريس بهائي  حسين بهائي راغب",
     "TRNO": "27178",
     "Darajah": "3BM",
+    "%": "80.33",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 23,
@@ -5944,13 +5945,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 18,
     "الجملة": 241,
-    "Deduction": 0,
-    "%": "80.33"
+    "Deduction": 0
    },
    {
     "الاسم": "حسين بهائي  يوسف علي بهائي ححيححضض والا",
     "TRNO": "27189",
     "Darajah": "3BM",
+    "%": "72.00",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 24,
@@ -5967,13 +5968,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 15,
     "الجملة": 216,
-    "Deduction": 0,
-    "%": "72.00"
+    "Deduction": 0
    },
    {
     "الاسم": "حيدر بهائي الشيخ مرتضى بهائي ثثيتل والا",
     "TRNO": "27103",
     "Darajah": "3BM",
+    "%": "77.33",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 25,
@@ -5990,13 +5991,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 16,
     "الجملة": 232,
-    "Deduction": 0,
-    "%": "77.33"
+    "Deduction": 0
    },
    {
     "الاسم": "مصطفى بهائي  حذيفة بهائي فـتحي",
     "TRNO": "27204",
     "Darajah": "3BM",
+    "%": "77.67",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 25,
@@ -6013,13 +6014,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 14,
     "الجملة": 233,
-    "Deduction": 0,
-    "%": "77.67"
+    "Deduction": 0
    },
    {
     "الاسم": "ذؤيب بهائي  فيروز بهائي كولـمبو  والا",
     "TRNO": "27286",
     "Darajah": "3BM",
+    "%": "60.67",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 25,
@@ -6036,13 +6037,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 9,
     "الجملة": 182,
-    "Deduction": 0,
-    "%": "60.67"
+    "Deduction": 0
    },
    {
     "الاسم": "عباس بهائي الشيخ حسن بهائي كـنداوالا",
     "TRNO": "27141",
     "Darajah": "3BM",
+    "%": "73.00",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 23,
@@ -6059,13 +6060,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 13,
     "الجملة": 219,
-    "Deduction": 0,
-    "%": "73.00"
+    "Deduction": 0
    },
    {
     "الاسم": "إبراهيم بهائي  علي اصغر بهائي سيفي",
     "TRNO": "27174",
     "Darajah": "3BM",
+    "%": "71.33",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 19,
@@ -6082,13 +6083,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 14,
     "الجملة": 214,
-    "Deduction": 0,
-    "%": "71.33"
+    "Deduction": 0
    },
    {
     "الاسم": "إبراهيم بهائي  فيروز بهائي حبــيب",
     "TRNO": "27310",
     "Darajah": "3BM",
+    "%": "71.33",
     "الحفظ (الشفوي)": 7,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 25,
@@ -6105,13 +6106,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 15,
     "الجملة": 214,
-    "Deduction": 0,
-    "%": "71.33"
+    "Deduction": 0
    },
    {
     "الاسم": "محمد بهائي الشيخ عقيل بهائي مرححنضض",
     "TRNO": "27027",
     "Darajah": "3BM",
+    "%": "71.67",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 19,
@@ -6128,13 +6129,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 13,
     "الجملة": 215,
-    "Deduction": 0,
-    "%": "71.67"
+    "Deduction": 0
    },
    {
     "الاسم": "مستنصر بهائي الشيخ مصطفى بهائي كانچ والا",
     "TRNO": "27207",
     "Darajah": "3BM",
+    "%": "67.33",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 16,
@@ -6151,13 +6152,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 17,
     "الجملة": 202,
-    "Deduction": 0,
-    "%": "67.33"
+    "Deduction": 0
    },
    {
     "الاسم": "يوسف بهائي الشيخ علي اصغر بهائي طاهري",
     "TRNO": "27341",
     "Darajah": "3BM",
+    "%": "39.33",
     "الحفظ (الشفوي)": 6,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 10,
@@ -6174,13 +6175,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 11,
     "الجملة": 118,
-    "Deduction": 0,
-    "%": "39.33"
+    "Deduction": 0
    },
    {
     "الاسم": "طاهر بهائي الشيخ يوسف بهائي شائي والا",
     "TRNO": "27318",
     "Darajah": "3BM",
+    "%": "47.33",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 12,
@@ -6197,13 +6198,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 7,
     "الجملة": 142,
-    "Deduction": 0,
-    "%": "47.33"
+    "Deduction": 0
    },
    {
     "الاسم": "حذيفة بهائي صاحب طاهر بهائي صاحب سيفي",
     "TRNO": "27031",
     "Darajah": "3CM",
+    "%": "88.33",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 25,
@@ -6220,13 +6221,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 17,
     "الجملة": 265,
-    "Deduction": 0,
-    "%": "88.33"
+    "Deduction": 0
    },
    {
     "الاسم": "عبد الله بهائي  القائد جوهر بهائي برياوالا",
     "TRNO": "27107",
     "Darajah": "3CM",
+    "%": "85.00",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 25,
@@ -6243,13 +6244,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 17,
     "الجملة": 255,
-    "Deduction": 0,
-    "%": "85.00"
+    "Deduction": 0
    },
    {
     "الاسم": "إسمعيل بهائي ملا مرتضى بهائي فخري",
     "TRNO": "27060",
     "Darajah": "3CM",
+    "%": "83.00",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 25,
@@ -6266,13 +6267,13 @@ var studentsdata=[
     "Chemistry ": 19,
     "Biology ": 16,
     "الجملة": 249,
-    "Deduction": 0,
-    "%": "83.00"
+    "Deduction": 0
    },
    {
     "الاسم": "شبر بهائي الشيخ شبير بهائي بار بهائي",
     "TRNO": "27209",
     "Darajah": "3CM",
+    "%": "83.00",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 29,
@@ -6289,13 +6290,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 18,
     "الجملة": 249,
-    "Deduction": 0,
-    "%": "83.00"
+    "Deduction": 0
    },
    {
     "الاسم": "جوذر بهائي ملا حذيفة بهائي ميـضضهائي والا",
     "TRNO": "27072",
     "Darajah": "3CM",
+    "%": "81.67",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 29,
@@ -6312,13 +6313,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 15,
     "الجملة": 245,
-    "Deduction": 0,
-    "%": "81.67"
+    "Deduction": 0
    },
    {
     "الاسم": "إبراهيم بهائي ملا علي اصغر بهائي شاكر",
     "TRNO": "27029",
     "Darajah": "3CM",
+    "%": "73.67",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 24,
@@ -6335,13 +6336,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 15,
     "الجملة": 221,
-    "Deduction": 0,
-    "%": "73.67"
+    "Deduction": 0
    },
    {
     "الاسم": "طاهر بهائي الشيخ مصطفى بهائي شاكر",
     "TRNO": "27154",
     "Darajah": "3CM",
+    "%": "70.33",
     "الحفظ (الشفوي)": 9,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 21,
@@ -6358,13 +6359,13 @@ var studentsdata=[
     "Chemistry ": 19,
     "Biology ": 16,
     "الجملة": 211,
-    "Deduction": 0,
-    "%": "70.33"
+    "Deduction": 0
    },
    {
     "الاسم": "برهان الدين بهائي  سيف الدين بهائي حامد",
     "TRNO": "27290",
     "Darajah": "3CM",
+    "%": "63.67",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 16,
@@ -6381,13 +6382,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 13,
     "الجملة": 191,
-    "Deduction": 0,
-    "%": "63.67"
+    "Deduction": 0
    },
    {
     "الاسم": "معز بهائي ملا حذيفة بهائي چيــبا",
     "TRNO": "27308",
     "Darajah": "3CM",
+    "%": "63.67",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 23,
@@ -6404,13 +6405,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 15,
     "الجملة": 191,
-    "Deduction": 0,
-    "%": "63.67"
+    "Deduction": 0
    },
    {
     "الاسم": "مالك الاشتر بهائي  محمد بهائي كووا والا",
     "TRNO": "27033",
     "Darajah": "3CM",
+    "%": "62.00",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 3,
     "مختصر الاْثار ": 13,
@@ -6427,13 +6428,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 10,
     "الجملة": 186,
-    "Deduction": 0,
-    "%": "62.00"
+    "Deduction": 0
    },
    {
     "الاسم": "الاقمر بهائي ملا لقمان بهائي اليماني",
     "TRNO": "27110",
     "Darajah": "3CM",
+    "%": "62.00",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 14,
@@ -6450,13 +6451,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 15,
     "الجملة": 186,
-    "Deduction": 0,
-    "%": "62.00"
+    "Deduction": 0
    },
    {
     "الاسم": "برهان الدين بهائي الشيخ حسين بهائي كانچ والا",
     "TRNO": "27293",
     "Darajah": "3CM",
+    "%": "61.33",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 20,
@@ -6473,13 +6474,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 15,
     "الجملة": 184,
-    "Deduction": 0,
-    "%": "61.33"
+    "Deduction": 0
    },
    {
     "الاسم": "شبير بهائي ملا حسن بهائي قطبي",
     "TRNO": "27340",
     "Darajah": "3CM",
+    "%": "60.00",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 18,
@@ -6496,13 +6497,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 11,
     "الجملة": 180,
-    "Deduction": 0,
-    "%": "60.00"
+    "Deduction": 0
    },
    {
     "الاسم": "طاهر بهائي الشيخ معز بهائي جـمالي",
     "TRNO": "27241",
     "Darajah": "3CM",
+    "%": "58.33",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 17,
@@ -6519,13 +6520,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 11,
     "الجملة": 175,
-    "Deduction": 0,
-    "%": "58.33"
+    "Deduction": 0
    },
    {
     "الاسم": "عمار بهائي ملا حسين بهائي راغب",
     "TRNO": "27285",
     "Darajah": "3CM",
+    "%": "55.33",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 14,
@@ -6542,13 +6543,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 16,
     "الجملة": 166,
-    "Deduction": 0,
-    "%": "55.33"
+    "Deduction": 0
    },
    {
     "الاسم": "طه بهائي ملا مرتضى بهائي وككـهيلا",
     "TRNO": "27333",
     "Darajah": "3CM",
+    "%": "52.67",
     "الحفظ (الشفوي)": 6,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 16,
@@ -6565,13 +6566,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 16,
     "الجملة": 158,
-    "Deduction": 0,
-    "%": "52.67"
+    "Deduction": 0
    },
    {
     "الاسم": "مصطفى بهائي ملا عباس بهائي كوضضهاري",
     "TRNO": "27353",
     "Darajah": "3CM",
+    "%": "52.00",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 16,
@@ -6588,13 +6589,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 11,
     "الجملة": 156,
-    "Deduction": 0,
-    "%": "52.00"
+    "Deduction": 0
    },
    {
     "الاسم": "حسن بهائي الشيخ عابد بهائي گاندهي",
     "TRNO": "27281",
     "Darajah": "3CM",
+    "%": "47.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 3,
     "مختصر الاْثار ": 17,
@@ -6611,13 +6612,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 11,
     "الجملة": 142,
-    "Deduction": 0,
-    "%": "47.33"
+    "Deduction": 0
    },
    {
     "الاسم": "لمياء بائي  ذو الفقار بهائي نيمچ والا",
     "TRNO": "27167",
     "Darajah": "3AF",
+    "%": "92.33",
     "الحفظ (الشفوي)": 20,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 27,
@@ -6634,13 +6635,13 @@ var studentsdata=[
     "Chemistry ": 20,
     "Biology ": 19,
     "الجملة": 277,
-    "Deduction": 0,
-    "%": "92.33"
+    "Deduction": 0
    },
    {
     "الاسم": "فريدة بائي  حذيفة بهائي نككمي",
     "TRNO": "27184",
     "Darajah": "3AF",
+    "%": "81.33",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 27,
@@ -6657,13 +6658,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 14,
     "الجملة": 244,
-    "Deduction": 0,
-    "%": "81.33"
+    "Deduction": 0
    },
    {
     "الاسم": "مارية بائي الشيخ مرتضى بهائي كمثثني والا",
     "TRNO": "27130",
     "Darajah": "3AF",
+    "%": "77.00",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 27,
@@ -6680,13 +6681,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 12,
     "الجملة": 231,
-    "Deduction": 0,
-    "%": "77.00"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة بائي  مرتضى بهائي نـجمي",
     "TRNO": "27305",
     "Darajah": "3AF",
+    "%": "72.00",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 26,
@@ -6703,13 +6704,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 15,
     "الجملة": 216,
-    "Deduction": 0,
-    "%": "72.00"
+    "Deduction": 0
    },
    {
     "الاسم": "نقية بائي  شبير بهائي كوضضهاوالا",
     "TRNO": "27217",
     "Darajah": "3AF",
+    "%": "72.67",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 19,
@@ -6726,13 +6727,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 13,
     "الجملة": 218,
-    "Deduction": 0,
-    "%": "72.67"
+    "Deduction": 0
    },
    {
     "الاسم": "نسرين بائي ملا فيروز بهائي دلال",
     "TRNO": "27032",
     "Darajah": "3AF",
+    "%": "81.00",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 23,
@@ -6749,13 +6750,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 16,
     "الجملة": 243,
-    "Deduction": 0,
-    "%": "81.00"
+    "Deduction": 0
    },
    {
     "الاسم": "أم هاني بائي ملا علي اصغر بهائي نل والا",
     "TRNO": "27146",
     "Darajah": "3AF",
+    "%": "70.33",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 20,
@@ -6772,13 +6773,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 16,
     "الجملة": 211,
-    "Deduction": 0,
-    "%": "70.33"
+    "Deduction": 0
    },
    {
     "الاسم": "زينب بائي ملا مرتضى بهائي حامد",
     "TRNO": "27169",
     "Darajah": "3AF",
+    "%": "70.33",
     "الحفظ (الشفوي)": 8,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 23,
@@ -6795,13 +6796,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 14,
     "الجملة": 211,
-    "Deduction": 0,
-    "%": "70.33"
+    "Deduction": 0
    },
    {
     "الاسم": "رقية بائي  علي اصغر بهائي",
     "TRNO": "27216",
     "Darajah": "3AF",
+    "%": "72.00",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 23,
@@ -6818,13 +6819,13 @@ var studentsdata=[
     "Chemistry ": 12,
     "Biology ": 14,
     "الجملة": 216,
-    "Deduction": 0,
-    "%": "72.00"
+    "Deduction": 0
    },
    {
     "الاسم": "فاطمة بائي الشيخ مرتضى بهائي رامپوره والا",
     "TRNO": "27118",
     "Darajah": "3AF",
+    "%": "66.00",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 22,
@@ -6841,13 +6842,13 @@ var studentsdata=[
     "Chemistry ": 12,
     "Biology ": 10,
     "الجملة": 198,
-    "Deduction": 0,
-    "%": "66.00"
+    "Deduction": 0
    },
    {
     "الاسم": "أم هاني بائي  شبير بهائي ككربداوالا",
     "TRNO": "27028",
     "Darajah": "3AF",
+    "%": "68.67",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 20,
@@ -6864,13 +6865,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 13,
     "الجملة": 206,
-    "Deduction": 0,
-    "%": "68.67"
+    "Deduction": 0
    },
    {
     "الاسم": "الفية بائي  حسين بهائي ححاند خانجي والا",
     "TRNO": "27339",
     "Darajah": "3AF",
+    "%": "67.33",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 27,
@@ -6887,13 +6888,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 14,
     "الجملة": 202,
-    "Deduction": 0,
-    "%": "67.33"
+    "Deduction": 0
    },
    {
     "الاسم": "جميلة بائي الشيخ مفضل بهائي شاكر",
     "TRNO": "27024",
     "Darajah": "3AF",
+    "%": "68.33",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 16,
@@ -6910,13 +6911,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 17,
     "الجملة": 205,
-    "Deduction": 0,
-    "%": "68.33"
+    "Deduction": 0
    },
    {
     "الاسم": "نقية بائي الشيخ عابد حسين بهائي خـموسي",
     "TRNO": "27351",
     "Darajah": "3AF",
+    "%": "56.67",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 25,
@@ -6933,13 +6934,13 @@ var studentsdata=[
     "Chemistry ": 8,
     "Biology ": 9,
     "الجملة": 170,
-    "Deduction": 0,
-    "%": "56.67"
+    "Deduction": 0
    },
    {
     "الاسم": "نـفيسة  >  بنت حذيفة ’  محمدي",
     "TRNO": "27312",
     "Darajah": "3AF",
+    "%": "61.33",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 16,
@@ -6956,13 +6957,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 17,
     "الجملة": 184,
-    "Deduction": 0,
-    "%": "61.33"
+    "Deduction": 0
    },
    {
     "الاسم": "الفية بائي ملا حذيفة بهائي ناصر",
     "TRNO": "27057",
     "Darajah": "3AF",
+    "%": "65.33",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 22,
@@ -6979,13 +6980,13 @@ var studentsdata=[
     "Chemistry ": 9,
     "Biology ": 16,
     "الجملة": 196,
-    "Deduction": 0,
-    "%": "65.33"
+    "Deduction": 0
    },
    {
     "الاسم": "حسينة بائي الشيخ حكيم الدين بهائي برنس والا",
     "TRNO": "27243",
     "Darajah": "3AF",
+    "%": "65.00",
     "الحفظ (الشفوي)": 7,
     "دراسة علوم القراْن ": 3,
     "مختصر الاْثار ": 25,
@@ -7002,13 +7003,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 15,
     "الجملة": 195,
-    "Deduction": 0,
-    "%": "65.00"
+    "Deduction": 0
    },
    {
     "الاسم": "أم الكرام بائي الشيخ علي اصغر بهائي ذاكر",
     "TRNO": "27242",
     "Darajah": "3AF",
+    "%": "55.00",
     "الحفظ (الشفوي)": 8,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 15,
@@ -7025,13 +7026,13 @@ var studentsdata=[
     "Chemistry ": 12,
     "Biology ": 15,
     "الجملة": 165,
-    "Deduction": 0,
-    "%": "55.00"
+    "Deduction": 0
    },
    {
     "الاسم": "اسماء بائي ملا عبد الحسين بهائي علي بهائي",
     "TRNO": "27034",
     "Darajah": "3AF",
+    "%": "46.67",
     "الحفظ (الشفوي)": 1,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 16,
@@ -7048,13 +7049,13 @@ var studentsdata=[
     "Chemistry ": 7,
     "Biology ": 11,
     "الجملة": 140,
-    "Deduction": 0,
-    "%": "46.67"
+    "Deduction": 0
    },
    {
     "الاسم": "سارة بائي  حذيفة بهائي موريس والا",
     "TRNO": "27350",
     "Darajah": "3AF",
+    "%": "52.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 15,
@@ -7071,13 +7072,13 @@ var studentsdata=[
     "Chemistry ": 12,
     "Biology ": 11,
     "الجملة": 157,
-    "Deduction": 0,
-    "%": "52.33"
+    "Deduction": 0
    },
    {
     "الاسم": "إنسية بائي ملا شبير بهائي سيماري والا",
     "TRNO": "27055",
     "Darajah": "3BF",
+    "%": "85.67",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 28,
@@ -7094,13 +7095,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 18,
     "الجملة": 257,
-    "Deduction": 0,
-    "%": "85.67"
+    "Deduction": 0
    },
    {
     "الاسم": "رقية بائي الشيخ مفضل بهائي كوضضهاوالا",
     "TRNO": "27096",
     "Darajah": "3BF",
+    "%": "77.67",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 26,
@@ -7117,13 +7118,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 14,
     "الجملة": 233,
-    "Deduction": 0,
-    "%": "77.67"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة بائي ملا حسن بهائي جـمالي",
     "TRNO": "27147",
     "Darajah": "3BF",
+    "%": "73.00",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 27,
@@ -7140,13 +7141,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 15,
     "الجملة": 219,
-    "Deduction": 0,
-    "%": "73.00"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة بائي ملا مصطفى بهائي پنويل والا",
     "TRNO": "27183",
     "Darajah": "3BF",
+    "%": "69.67",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 22,
@@ -7163,13 +7164,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 15,
     "الجملة": 209,
-    "Deduction": 0,
-    "%": "69.67"
+    "Deduction": 0
    },
    {
     "الاسم": "فاطمة بائي  علي زين العابدين بهائي بروده والا",
     "TRNO": "27197",
     "Darajah": "3BF",
+    "%": "72.67",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 26,
@@ -7186,13 +7187,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 19,
     "الجملة": 218,
-    "Deduction": 0,
-    "%": "72.67"
+    "Deduction": 0
    },
    {
     "الاسم": "أم هاني بائي  عباس علي بهائي دهولفر",
     "TRNO": "27211",
     "Darajah": "3BF",
+    "%": "67.67",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 19,
@@ -7209,13 +7210,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 13,
     "الجملة": 203,
-    "Deduction": 0,
-    "%": "67.67"
+    "Deduction": 0
    },
    {
     "الاسم": "تسنيم بائي ملا نور الدين بهائي رشيد",
     "TRNO": "27208",
     "Darajah": "3BF",
+    "%": "66.00",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 24,
@@ -7232,13 +7233,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 12,
     "الجملة": 198,
-    "Deduction": 0,
-    "%": "66.00"
+    "Deduction": 0
    },
    {
     "الاسم": "فريدة بائي صاحب عدنان بهائي صاحب زيني",
     "TRNO": "27113",
     "Darajah": "3BF",
+    "%": "64.67",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 11,
@@ -7255,13 +7256,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 16,
     "الجملة": 194,
-    "Deduction": 0,
-    "%": "64.67"
+    "Deduction": 0
    },
    {
     "الاسم": "فاطمة بائي  علي اصغر بهائي كهيرودا والا",
     "TRNO": "27220",
     "Darajah": "3BF",
+    "%": "73.33",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 19,
@@ -7278,13 +7279,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 16,
     "الجملة": 220,
-    "Deduction": 0,
-    "%": "73.33"
+    "Deduction": 0
    },
    {
     "الاسم": "خديجة بائي ملا مرتضى بهائي شاير",
     "TRNO": "27120",
     "Darajah": "3BF",
+    "%": "62.00",
     "الحفظ (الشفوي)": 8,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 24,
@@ -7301,13 +7302,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 13,
     "الجملة": 186,
-    "Deduction": 0,
-    "%": "62.00"
+    "Deduction": 0
    },
    {
     "الاسم": "امة الله بائي ملا مصطفى بهائي لوكـهندٌ والا",
     "TRNO": "27094",
     "Darajah": "3BF",
+    "%": "64.67",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 24,
@@ -7324,13 +7325,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 11,
     "الجملة": 194,
-    "Deduction": 0,
-    "%": "64.67"
+    "Deduction": 0
    },
    {
     "الاسم": "الفية بائي الشيخ عزيز بهائي پونه والا",
     "TRNO": "27036",
     "Darajah": "3BF",
+    "%": "66.67",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 12,
@@ -7347,13 +7348,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 14,
     "الجملة": 200,
-    "Deduction": 0,
-    "%": "66.67"
+    "Deduction": 0
    },
    {
     "الاسم": "منيرة بائي ملا مرتضى بهائي مـمجي",
     "TRNO": "27177",
     "Darajah": "3BF",
+    "%": "52.00",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 20,
@@ -7370,13 +7371,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 15,
     "الجملة": 156,
-    "Deduction": 0,
-    "%": "52.00"
+    "Deduction": 0
    },
    {
     "الاسم": "أم هاني بائي الشيخ مفضل بهائي ميمون",
     "TRNO": "27314",
     "Darajah": "3BF",
+    "%": "57.33",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 19,
@@ -7393,13 +7394,13 @@ var studentsdata=[
     "Chemistry ": 12,
     "Biology ": 12,
     "الجملة": 172,
-    "Deduction": 0,
-    "%": "57.33"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة بائي ملا يوسف بهائي هريانه  والا",
     "TRNO": "27315",
     "Darajah": "3BF",
+    "%": "76.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 26,
@@ -7416,13 +7417,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 16,
     "الجملة": 229,
-    "Deduction": 0,
-    "%": "76.33"
+    "Deduction": 0
    },
    {
     "الاسم": "سارة بائي ملا علي اصغر بهائي عزي",
     "TRNO": "27338",
     "Darajah": "3BF",
+    "%": "60.00",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 14,
@@ -7439,13 +7440,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 10,
     "الجملة": 180,
-    "Deduction": 0,
-    "%": "60.00"
+    "Deduction": 0
    },
    {
     "الاسم": "ذهبية بائي  علي اصغر بهائي مناسا والا",
     "TRNO": "27214",
     "Darajah": "3BF",
+    "%": "65.00",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 14,
@@ -7462,13 +7463,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 17,
     "الجملة": 195,
-    "Deduction": 0,
-    "%": "65.00"
+    "Deduction": 0
    },
    {
     "الاسم": "مريم بائي الشيخ طيب بهائي ثابت",
     "TRNO": "27258",
     "Darajah": "3BF",
+    "%": "52.00",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 27,
@@ -7485,13 +7486,13 @@ var studentsdata=[
     "Chemistry ": 5,
     "Biology ": 7,
     "الجملة": 156,
-    "Deduction": 0,
-    "%": "52.00"
+    "Deduction": 0
    },
    {
     "الاسم": "حواء بائي ملا هنيد بهائي ميمون",
     "TRNO": "27199",
     "Darajah": "3BF",
+    "%": "56.00",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 15,
@@ -7508,13 +7509,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 13,
     "الجملة": 168,
-    "Deduction": 0,
-    "%": "56.00"
+    "Deduction": 0
    },
    {
     "الاسم": "جمانة بائي الشيخ شبير بهائي واپي والا",
     "TRNO": "27238",
     "Darajah": "3BF",
+    "%": "54.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 17,
@@ -7531,13 +7532,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 10,
     "الجملة": 163,
-    "Deduction": 0,
-    "%": "54.33"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة >   بنت  علي اصغر ’  وجيهي",
     "TRNO": "27233",
     "Darajah": "3BF",
+    "%": "52.67",
     "الحفظ (الشفوي)": 6,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 15,
@@ -7554,13 +7555,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 15,
     "الجملة": 158,
-    "Deduction": 0,
-    "%": "52.67"
+    "Deduction": 0
    },
    {
     "الاسم": "رقية بائي ملا شبير بهائي",
     "TRNO": "27112",
     "Darajah": "3BF",
+    "%": "43.67",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 14,
@@ -7577,13 +7578,13 @@ var studentsdata=[
     "Chemistry ": 6,
     "Biology ": 10,
     "الجملة": 131,
-    "Deduction": 0,
-    "%": "43.67"
+    "Deduction": 0
    },
    {
     "الاسم": "زينب بائي ملا علي اكبر بهائي مهوتاككــهر والا",
     "TRNO": "27344",
     "Darajah": "3CF",
+    "%": "86.33",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 10,
     "مختصر الاْثار ": 27,
@@ -7600,13 +7601,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 16,
     "الجملة": 259,
-    "Deduction": 0,
-    "%": "86.33"
+    "Deduction": 0
    },
    {
     "الاسم": "اروى بائي ملا يوسف بهائي سينگاپور والا",
     "TRNO": "27080",
     "Darajah": "3CF",
+    "%": "83.67",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 30,
@@ -7623,13 +7624,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 17,
     "الجملة": 251,
-    "Deduction": 0,
-    "%": "83.67"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة بائي الشيخ علي اصغر بهائي كپاسي",
     "TRNO": "27106",
     "Darajah": "3CF",
+    "%": "73.67",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 24,
@@ -7646,13 +7647,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 20,
     "الجملة": 221,
-    "Deduction": 0,
-    "%": "73.67"
+    "Deduction": 0
    },
    {
     "الاسم": "رشيدة بائي  علي اكبر بهائي حـمزة",
     "TRNO": "27336",
     "Darajah": "3CF",
+    "%": "73.33",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 29,
@@ -7669,13 +7670,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 16,
     "الجملة": 220,
-    "Deduction": 0,
-    "%": "73.33"
+    "Deduction": 0
    },
    {
     "الاسم": "فاطمة بائي الشيخ عزيز بهائي بار بـهايا",
     "TRNO": "27213",
     "Darajah": "3CF",
+    "%": "74.33",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 28,
@@ -7692,13 +7693,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 15,
     "الجملة": 223,
-    "Deduction": 0,
-    "%": "74.33"
+    "Deduction": 0
    },
    {
     "الاسم": "أم الكرام بائي الشيخ ذؤيب بهائي كثثاسي",
     "TRNO": "27316",
     "Darajah": "3CF",
+    "%": "68.00",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 3,
     "مختصر الاْثار ": 27,
@@ -7715,13 +7716,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 20,
     "الجملة": 204,
-    "Deduction": 0,
-    "%": "68.00"
+    "Deduction": 0
    },
    {
     "الاسم": "زهراء بائي ملا محمد حسين بهائي ثثـيـتهــ",
     "TRNO": "27194",
     "Darajah": "3CF",
+    "%": "67.33",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 21,
@@ -7738,13 +7739,13 @@ var studentsdata=[
     "Chemistry ": 12,
     "Biology ": 12,
     "الجملة": 202,
-    "Deduction": 0,
-    "%": "67.33"
+    "Deduction": 0
    },
    {
     "الاسم": "نفيسة بائي الشيخ علي اصغر بهائي بار بـهايا",
     "TRNO": "27304",
     "Darajah": "3CF",
+    "%": "62.00",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 20,
@@ -7761,13 +7762,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 13,
     "الجملة": 186,
-    "Deduction": 0,
-    "%": "62.00"
+    "Deduction": 0
    },
    {
     "الاسم": "فاطمة بائي  علي اصغر بهائي انـتري والا",
     "TRNO": "27119",
     "Darajah": "3CF",
+    "%": "67.00",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 27,
@@ -7784,13 +7785,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 16,
     "الجملة": 201,
-    "Deduction": 0,
-    "%": "67.00"
+    "Deduction": 0
    },
    {
     "الاسم": "مريم بائي  يوسف بهائي ثثاطن  والا",
     "TRNO": "27050",
     "Darajah": "3CF",
+    "%": "68.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 9,
     "مختصر الاْثار ": 23,
@@ -7807,13 +7808,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 16,
     "الجملة": 205,
-    "Deduction": 0,
-    "%": "68.33"
+    "Deduction": 0
    },
    {
     "الاسم": "ذهبية بائي الشيخ نعيم بهائي فهيم",
     "TRNO": "27180",
     "Darajah": "3CF",
+    "%": "59.67",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 19,
@@ -7830,13 +7831,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 12,
     "الجملة": 179,
-    "Deduction": 0,
-    "%": "59.67"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة بائي الشيخ يوسف بهائي حامد ( رمكـرٌا والا )",
     "TRNO": "27306",
     "Darajah": "3CF",
+    "%": "60.33",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 7,
     "مختصر الاْثار ": 26,
@@ -7853,13 +7854,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 17,
     "الجملة": 181,
-    "Deduction": 0,
-    "%": "60.33"
+    "Deduction": 0
    },
    {
     "الاسم": "سارة بائي ملا زين الدين بهائي حسن علي",
     "TRNO": "27037",
     "Darajah": "3CF",
+    "%": "66.00",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 8,
     "مختصر الاْثار ": 20,
@@ -7876,13 +7877,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 13,
     "الجملة": 198,
-    "Deduction": 0,
-    "%": "66.00"
+    "Deduction": 0
    },
    {
     "الاسم": "إنسية بائي ملا حذيفة بهائي مرححنضض",
     "TRNO": "27196",
     "Darajah": "3CF",
+    "%": "49.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 16,
@@ -7899,13 +7900,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 15,
     "الجملة": 148,
-    "Deduction": 0,
-    "%": "49.33"
+    "Deduction": 0
    },
    {
     "الاسم": "تسنيم بائي  مصطفى بهائي ايليكــتريك والا",
     "TRNO": "27224",
     "Darajah": "3CF",
+    "%": "60.00",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 17,
@@ -7922,13 +7923,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 16,
     "الجملة": 180,
-    "Deduction": 0,
-    "%": "60.00"
+    "Deduction": 0
    },
    {
     "الاسم": "زهراء بائي  قطب الدين بهائي خان بهائي والا",
     "TRNO": "27105",
     "Darajah": "3CF",
+    "%": "52.67",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 6,
     "مختصر الاْثار ": 14,
@@ -7945,13 +7946,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 10,
     "الجملة": 158,
-    "Deduction": 0,
-    "%": "52.67"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة بائي صاحب هنيد بهائي صاحب بدري",
     "TRNO": "27294",
     "Darajah": "3CF",
+    "%": "48.00",
     "الحفظ (الشفوي)": 8,
     "دراسة علوم القراْن ": 2,
     "مختصر الاْثار ": 17,
@@ -7968,13 +7969,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 13,
     "الجملة": 144,
-    "Deduction": 0,
-    "%": "48.00"
+    "Deduction": 0
    },
    {
     "الاسم": "إنسية بائي الشيخ مصطفى بهائي شاكر",
     "TRNO": "27179",
     "Darajah": "3CF",
+    "%": "56.67",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 1,
     "مختصر الاْثار ": 18,
@@ -7991,13 +7992,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 16,
     "الجملة": 170,
-    "Deduction": 0,
-    "%": "56.67"
+    "Deduction": 0
    },
    {
     "الاسم": "رشيدة بائي ملا مرتضى بهائي جيونجي",
     "TRNO": "27246",
     "Darajah": "3CF",
+    "%": "55.67",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 5,
     "مختصر الاْثار ": 17,
@@ -8014,13 +8015,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 16,
     "الجملة": 167,
-    "Deduction": 0,
-    "%": "55.67"
+    "Deduction": 0
    },
    {
     "الاسم": "اروى بائي ملا مرتضى بهائي دِگام والا",
     "TRNO": "27356",
     "Darajah": "3CF",
+    "%": "42.67",
     "الحفظ (الشفوي)": 6,
     "دراسة علوم القراْن ": 1,
     "مختصر الاْثار ": 10,
@@ -8037,13 +8038,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 13,
     "الجملة": 128,
-    "Deduction": 0,
-    "%": "42.67"
+    "Deduction": 0
    },
    {
     "الاسم": "فريدة بائي ملا خزيمة بهائي قربان حسين",
     "TRNO": "27343",
     "Darajah": "3CF",
+    "%": "38.67",
     "الحفظ (الشفوي)": 8,
     "دراسة علوم القراْن ": 4,
     "مختصر الاْثار ": 7,
@@ -8060,13 +8061,13 @@ var studentsdata=[
     "Chemistry ": 8,
     "Biology ": 11,
     "الجملة": 116,
-    "Deduction": 0,
-    "%": "38.67"
+    "Deduction": 0
    },
    {
     "الاسم": "إبراهيم بهائي  عباس بهائي ضياء ",
     "TRNO": "26823",
     "Darajah": "4AM",
+    "%": "77.67",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 7,
@@ -8086,13 +8087,13 @@ var studentsdata=[
     "Chemistry ": 20,
     "Biology ": 17,
     "الجملة": 233,
-    "Deduction": 0,
-    "%": "77.67"
+    "Deduction": 0
    },
    {
     "الاسم": "طاهر بهائي الشيخ مفضل بهائي ثثارسولا",
     "TRNO": "26825",
     "Darajah": "4AM",
+    "%": "80.33",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 7,
@@ -8112,13 +8113,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 13,
     "الجملة": 241,
-    "Deduction": 0,
-    "%": "80.33"
+    "Deduction": 0
    },
    {
     "الاسم": "مفضل بهائي ملا عبد الحسين بهائي اكبري",
     "TRNO": "26715",
     "Darajah": "4AM",
+    "%": "77.67",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 7,
@@ -8138,13 +8139,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 16,
     "الجملة": 233,
-    "Deduction": 0,
-    "%": "77.67"
+    "Deduction": 0
    },
    {
     "الاسم": "عزيز بهائي ملا معز بهائي الشيخ اكبر علي",
     "TRNO": "26896",
     "Darajah": "4AM",
+    "%": "77.33",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 4,
@@ -8164,13 +8165,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 15,
     "الجملة": 232,
-    "Deduction": 0,
-    "%": "77.33"
+    "Deduction": 0
    },
    {
     "الاسم": "طاهر بهائي ملا حسين بهائي جري والا",
     "TRNO": "26814",
     "Darajah": "4AM",
+    "%": "72.67",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 7,
@@ -8190,13 +8191,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 17,
     "الجملة": 218,
-    "Deduction": 0,
-    "%": "72.67"
+    "Deduction": 0
    },
    {
     "الاسم": "مصطفى بهائي ملا فخر الدين بهائي لوكـهندٌ والا",
     "TRNO": "26848",
     "Darajah": "4AM",
+    "%": "77.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 7,
@@ -8216,13 +8217,13 @@ var studentsdata=[
     "Chemistry ": 19,
     "Biology ": 19,
     "الجملة": 232,
-    "Deduction": 0,
-    "%": "77.33"
+    "Deduction": 0
    },
    {
     "الاسم": "حذيفة بهائي  حاتم بهائي مكة والا",
     "TRNO": "26796",
     "Darajah": "4AM",
+    "%": "81.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 6,
@@ -8242,13 +8243,13 @@ var studentsdata=[
     "Chemistry ": 20,
     "Biology ": 14,
     "الجملة": 244,
-    "Deduction": 0,
-    "%": "81.33"
+    "Deduction": 0
    },
    {
     "الاسم": "ادريس بهائي  حسين بهائي بـندوق والا",
     "TRNO": "26811",
     "Darajah": "4AM",
+    "%": "80.33",
     "الحفظ (الشفوي)": 20,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 8,
@@ -8268,13 +8269,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 16,
     "الجملة": 241,
-    "Deduction": 0,
-    "%": "80.33"
+    "Deduction": 0
    },
    {
     "الاسم": "برهان الدين بهائي  حاتم بهائي وهرا",
     "TRNO": "26782",
     "Darajah": "4AM",
+    "%": "74.00",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 7,
@@ -8294,13 +8295,13 @@ var studentsdata=[
     "Chemistry ": 12,
     "Biology ": 17,
     "الجملة": 222,
-    "Deduction": 0,
-    "%": "74.00"
+    "Deduction": 0
    },
    {
     "الاسم": "عبد القادر بهائي الشيخ مصطفى بهائي طالب",
     "TRNO": "26850",
     "Darajah": "4AM",
+    "%": "61.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 7,
@@ -8320,13 +8321,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 17,
     "الجملة": 184,
-    "Deduction": 0,
-    "%": "61.33"
+    "Deduction": 0
    },
    {
     "الاسم": "حسن بهائي الشيخ زين العابدين بهائي جعفر جي",
     "TRNO": "26948",
     "Darajah": "4AM",
+    "%": "66.00",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 4,
@@ -8346,13 +8347,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 17,
     "الجملة": 198,
-    "Deduction": 0,
-    "%": "66.00"
+    "Deduction": 0
    },
    {
     "الاسم": "طاهر بهائي ملا حذيفة بهائي بحرين والا",
     "TRNO": "26968",
     "Darajah": "4AM",
+    "%": "58.33",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 1,
@@ -8372,13 +8373,13 @@ var studentsdata=[
     "Chemistry ": 12,
     "Biology ": 11,
     "الجملة": 175,
-    "Deduction": 0,
-    "%": "58.33"
+    "Deduction": 0
    },
    {
     "الاسم": "حاتم بهائي ملا إبراهيم بهائي ليليا والا",
     "TRNO": "26776",
     "Darajah": "4AM",
+    "%": "63.67",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 5,
@@ -8398,13 +8399,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 12,
     "الجملة": 191,
-    "Deduction": 0,
-    "%": "63.67"
+    "Deduction": 0
    },
    {
     "الاسم": "برهان الدين بهائي الشيخ شبير حسين بهائي علمدار",
     "TRNO": "26809",
     "Darajah": "4AM",
+    "%": "68.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 6,
@@ -8424,13 +8425,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 18,
     "الجملة": 205,
-    "Deduction": 0,
-    "%": "68.33"
+    "Deduction": 0
    },
    {
     "الاسم": "حذيفة بهائي  علي اصغر بهائي ضضوثثي والا",
     "TRNO": "26947",
     "Darajah": "4AM",
+    "%": "54.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 5,
@@ -8450,13 +8451,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 10,
     "الجملة": 163,
-    "Deduction": 0,
-    "%": "54.33"
+    "Deduction": 0
    },
    {
     "الاسم": "إبراهيم بهائي الشيخ خزيمة بهائي ححوبا والا",
     "TRNO": "26817",
     "Darajah": "4AM",
+    "%": "62.00",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 4,
     "كـتاب الاقـتصار ": 3,
@@ -8476,13 +8477,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 17,
     "الجملة": 186,
-    "Deduction": 0,
-    "%": "62.00"
+    "Deduction": 0
    },
    {
     "الاسم": "سيف الدين بهائي  عباس علي بهائي كانحح والا",
     "TRNO": "26972",
     "Darajah": "4AM",
+    "%": "51.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 2,
@@ -8502,13 +8503,13 @@ var studentsdata=[
     "Chemistry ": 10,
     "Biology ": 11,
     "الجملة": 154,
-    "Deduction": 0,
-    "%": "51.33"
+    "Deduction": 0
    },
    {
     "الاسم": "قـطب خان بهائي الشيخ منصور بهائي عزي",
     "TRNO": "26829",
     "Darajah": "4BM",
+    "%": "73.33",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 6,
@@ -8528,13 +8529,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 15,
     "الجملة": 220,
-    "Deduction": 0,
-    "%": "73.33"
+    "Deduction": 0
    },
    {
     "الاسم": "عدنان بهائي ملا حسين بهائي سيف الدين",
     "TRNO": "26813",
     "Darajah": "4BM",
+    "%": "84.33",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 10,
     "كـتاب الاقـتصار ": 7,
@@ -8554,13 +8555,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 18,
     "الجملة": 253,
-    "Deduction": 0,
-    "%": "84.33"
+    "Deduction": 0
    },
    {
     "الاسم": "برهان الدين بهائي  يعقوب بهائي هاردٌويئر والا",
     "TRNO": "26788",
     "Darajah": "4BM",
+    "%": "83.00",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 6,
@@ -8580,13 +8581,13 @@ var studentsdata=[
     "Chemistry ": 20,
     "Biology ": 17,
     "الجملة": 249,
-    "Deduction": 0,
-    "%": "83.00"
+    "Deduction": 0
    },
    {
     "الاسم": "ابي ذر بهائي ملا شبير بهائي بـهابـها",
     "TRNO": "26802",
     "Darajah": "4BM",
+    "%": "76.00",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 7,
@@ -8606,13 +8607,13 @@ var studentsdata=[
     "Chemistry ": 19,
     "Biology ": 16,
     "الجملة": 228,
-    "Deduction": 0,
-    "%": "76.00"
+    "Deduction": 0
    },
    {
     "الاسم": "برهان الدين بهائي ملا يوسف بهائي انصاري",
     "TRNO": "26910",
     "Darajah": "4BM",
+    "%": "72.33",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 5,
@@ -8632,13 +8633,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 15,
     "الجملة": 217,
-    "Deduction": 0,
-    "%": "72.33"
+    "Deduction": 0
    },
    {
     "الاسم": "مرتضى بهائي  حسين بهائي حامد",
     "TRNO": "26840",
     "Darajah": "4BM",
+    "%": "74.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 7,
@@ -8658,13 +8659,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 19,
     "الجملة": 223,
-    "Deduction": 0,
-    "%": "74.33"
+    "Deduction": 0
    },
    {
     "الاسم": "طاهر بهائي الشيخ قصي بهائي",
     "TRNO": "26891",
     "Darajah": "4BM",
+    "%": "75.00",
     "الحفظ (الشفوي)": 6,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 6,
@@ -8684,13 +8685,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 19,
     "الجملة": 225,
-    "Deduction": 0,
-    "%": "75.00"
+    "Deduction": 0
    },
    {
     "الاسم": "حسين بهائي  قطب الدين بهائي بـهدسورا والا",
     "TRNO": "26807",
     "Darajah": "4BM",
+    "%": "74.00",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 3,
@@ -8710,13 +8711,13 @@ var studentsdata=[
     "Chemistry ": 19,
     "Biology ": 18,
     "الجملة": 222,
-    "Deduction": 0,
-    "%": "74.00"
+    "Deduction": 0
    },
    {
     "الاسم": "حمزة بهائي  حذيفة بهائي الشيخ عبد الحسين",
     "TRNO": "26849",
     "Darajah": "4BM",
+    "%": "63.00",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 3,
@@ -8736,13 +8737,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 17,
     "الجملة": 189,
-    "Deduction": 0,
-    "%": "63.00"
+    "Deduction": 0
    },
    {
     "الاسم": "حذيفة بهائي ملا طاهر بهائي هريانه  والا",
     "TRNO": "26838",
     "Darajah": "4BM",
+    "%": "68.67",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 3,
     "كـتاب الاقـتصار ": 6,
@@ -8762,13 +8763,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 16,
     "الجملة": 206,
-    "Deduction": 0,
-    "%": "68.67"
+    "Deduction": 0
    },
    {
     "الاسم": "محمد بهائي ملا مرتضى بهائي وككـهيلا",
     "TRNO": "26979",
     "Darajah": "4BM",
+    "%": "64.33",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 4,
     "كـتاب الاقـتصار ": 3,
@@ -8788,13 +8789,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 14,
     "الجملة": 193,
-    "Deduction": 0,
-    "%": "64.33"
+    "Deduction": 0
    },
    {
     "الاسم": "طاهر بهائي الشيخ شبير بهائي بدري",
     "TRNO": "26819",
     "Darajah": "4BM",
+    "%": "64.00",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 5,
     "كـتاب الاقـتصار ": 4,
@@ -8814,13 +8815,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 7,
     "الجملة": 192,
-    "Deduction": 0,
-    "%": "64.00"
+    "Deduction": 0
    },
    {
     "الاسم": "مرتضى بهائي  حكيم الدين بهائي فـتـح بهائي",
     "TRNO": "26852",
     "Darajah": "4BM",
+    "%": "58.00",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 4,
     "كـتاب الاقـتصار ": 3,
@@ -8840,13 +8841,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 13,
     "الجملة": 174,
-    "Deduction": 0,
-    "%": "58.00"
+    "Deduction": 0
    },
    {
     "الاسم": "شبير بهائي  حذيفة بهائي اديــثثور والا",
     "TRNO": "26914",
     "Darajah": "4BM",
+    "%": "67.67",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 5,
@@ -8866,13 +8867,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 14,
     "الجملة": 203,
-    "Deduction": 0,
-    "%": "67.67"
+    "Deduction": 0
    },
    {
     "الاسم": "شبير بهائي الشيخ مصطفى بهائي كانچ والا",
     "TRNO": "26792",
     "Darajah": "4BM",
+    "%": "66.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 3,
     "كـتاب الاقـتصار ": 1,
@@ -8892,13 +8893,13 @@ var studentsdata=[
     "Chemistry ": 19,
     "Biology ": 15,
     "الجملة": 199,
-    "Deduction": 0,
-    "%": "66.33"
+    "Deduction": 0
    },
    {
     "الاسم": "علي اصغر بهائي ملا طه بهائي اْنتري",
     "TRNO": "26929",
     "Darajah": "4BM",
+    "%": "53.00",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 5,
     "كـتاب الاقـتصار ": 1,
@@ -8918,13 +8919,13 @@ var studentsdata=[
     "Chemistry ": 12,
     "Biology ": 17,
     "الجملة": 159,
-    "Deduction": 0,
-    "%": "53.00"
+    "Deduction": 0
    },
    {
     "الاسم": "طه بهائي الشيخ خزيمة بهائي محمدي",
     "TRNO": "26970",
     "Darajah": "4BM",
+    "%": "55.33",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 3,
     "كـتاب الاقـتصار ": 4,
@@ -8944,13 +8945,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 14,
     "الجملة": 166,
-    "Deduction": 0,
-    "%": "55.33"
+    "Deduction": 0
    },
    {
     "الاسم": "يوسف بهائي صاحب زين العابدين بهائي صاحب بدري",
     "TRNO": "26912",
     "Darajah": "4BM",
+    "%": "57.33",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 4,
     "كـتاب الاقـتصار ": 5,
@@ -8970,13 +8971,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 14,
     "الجملة": 172,
-    "Deduction": 0,
-    "%": "57.33"
+    "Deduction": 0
    },
    {
     "الاسم": "حسن بهائي الشيخ علي بهائي",
     "TRNO": "26975",
     "Darajah": "4BM",
+    "%": "46.67",
     "الحفظ (الشفوي)": 9,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 5,
@@ -8996,13 +8997,13 @@ var studentsdata=[
     "Chemistry ": 6,
     "Biology ": 12,
     "الجملة": 140,
-    "Deduction": 0,
-    "%": "46.67"
+    "Deduction": 0
    },
    {
     "الاسم": "محمد بهائي  إبراهيم بهائي",
     "TRNO": "26671",
     "Darajah": "4BM",
+    "%": "30.00",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 2,
     "كـتاب الاقـتصار ": 6,
@@ -9022,13 +9023,13 @@ var studentsdata=[
     "Chemistry ": 5,
     "Biology ": 5,
     "الجملة": 90,
-    "Deduction": 0,
-    "%": "30.00"
+    "Deduction": 0
    },
    {
     "الاسم": "برهان الدين بهائي الشيخ محمد بهائي هبة الله",
     "TRNO": "26812",
     "Darajah": "4CM",
+    "%": "80.33",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 6,
@@ -9048,13 +9049,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 17,
     "الجملة": 241,
-    "Deduction": 0,
-    "%": "80.33"
+    "Deduction": 0
    },
    {
     "الاسم": "طاهر بهائي الشيخ ادريس بهائي اْرسي والا",
     "TRNO": "26791",
     "Darajah": "4CM",
+    "%": "78.67",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 8,
@@ -9074,13 +9075,13 @@ var studentsdata=[
     "Chemistry ": 19,
     "Biology ": 20,
     "الجملة": 236,
-    "Deduction": 0,
-    "%": "78.67"
+    "Deduction": 0
    },
    {
     "الاسم": "دانيال بهائي الشيخ معز بهائي بامبوضض",
     "TRNO": "26801",
     "Darajah": "4CM",
+    "%": "89.00",
     "الحفظ (الشفوي)": 20,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 7,
@@ -9100,13 +9101,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 17,
     "الجملة": 267,
-    "Deduction": 0,
-    "%": "89.00"
+    "Deduction": 0
    },
    {
     "الاسم": "عزيز بهائي  معز بهائي تل والا",
     "TRNO": "26822",
     "Darajah": "4CM",
+    "%": "79.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 6,
@@ -9126,13 +9127,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 17,
     "الجملة": 238,
-    "Deduction": 0,
-    "%": "79.33"
+    "Deduction": 0
    },
    {
     "الاسم": "مصطفى بهائي ملا حاتم بهائي بدري",
     "TRNO": "26779",
     "Darajah": "4CM",
+    "%": "74.67",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 6,
@@ -9152,13 +9153,13 @@ var studentsdata=[
     "Chemistry ": 20,
     "Biology ": 15,
     "الجملة": 224,
-    "Deduction": 0,
-    "%": "74.67"
+    "Deduction": 0
    },
    {
     "الاسم": "حسين بهائي ملا سيف الدين بهائي قثثطان",
     "TRNO": "26855",
     "Darajah": "4CM",
+    "%": "71.67",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 6,
@@ -9178,13 +9179,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 17,
     "الجملة": 215,
-    "Deduction": 0,
-    "%": "71.67"
+    "Deduction": 0
    },
    {
     "الاسم": "طه بهائي الشيخ مفضل بهائي بهارمل",
     "TRNO": "26831",
     "Darajah": "4CM",
+    "%": "77.00",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 6,
@@ -9204,13 +9205,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 18,
     "الجملة": 231,
-    "Deduction": 0,
-    "%": "77.00"
+    "Deduction": 0
    },
    {
     "الاسم": "حسين بهائي الشيخ ذاكر بهائي حويلي والا",
     "TRNO": "26827",
     "Darajah": "4CM",
+    "%": "78.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 6,
@@ -9230,13 +9231,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 15,
     "الجملة": 235,
-    "Deduction": 0,
-    "%": "78.33"
+    "Deduction": 0
    },
    {
     "الاسم": "مرتضى بهائي الشيخ مفضل بهائي شاكر",
     "TRNO": "26967",
     "Darajah": "4CM",
+    "%": "70.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 8,
@@ -9256,13 +9257,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 14,
     "الجملة": 211,
-    "Deduction": 0,
-    "%": "70.33"
+    "Deduction": 0
    },
    {
     "الاسم": "تيخوم بهائي الشيخ حذيفة بهائي جري والا",
     "TRNO": "26832",
     "Darajah": "4CM",
+    "%": "67.67",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 4,
@@ -9282,13 +9283,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 16,
     "الجملة": 203,
-    "Deduction": 0,
-    "%": "67.67"
+    "Deduction": 0
    },
    {
     "الاسم": "مصطفى بهائي ملا مرتضى بهائي چيــبا",
     "TRNO": "26847",
     "Darajah": "4CM",
+    "%": "77.00",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 6,
@@ -9308,13 +9309,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 18,
     "الجملة": 231,
-    "Deduction": 0,
-    "%": "77.00"
+    "Deduction": 0
    },
    {
     "الاسم": "شبير بهائي ملا علي اكبر بهائي كـهندٌوه والا",
     "TRNO": "26835",
     "Darajah": "4CM",
+    "%": "61.67",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 6,
@@ -9334,13 +9335,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 14,
     "الجملة": 185,
-    "Deduction": 0,
-    "%": "61.67"
+    "Deduction": 0
    },
    {
     "الاسم": "ابي ذر بهائي ملا القائد جوهر بهائي شاكر",
     "TRNO": "26854",
     "Darajah": "4CM",
+    "%": "58.67",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 5,
     "كـتاب الاقـتصار ": 4,
@@ -9360,13 +9361,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 17,
     "الجملة": 176,
-    "Deduction": 0,
-    "%": "58.67"
+    "Deduction": 0
    },
    {
     "الاسم": "مصطفى بهائي الشيخ حذيفة بهائي رشيد",
     "TRNO": "26786",
     "Darajah": "4CM",
+    "%": "57.67",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 4,
@@ -9386,13 +9387,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 12,
     "الجملة": 173,
-    "Deduction": 0,
-    "%": "57.67"
+    "Deduction": 0
    },
    {
     "الاسم": "كنانة بهائي  حكيم الدين بهائي سروداوالا",
     "TRNO": "26810",
     "Darajah": "4CM",
+    "%": "61.33",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 4,
@@ -9412,13 +9413,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 19,
     "الجملة": 184,
-    "Deduction": 0,
-    "%": "61.33"
+    "Deduction": 0
    },
    {
     "الاسم": "عبد الطيب بهائي ملا خزيمة بهائي موسى جي",
     "TRNO": "26837",
     "Darajah": "4CM",
+    "%": "60.00",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 4,
@@ -9438,13 +9439,13 @@ var studentsdata=[
     "Chemistry ": 9,
     "Biology ": 10,
     "الجملة": 180,
-    "Deduction": 0,
-    "%": "60.00"
+    "Deduction": 0
    },
    {
     "الاسم": "اُبي بهائي  نور الدين بهائي بككـي دورا  والا",
     "TRNO": "26981",
     "Darajah": "4CM",
+    "%": "49.67",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 5,
     "كـتاب الاقـتصار ": 2,
@@ -9464,13 +9465,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 15,
     "الجملة": 149,
-    "Deduction": 0,
-    "%": "49.67"
+    "Deduction": 0
    },
    {
     "الاسم": "حذيفة بهائي صاحب مفضل بهائي صاحب وجيهي",
     "TRNO": "26983",
     "Darajah": "4CM",
+    "%": "50.67",
     "الحفظ (الشفوي)": 3,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 4,
@@ -9490,13 +9491,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 12,
     "الجملة": 152,
-    "Deduction": 0,
-    "%": "50.67"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة بائي الشيخ مفضل بهائي حامد",
     "TRNO": "26842",
     "Darajah": "4BF",
+    "%": "77.00",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 9,
@@ -9516,13 +9517,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 16,
     "الجملة": 231,
-    "Deduction": 0,
-    "%": "77.00"
+    "Deduction": 0
    },
    {
     "الاسم": "حسينة بائي ملا مفضل بهائي مداروالا",
     "TRNO": "26836",
     "Darajah": "4BF",
+    "%": "78.67",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 8,
@@ -9542,13 +9543,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 16,
     "الجملة": 236,
-    "Deduction": 0,
-    "%": "78.67"
+    "Deduction": 0
    },
    {
     "الاسم": "أم كلثوم بائي ملا شبير بهائي اجيني",
     "TRNO": "26834",
     "Darajah": "4BF",
+    "%": "71.67",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 7,
@@ -9568,13 +9569,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 16,
     "الجملة": 215,
-    "Deduction": 0,
-    "%": "71.67"
+    "Deduction": 0
    },
    {
     "الاسم": "اروى بائي  حسين بهائي ككرهي",
     "TRNO": "26816",
     "Darajah": "4BF",
+    "%": "74.67",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 6,
@@ -9594,13 +9595,13 @@ var studentsdata=[
     "Chemistry ": 12,
     "Biology ": 15,
     "الجملة": 224,
-    "Deduction": 0,
-    "%": "74.67"
+    "Deduction": 0
    },
    {
     "الاسم": "رقية بائي  اْمر بهائي جهابـوءا والا",
     "TRNO": "26833",
     "Darajah": "4BF",
+    "%": "75.67",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 7,
@@ -9620,13 +9621,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 17,
     "الجملة": 227,
-    "Deduction": 0,
-    "%": "75.67"
+    "Deduction": 0
    },
    {
     "الاسم": "رقية بائي  علي اصغر بهائي مظظو والا",
     "TRNO": "26800",
     "Darajah": "4BF",
+    "%": "76.33",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 9,
@@ -9646,13 +9647,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 18,
     "الجملة": 229,
-    "Deduction": 0,
-    "%": "76.33"
+    "Deduction": 0
    },
    {
     "الاسم": "منيرة بائي ملا فخر الدين بهائي عزي",
     "TRNO": "26913",
     "Darajah": "4BF",
+    "%": "77.67",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 9,
@@ -9672,13 +9673,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 17,
     "الجملة": 233,
-    "Deduction": 0,
-    "%": "77.67"
+    "Deduction": 0
    },
    {
     "الاسم": "سارة بائي  قريش بهائي زيراثثور والا",
     "TRNO": "26798",
     "Darajah": "4BF",
+    "%": "67.67",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 8,
@@ -9698,13 +9699,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 16,
     "الجملة": 203,
-    "Deduction": 0,
-    "%": "67.67"
+    "Deduction": 0
    },
    {
     "الاسم": "حسينة بائي الشيخ حذيفة بهائي موسى جي",
     "TRNO": "26783",
     "Darajah": "4BF",
+    "%": "76.33",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 7,
@@ -9724,13 +9725,13 @@ var studentsdata=[
     "Chemistry ": 19,
     "Biology ": 14,
     "الجملة": 229,
-    "Deduction": 0,
-    "%": "76.33"
+    "Deduction": 0
    },
    {
     "الاسم": "أم سلمة بائي  حذيفة بهائي زويري",
     "TRNO": "26805",
     "Darajah": "4BF",
+    "%": "76.33",
     "الحفظ (الشفوي)": 20,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 5,
@@ -9750,13 +9751,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 19,
     "الجملة": 229,
-    "Deduction": 0,
-    "%": "76.33"
+    "Deduction": 0
    },
    {
     "الاسم": "رشيدة بائي ملا مرتضى بهائي لئلام والا",
     "TRNO": "26918",
     "Darajah": "4BF",
+    "%": "67.00",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 7,
@@ -9776,13 +9777,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 18,
     "الجملة": 201,
-    "Deduction": 0,
-    "%": "67.00"
+    "Deduction": 0
    },
    {
     "الاسم": "زينب بائي الشيخ القائد جوهر بهائي عزي",
     "TRNO": "26826",
     "Darajah": "4BF",
+    "%": "66.00",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 7,
@@ -9802,13 +9803,13 @@ var studentsdata=[
     "Chemistry ": 10,
     "Biology ": 14,
     "الجملة": 198,
-    "Deduction": 0,
-    "%": "66.00"
+    "Deduction": 0
    },
    {
     "الاسم": "رشيدة بائي  ادريس بهائي دلال",
     "TRNO": "26845",
     "Darajah": "4BF",
+    "%": "58.33",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 5,
     "كـتاب الاقـتصار ": 4,
@@ -9828,13 +9829,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 16,
     "الجملة": 175,
-    "Deduction": 0,
-    "%": "58.33"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة بائي  مرتضى بهائي كانچ والا",
     "TRNO": "26841",
     "Darajah": "4BF",
+    "%": "69.00",
     "الحفظ (الشفوي)": 9,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 3,
@@ -9854,13 +9855,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 14,
     "الجملة": 207,
-    "Deduction": 0,
-    "%": "69.00"
+    "Deduction": 0
    },
    {
     "الاسم": "امة الله بائيصاحب مفضل بهائي صاحب نعماني",
     "TRNO": "26939",
     "Darajah": "4BF",
+    "%": "56.00",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 4,
     "كـتاب الاقـتصار ": 5,
@@ -9880,13 +9881,13 @@ var studentsdata=[
     "Chemistry ": 7,
     "Biology ": 12,
     "الجملة": 168,
-    "Deduction": 0,
-    "%": "56.00"
+    "Deduction": 0
    },
    {
     "الاسم": "أم كلثوم بائي الشيخ القائد جوهر بهائي عزي",
     "TRNO": "26846",
     "Darajah": "4BF",
+    "%": "58.33",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 4,
     "كـتاب الاقـتصار ": 6,
@@ -9906,13 +9907,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 16,
     "الجملة": 175,
-    "Deduction": 0,
-    "%": "58.33"
+    "Deduction": 0
    },
    {
     "الاسم": "زينب بائي  يوسف بهائي قوئيلون والا",
     "TRNO": "26818",
     "Darajah": "4BF",
+    "%": "58.00",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 4,
     "كـتاب الاقـتصار ": 5,
@@ -9932,13 +9933,13 @@ var studentsdata=[
     "Chemistry ": 7,
     "Biology ": 15,
     "الجملة": 174,
-    "Deduction": 0,
-    "%": "58.00"
+    "Deduction": 0
    },
    {
     "الاسم": "عجب بائي الشيخ زهير بهائي محمد علي",
     "TRNO": "26890",
     "Darajah": "4BF",
+    "%": "53.33",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 3,
     "كـتاب الاقـتصار ": 4,
@@ -9958,13 +9959,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 12,
     "الجملة": 160,
-    "Deduction": 0,
-    "%": "53.33"
+    "Deduction": 0
    },
    {
     "الاسم": "زينب بائي الشيخ عمار بهائي زري والا",
     "TRNO": "26789",
     "Darajah": "4BF",
+    "%": "51.67",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 5,
     "كـتاب الاقـتصار ": 3,
@@ -9984,13 +9985,13 @@ var studentsdata=[
     "Chemistry ": 7,
     "Biology ": 15,
     "الجملة": 155,
-    "Deduction": 0,
-    "%": "51.67"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة بائي الشيخ شبير بهائي گودهره والا",
     "TRNO": "26916",
     "Darajah": "4BF",
+    "%": "46.00",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 7,
@@ -10010,13 +10011,13 @@ var studentsdata=[
     "Chemistry ": 6,
     "Biology ": 8,
     "الجملة": 138,
-    "Deduction": 0,
-    "%": "46.00"
+    "Deduction": 0
    },
    {
     "الاسم": "اْمنة بائي الشيخ شعيب بهائي شاكر",
     "TRNO": "26935",
     "Darajah": "4BF",
+    "%": "43.33",
     "الحفظ (الشفوي)": 4,
     "دراسة علوم القراْن ": 2,
     "كـتاب الاقـتصار ": 4,
@@ -10036,13 +10037,13 @@ var studentsdata=[
     "Chemistry ": 7,
     "Biology ": 17,
     "الجملة": 130,
-    "Deduction": 0,
-    "%": "43.33"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة بائي  حسين بهائي ديككو  ثثـيسِـس",
     "TRNO": "27331",
     "Darajah": "4BF",
+    "%": "39.00",
     "الحفظ (الشفوي)": 6,
     "دراسة علوم القراْن ": 5,
     "كـتاب الاقـتصار ": 4,
@@ -10062,13 +10063,13 @@ var studentsdata=[
     "Chemistry ": 7,
     "Biology ": 8,
     "الجملة": 117,
-    "Deduction": 0,
-    "%": "39.00"
+    "Deduction": 0
    },
    {
     "الاسم": "فاطمة بائي الشيخ حاتم بهائي ليليا والا",
     "TRNO": "26820",
     "Darajah": "4CF",
+    "%": "75.33",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 5,
@@ -10088,13 +10089,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 14,
     "الجملة": 226,
-    "Deduction": 0,
-    "%": "75.33"
+    "Deduction": 0
    },
    {
     "الاسم": "زينب بائي ملا علي اصغر بهائي حسن علي",
     "TRNO": "26851",
     "Darajah": "4CF",
+    "%": "70.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 4,
@@ -10114,13 +10115,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 15,
     "الجملة": 211,
-    "Deduction": 0,
-    "%": "70.33"
+    "Deduction": 0
    },
    {
     "الاسم": "شهر بانو بائي الشيخ مصطفى بهائي بدري",
     "TRNO": "26808",
     "Darajah": "4CF",
+    "%": "75.00",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 7,
@@ -10140,13 +10141,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 17,
     "الجملة": 225,
-    "Deduction": 0,
-    "%": "75.00"
+    "Deduction": 0
    },
    {
     "الاسم": "شهر بانو بائي الشيخ القائد جوهر بهائي شاكر",
     "TRNO": "26861",
     "Darajah": "4CF",
+    "%": "74.00",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 6,
@@ -10166,13 +10167,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 19,
     "الجملة": 222,
-    "Deduction": 0,
-    "%": "74.00"
+    "Deduction": 0
    },
    {
     "الاسم": "الفية بائي الشيخ شبير بهائي موربـي والا",
     "TRNO": "26971",
     "Darajah": "4CF",
+    "%": "79.00",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 10,
     "كـتاب الاقـتصار ": 7,
@@ -10192,13 +10193,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 16,
     "الجملة": 237,
-    "Deduction": 0,
-    "%": "79.00"
+    "Deduction": 0
    },
    {
     "الاسم": "إنسية بائي الشيخ زهير بهائي اندور والا",
     "TRNO": "26797",
     "Darajah": "4CF",
+    "%": "68.33",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 7,
@@ -10218,13 +10219,13 @@ var studentsdata=[
     "Chemistry ": 9,
     "Biology ": 17,
     "الجملة": 205,
-    "Deduction": 0,
-    "%": "68.33"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة بائي صاحب مفضل بهائي صاحب عزي",
     "TRNO": "26793",
     "Darajah": "4CF",
+    "%": "72.33",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 8,
@@ -10244,13 +10245,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 17,
     "الجملة": 217,
-    "Deduction": 0,
-    "%": "72.33"
+    "Deduction": 0
    },
    {
     "الاسم": "لمياء بائي ملا حسين بهائي بحرين والا",
     "TRNO": "26785",
     "Darajah": "4CF",
+    "%": "70.33",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 7,
@@ -10270,13 +10271,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 17,
     "الجملة": 211,
-    "Deduction": 0,
-    "%": "70.33"
+    "Deduction": 0
    },
    {
     "الاسم": "نقية بائي الشيخ محمد بهائي داؤد جي والا",
     "TRNO": "26986",
     "Darajah": "4CF",
+    "%": "61.00",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 6,
@@ -10296,13 +10297,13 @@ var studentsdata=[
     "Chemistry ": 10,
     "Biology ": 18,
     "الجملة": 183,
-    "Deduction": 0,
-    "%": "61.00"
+    "Deduction": 0
    },
    {
     "الاسم": "اروى بائي  مرتضى بهائي شاهجاثثور والا",
     "TRNO": "26911",
     "Darajah": "4CF",
+    "%": "70.67",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 4,
@@ -10322,13 +10323,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 12,
     "الجملة": 212,
-    "Deduction": 0,
-    "%": "70.67"
+    "Deduction": 0
    },
    {
     "الاسم": "نقية بائي الشيخ علي اصغر بهائي سيفي",
     "TRNO": "26844",
     "Darajah": "4CF",
+    "%": "75.33",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 4,
@@ -10348,13 +10349,13 @@ var studentsdata=[
     "Chemistry ": 18,
     "Biology ": 16,
     "الجملة": 226,
-    "Deduction": 0,
-    "%": "75.33"
+    "Deduction": 0
    },
    {
     "الاسم": "نعامة بائي الشيخ محمد بهائي هبة الله",
     "TRNO": "26964",
     "Darajah": "4CF",
+    "%": "72.67",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 5,
@@ -10374,13 +10375,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 16,
     "الجملة": 218,
-    "Deduction": 0,
-    "%": "72.67"
+    "Deduction": 0
    },
    {
     "الاسم": "مارية بائي الشيخ علي اصغر بهائي عزي ( ثثوناوالا )",
     "TRNO": "26988",
     "Darajah": "4CF",
+    "%": "59.00",
     "الحفظ (الشفوي)": 7,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 6,
@@ -10400,13 +10401,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 13,
     "الجملة": 177,
-    "Deduction": 0,
-    "%": "59.00"
+    "Deduction": 0
    },
    {
     "الاسم": "أم كلثوم بائي  حذيفة بهائي ادم جي",
     "TRNO": "26966",
     "Darajah": "4CF",
+    "%": "57.00",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 2,
     "كـتاب الاقـتصار ": 4,
@@ -10426,13 +10427,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 10,
     "الجملة": 171,
-    "Deduction": 0,
-    "%": "57.00"
+    "Deduction": 0
    },
    {
     "الاسم": "زينب بائيصاحبة مرتضى بهائي صاحب بدري",
     "TRNO": "26919",
     "Darajah": "4CF",
+    "%": "54.67",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 7,
@@ -10452,13 +10453,13 @@ var studentsdata=[
     "Chemistry ": 12,
     "Biology ": 15,
     "الجملة": 164,
-    "Deduction": 0,
-    "%": "54.67"
+    "Deduction": 0
    },
    {
     "الاسم": "ذهبية بائي الشيخ مفضل بهائي ككارٌي والا",
     "TRNO": "26781",
     "Darajah": "4CF",
+    "%": "48.67",
     "الحفظ (الشفوي)": 7,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 4,
@@ -10478,13 +10479,13 @@ var studentsdata=[
     "Chemistry ": 12,
     "Biology ": 10,
     "الجملة": 146,
-    "Deduction": 0,
-    "%": "48.67"
+    "Deduction": 0
    },
    {
     "الاسم": "رقية بائي الشيخ علي اصغر بهائي",
     "TRNO": "26963",
     "Darajah": "4CF",
+    "%": "64.67",
     "الحفظ (الشفوي)": 11,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 5,
@@ -10504,13 +10505,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 18,
     "الجملة": 194,
-    "Deduction": 0,
-    "%": "64.67"
+    "Deduction": 0
    },
    {
     "الاسم": "زهراء بائي الشيخ مصطفى بهائي ساكر والا",
     "TRNO": "26700",
     "Darajah": "4CF",
+    "%": "50.33",
     "الحفظ (الشفوي)": 13,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 2,
@@ -10530,13 +10531,13 @@ var studentsdata=[
     "Chemistry ": 17,
     "Biology ": 11,
     "الجملة": 151,
-    "Deduction": 0,
-    "%": "50.33"
+    "Deduction": 0
    },
    {
     "الاسم": "اْمنة بائي الشيخ مفضل بهائي هبة الله",
     "TRNO": "26934",
     "Darajah": "4CF",
+    "%": "36.67",
     "الحفظ (الشفوي)": 9,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 2,
@@ -10556,13 +10557,13 @@ var studentsdata=[
     "Chemistry ": 8,
     "Biology ": 12,
     "الجملة": 110,
-    "Deduction": 0,
-    "%": "36.67"
+    "Deduction": 0
    },
    {
     "الاسم": "مارية بائي  يوسف بهائي هاشمي",
     "TRNO": "26784",
     "Darajah": "4AF",
+    "%": "74.67",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 7,
@@ -10582,13 +10583,13 @@ var studentsdata=[
     "Chemistry ": 15,
     "Biology ": 12,
     "الجملة": 224,
-    "Deduction": 0,
-    "%": "74.67"
+    "Deduction": 0
    },
    {
     "الاسم": "حسينة بائي  زين العابدين بهائي خـموسي",
     "TRNO": "26821",
     "Darajah": "4AF",
+    "%": "78.67",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 7,
@@ -10608,13 +10609,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 19,
     "الجملة": 236,
-    "Deduction": 0,
-    "%": "78.67"
+    "Deduction": 0
    },
    {
     "الاسم": "رباب بائي  مرتضى بهائي بوهره",
     "TRNO": "26795",
     "Darajah": "4AF",
+    "%": "79.33",
     "الحفظ (الشفوي)": 7,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 7,
@@ -10634,13 +10635,13 @@ var studentsdata=[
     "Chemistry ": 20,
     "Biology ": 17,
     "الجملة": 238,
-    "Deduction": 0,
-    "%": "79.33"
+    "Deduction": 0
    },
    {
     "الاسم": "تسنيم بائي  عبد القادر بهائي ككـدا والا",
     "TRNO": "26787",
     "Darajah": "4AF",
+    "%": "80.67",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 9,
     "كـتاب الاقـتصار ": 8,
@@ -10660,13 +10661,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 16,
     "الجملة": 242,
-    "Deduction": 0,
-    "%": "80.67"
+    "Deduction": 0
    },
    {
     "الاسم": "تسنيم بائي  محمد بهائي ككـهرٌيالي",
     "TRNO": "26815",
     "Darajah": "4AF",
+    "%": "69.67",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 5,
@@ -10686,13 +10687,13 @@ var studentsdata=[
     "Chemistry ": 10,
     "Biology ": 17,
     "الجملة": 209,
-    "Deduction": 0,
-    "%": "69.67"
+    "Deduction": 0
    },
    {
     "الاسم": "مارية بائي  شبير بهائي بـهابرا والا",
     "TRNO": "26853",
     "Darajah": "4AF",
+    "%": "77.00",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 8,
     "كـتاب الاقـتصار ": 7,
@@ -10712,13 +10713,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 18,
     "الجملة": 231,
-    "Deduction": 0,
-    "%": "77.00"
+    "Deduction": 0
    },
    {
     "الاسم": "مباركة بائي ملا يوسف بهائي باغ والا",
     "TRNO": "26980",
     "Darajah": "4AF",
+    "%": "63.67",
     "الحفظ (الشفوي)": 18,
     "دراسة علوم القراْن ": 5,
     "كـتاب الاقـتصار ": 3,
@@ -10738,13 +10739,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 11,
     "الجملة": 191,
-    "Deduction": 0,
-    "%": "63.67"
+    "Deduction": 0
    },
    {
     "الاسم": "مريم بائي  قطب الدين بهائي خان بهائي والا",
     "TRNO": "26856",
     "Darajah": "4AF",
+    "%": "53.00",
     "الحفظ (الشفوي)": 17,
     "دراسة علوم القراْن ": 4,
     "كـتاب الاقـتصار ": 2,
@@ -10764,13 +10765,13 @@ var studentsdata=[
     "Chemistry ": 11,
     "Biology ": 9,
     "الجملة": 159,
-    "Deduction": 0,
-    "%": "53.00"
+    "Deduction": 0
    },
    {
     "الاسم": "رباب بائي  سيف الدين بهائي بدري",
     "TRNO": "26871",
     "Darajah": "4AF",
+    "%": "69.67",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 4,
     "كـتاب الاقـتصار ": 6,
@@ -10790,13 +10791,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 16,
     "الجملة": 209,
-    "Deduction": 0,
-    "%": "69.67"
+    "Deduction": 0
    },
    {
     "الاسم": "تسنيم بائي  مرتضى بهائي كاتابـجي والا",
     "TRNO": "26830",
     "Darajah": "4AF",
+    "%": "64.67",
     "الحفظ (الشفوي)": 12,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 5,
@@ -10816,13 +10817,13 @@ var studentsdata=[
     "Chemistry ": 16,
     "Biology ": 16,
     "الجملة": 194,
-    "Deduction": 0,
-    "%": "64.67"
+    "Deduction": 0
    },
    {
     "الاسم": "نقية بائي ملا شبير بهائي باجي",
     "TRNO": "26794",
     "Darajah": "4AF",
+    "%": "60.00",
     "الحفظ (الشفوي)": 7,
     "دراسة علوم القراْن ": 4,
     "كـتاب الاقـتصار ": 2,
@@ -10842,13 +10843,13 @@ var studentsdata=[
     "Chemistry ": 10,
     "Biology ": 12,
     "الجملة": 180,
-    "Deduction": 0,
-    "%": "60.00"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة بائي الشيخ شبير بهائي شاكر",
     "TRNO": "26942",
     "Darajah": "4AF",
+    "%": "59.67",
     "الحفظ (الشفوي)": 8,
     "دراسة علوم القراْن ": 7,
     "كـتاب الاقـتصار ": 4,
@@ -10868,13 +10869,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 17,
     "الجملة": 179,
-    "Deduction": 0,
-    "%": "59.67"
+    "Deduction": 0
    },
    {
     "الاسم": "الفية بائي الشيخ محمد بهائي ميـضضهائي والا",
     "TRNO": "26839",
     "Darajah": "4AF",
+    "%": "63.67",
     "الحفظ (الشفوي)": 14,
     "دراسة علوم القراْن ": 4,
     "كـتاب الاقـتصار ": 4,
@@ -10894,13 +10895,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 13,
     "الجملة": 191,
-    "Deduction": 0,
-    "%": "63.67"
+    "Deduction": 0
    },
    {
     "الاسم": "رقية بائي  عبد ابي تراب بهائي ثثوتهي والا",
     "TRNO": "26932",
     "Darajah": "4AF",
+    "%": "58.33",
     "الحفظ (الشفوي)": 8,
     "دراسة علوم القراْن ": 4,
     "كـتاب الاقـتصار ": 5,
@@ -10920,13 +10921,13 @@ var studentsdata=[
     "Chemistry ": 13,
     "Biology ": 13,
     "الجملة": 175,
-    "Deduction": 0,
-    "%": "58.33"
+    "Deduction": 0
    },
    {
     "الاسم": "سكينة بائي الشيخ فخر الدين بهائي نگر والا",
     "TRNO": "26799",
     "Darajah": "4AF",
+    "%": "59.33",
     "الحفظ (الشفوي)": 19,
     "دراسة علوم القراْن ": 2,
     "كـتاب الاقـتصار ": 7,
@@ -10946,13 +10947,13 @@ var studentsdata=[
     "Chemistry ": 8,
     "Biology ": 13,
     "الجملة": 178,
-    "Deduction": 0,
-    "%": "59.33"
+    "Deduction": 0
    },
    {
     "الاسم": "نورية بائي الشيخ يوسف بهائي سيفي",
     "TRNO": "26941",
     "Darajah": "4AF",
+    "%": "49.00",
     "الحفظ (الشفوي)": 5,
     "دراسة علوم القراْن ": 2,
     "كـتاب الاقـتصار ": 4,
@@ -10972,13 +10973,13 @@ var studentsdata=[
     "Chemistry ": 12,
     "Biology ": 11,
     "الجملة": 147,
-    "Deduction": 0,
-    "%": "49.00"
+    "Deduction": 0
    },
    {
     "الاسم": "بتول بائي ملا مصطفى بهائي لـكوني والا",
     "TRNO": "26915",
     "Darajah": "4AF",
+    "%": "55.67",
     "الحفظ (الشفوي)": 6,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 8,
@@ -10998,13 +10999,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 17,
     "الجملة": 167,
-    "Deduction": 0,
-    "%": "55.67"
+    "Deduction": 0
    },
    {
     "الاسم": "نسرين بائي صاحب مستنصر بهائي صاحب حسيني",
     "TRNO": "26925",
     "Darajah": "4AF",
+    "%": "60.00",
     "الحفظ (الشفوي)": 8,
     "دراسة علوم القراْن ": 3,
     "كـتاب الاقـتصار ": 4,
@@ -11024,13 +11025,13 @@ var studentsdata=[
     "Chemistry ": 14,
     "Biology ": 18,
     "الجملة": 180,
-    "Deduction": 0,
-    "%": "60.00"
+    "Deduction": 0
    },
    {
     "الاسم": "فريدة بائي صاحب مفضل بهائي صاحب زكوي",
     "TRNO": "26940",
     "Darajah": "4AF",
+    "%": "49.67",
     "الحفظ (الشفوي)": 5,
     "دراسة علوم القراْن ": 2,
     "كـتاب الاقـتصار ": 3,
@@ -11050,13 +11051,13 @@ var studentsdata=[
     "Chemistry ": 9,
     "Biology ": 11,
     "الجملة": 149,
-    "Deduction": 0,
-    "%": "49.67"
+    "Deduction": 0
    },
    {
     "الاسم": "مارية بائي  حسين بهائي كانچ والا",
     "TRNO": "26936",
     "Darajah": "4AF",
+    "%": "49.33",
     "الحفظ (الشفوي)": 10,
     "دراسة علوم القراْن ": 6,
     "كـتاب الاقـتصار ": 3,
@@ -11076,13 +11077,13 @@ var studentsdata=[
     "Chemistry ": 5,
     "Biology ": 9,
     "الجملة": 148,
-    "Deduction": 0,
-    "%": "49.33"
+    "Deduction": 0
    },
    {
     "الاسم": "رقية بائي  عبد القادر بهائي",
     "TRNO": "26965",
     "Darajah": "4AF",
+    "%": "47.67",
     "الحفظ (الشفوي)": 16,
     "دراسة علوم القراْن ": 1,
     "كـتاب الاقـتصار ": 4,
@@ -11102,13 +11103,13 @@ var studentsdata=[
     "Chemistry ": 9,
     "Biology ": 13,
     "الجملة": 143,
-    "Deduction": 0,
-    "%": "47.67"
+    "Deduction": 0
    },
    {
     "الاسم": "أم هاني بائي  علي اصغر بهائي محمد علي",
     "TRNO": "26937",
     "Darajah": "4AF",
+    "%": "32.00",
     "الحفظ (الشفوي)": 15,
     "دراسة علوم القراْن ": 1,
     "كـتاب الاقـتصار ": 1,
@@ -11128,13 +11129,13 @@ var studentsdata=[
     "Chemistry ": 5,
     "Biology ": 7,
     "الجملة": 96,
-    "Deduction": 0,
-    "%": "32.00"
+    "Deduction": 0
    },
    {
     "الاسم": "زينب بائي الشيخ عبد القادر بهائي ذاكر",
     "TRNO": "26969",
     "Darajah": "4AF",
+    "%": "33.67",
     "الحفظ (الشفوي)": 0,
     "دراسة علوم القراْن ": 1,
     "كـتاب الاقـتصار ": 2,
@@ -11154,8 +11155,7 @@ var studentsdata=[
     "Chemistry ": 4,
     "Biology ": 15,
     "الجملة": 101,
-    "Deduction": 0,
-    "%": "33.67"
+    "Deduction": 0
    }
   ]
 
