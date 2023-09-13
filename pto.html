@@ -21,21 +21,15 @@
     gtag('js', new Date());
     gtag('config', 'G-T70V9YT0E2');
   </script>   
-  <script>
-    const queryString = window.location.search;
-    const urlParams = new URLSearchParams(queryString); 
-    its = urlParams.get('its')
-    document.cookie="its="+its
-    console.log(its)
-  </script>
+
 
 </head>
 
 
 <body onload="modalDelay()">
 
- <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href=".">AJSN Saqafat Ammah</a>
+ <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <a class="navbar-brand" href="">AJSN Saqafat Ammah</a>
     <button
       class="navbar-toggler"
       type="button"
@@ -99,6 +93,11 @@
     </div>
   </div>
 </div>
+
+<br><br><br>
+<h6>
+To view different reports, click a tab on the menu above.
+</h6>
 
 <div id="fasl1" class="container mt-4" style="font-family: Kanz-al-Marjaan; text-align:center; font-size: 1.53rem; font-weight:800; display: none;">
   <h2>Fasl 1 Marks</h2>
@@ -221,12 +220,19 @@ its=getCookie("its")
 
 function modalDelay(){
 if (getCookie("its")==undefined){
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString); 
+  if(urlParams.get('its')!=null){
+    document.cookie="its="+urlParams.get('its');
+    location.reload()
+  }
+  else{
   $(document).ready(function(){
       setTimeout(function(){
           $('#myModal').modal('show');
       }, 1200);
   });}
-}
+}}
 </script>
 
 </body>
